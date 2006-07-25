@@ -1,0 +1,28 @@
+Een '''ippervlakte''' of '''ippervlak''' is e groôtheid die were hift oe hroat dat e twi-dimensionaol hebied is. Da kan d'ippervlakte zien van e twi-dimensionaol hebied, mo wok van e drie-dimensionaole vorm. 't Ippervlak wordt ook wel ''grotte'' henoemd, surtoet a't hoat over [[perceel|percelen]].
+
+Den [[SI]]-eenhied van ippervlak is den [[vierkante meter]], afgekort m². Dien is ofheleid van de SI-eenhied voe lengte, de [[meter]].
+
+== Formules ==
+D'ippervlakte kan azo wordn bereeknd:
+::<math>\iint dA</math> (2D-ippervlak)
+::<math>\iiint dA</math> (3D-ippervlak),
+waobie da'j over 't ippervlak moed [[intehraol|intehreern]].
+
+Verschillnde meetkundihe fihuren die vele voôrnkommn èn simpele formules voe d'ippervlaktete bereken.
+===2D===
+D'ippervlakte van e paor twi-dimensionaole voôrwerp'n:
+*'t Ippervlak van e [[Vierkant (meetkunde)|vierkant]]: lengte × lengte
+*'t Ippervlak van e [[rechthoek]]: lengte × bridte
+*'t Ippervlak van e [[Rute (meetkunde)|rute]]: ogte × bridte
+*'t Ippervlak van e [[drie-oek (meetkunde)|drie-oek]]: ½ × baosis × ogte 
+**d'ippervlakte ku'j ook met de [[formule va Heron]] bereken.
+*'t Ippervlak van e [[cirkel]]: [[pi (wiskunde)|π]] r<SUP>2</SUP> (waobie da r de straole van diene cirkel is).
+
+===3D===
+D'ippervlakte van e paor drie-dimensionaole voôrwerp'n:
+*'t Ippervlak van e [[kubus]]:  6 s², met s de lengte van e ziede van den kubus
+*'t Ippervlak van e [[Bolke (heometrie)|bolke]]: 2 ((l × w) + (l × h) + (w × h)), met l, w en h de lengte, bridte en ogte van de bolke.
+*'t Ippervlak van e  [[bol (lichaom)|bol]]:   4 π r² met r de straole van den bol.
+*'t Ippervlak van e  [[cilinder]]: 2 π r (h + r), met r de straole van de cirkelvormihe baosis, en h d'ogte van de cilinder.
+*'t Ippervlak van e  [[kehel (ruumtelike fihure)|kehel]]: π r (r + √(r² + h²)), met r de straole van de cirkelvormihe baosis, en h d'ogte van de kehel.
+[[category:Meetkunde]]
