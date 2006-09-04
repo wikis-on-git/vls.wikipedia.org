@@ -694,7 +694,7 @@ Image:ArrVeurneLocatie.png|[[Arrondissement Veurne|Veurne]]
 !style="background:#ffdead;" | [[Waorehem|Woarehem]] !! style="background:#ffdead;" | [[Anzehem]]
 |-
 <!--   || Meen || Wevel || Lend || Kort || Kuur || Oarl || Deer || Zweve || Spier || Oavel || Woare || Anzeh -->
-| Man || ? || ? || ? || vint || vint || ? || ? || ? || ? || ? || ? || ?
+| Man || ? || ? || ? || vint || vint, vin || ? || ? || ? || ? || ? || ? || ?
 |-
 <!--   || Meen || Wevel || Lend || Kort || Kuur || Oarl || Deer || Zweve || Spier || Oavel || Woare || Anzeh -->
 | Vrouw (neutraal) || ? || ? || ? || vromins || vromins || ? || ? || ? || ? || ? || ? || ?
@@ -763,7 +763,7 @@ Image:ArrVeurneLocatie.png|[[Arrondissement Veurne|Veurne]]
 |-
 | Wesp ||  ? ||  ? ||  ? || wespe ||  wespe ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
 |-
-| Worm || ? || ? || ? || ? || ? || ? || ? || ? || ? || ? || ? || ?
+| Worm || ? || ? || ? || Tettink || ? || ? || ? || ? || ? || ? || ? || ?
 |}
 
 === Fruut en hroensels ===
@@ -777,23 +777,23 @@ Image:ArrVeurneLocatie.png|[[Arrondissement Veurne|Veurne]]
 !style="background:#ffdead;" | [[Spiere-Helkin|Spiere-Elking]] !! style="background:#ffdead;" | [[Aovelhem|Oavelhem]]
 !style="background:#ffdead;" | [[Waorehem|Woarehem]] !! style="background:#ffdead;" | [[Anzehem]]
 |-
-| Bessen || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
+| Bessen || ?  || ?  || ?  || beezn  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
 |-
-| Biet || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
+| Biet || ?  || ?  || ?  || biete  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
 |-
-| Erwt || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
+| Erwt || ?  || ?  || ?  || erweetn, bollekes  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
 |-
-| Noot  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
+| Noot  || ?  || ?  || ?  || note  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
 |-
-| Prei || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
+| Prei || ?  || ?  || ?  || pret  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
 |-
-| Schorseneren || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
+| Schorseneren || ?  || ?  || ?  || skorsenjirn  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
 |-
-| Sinaasappel || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
+| Sinaasappel || ?  || ?  || ?  || oraj, appelsin  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
 |-
-| Ui || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
+| Ui || ?  || ?  || ?  || andjoen  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
 |-
-| Wortelen || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
+| Wortelen || ?  || ?  || ?  || karoote  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ? 
 |}
 
 === Kleers en soortn stofn ===
@@ -807,21 +807,21 @@ Image:ArrVeurneLocatie.png|[[Arrondissement Veurne|Veurne]]
 !style="background:#ffdead;" | [[Spiere-Helkin|Spiere-Elking]] !! style="background:#ffdead;" | [[Aovelhem|Oavelhem]]
 !style="background:#ffdead;" | [[Waorehem|Woarehem]] !! style="background:#ffdead;" | [[Anzehem]]
 |-
-| Breiwol || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
+| Breiwol || ?  || ?  || ?  || wulle, sjette  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
 |-
-| Diamant || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
+| Diamant || ?  || ?  || ?  || edelstji  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
 |-
 | (Rib)fluweel || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
 |-
-| Katoen (geven) || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
+| Katoen (geven) || ?  || ?  || ?  || goaze, pulle heevn  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
 |-
-| Muts || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
+| Muts || ?  || ?  || ?  || ?  || potske, petse  || ?  || ?  || ?  || ?  || ? || ?  || ?
 |-
-| Pantoffels (toe) || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
+| Pantoffels (toe) || ?  || ?  || ?  || sluffers  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
 |-
-| Pantoffels (open) || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
+| Pantoffels (open) || ?  || ?  || ?  || sandoaln  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
 |-
-| Schoenen || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
+| Schoenen || ?  || ?  || ?  || skoen, oorlohsbwoatn ((te)grote)  || ?  || ?  || ?  || ?  || ?  || ? || ?  || ?
 |}
 
 === Int uus en in nof ===
