@@ -2723,44 +2723,47 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 <!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | Man || ? || ? || ? || ? || ? || ? || vint || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | Vrouw (neutraal) || ? || ? || ? || ? || ? || ? || vromins || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | Vrouw (echtgenote) || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | Attractieve vrouw || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | Wijf (pejoratief) || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | Jongentje || ? || ? || ? || ? || ? || ? || jongentje || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | Meisje || ? || ? || ? || ? || ? || ? || meiske || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | Iemand || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | Koortsblaar || ? || ? || ? || ? || ? || ? || kutsbloaze || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | [[Ruhhe|Rug]] || ? || ? || ? || ? || ? || ? || ruhhe || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | Schouders || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | Het snot || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | Conversatie || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |-
-<!--   || Wiengne || Ardooie || Pittem || Meuleb || Oostroze || Wielsb || Tielt || Ruusl || Deterh -->
 | De praat || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Mens/mensen || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Een oude koning || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Onze zoon || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Mijn hart || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Het Vlaams || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Het Spaans || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| de Franse grens || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| de Vlaamse taal || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |}
 
 ===Beest'n===
@@ -2790,6 +2793,20 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 | Wesp ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
 |-
 | Worm ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
+|-
+| Geit || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Paard || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Vogel || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Muis || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Hond/honden || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Mus/mussen || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Vis/vissen || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |}
 
 === Fruut en groensels ===
@@ -2873,6 +2890,8 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 | Vaatdoek ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
 |-
 | Verf ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || verwe ||  ? ||  ?
+|-
+| Pop || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |}
 
 === Eet'n en drienk'n ===
@@ -2900,6 +2919,10 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 | Tas (groot) ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
 |-
 | Vork ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || vorkette ||  ? ||  ?
+|-
+| Boter || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Pap || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |}
 
 === Nateure ===
@@ -2937,6 +2960,20 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 | Toren ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
 |-
 | Zee ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || zjee ||  ? ||  ?
+|-
+| Zon || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Vuur || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Onkruid || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Muur || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Stad || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Plein/pleinen || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Groentemarkt || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |}
 
 === Cifers ===
@@ -2998,6 +3035,10 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 | Vies, vuil ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
 |-
 | Weinig ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
+|-
+| Duur (€) || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Blij || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |}
 
 === Tusschnvoegsels, voorzetsels ===
@@ -3025,6 +3066,14 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 | Verder ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
 |-
 | Volgende (keer) ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
+|-
+| Ergens  || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Tussen  || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Nergens || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Meer    || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |}
 
 === Werkword'n ===
@@ -3064,6 +3113,20 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 | Uit de weg gaan ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
 |-
 | Ga uit de weg! ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
+|-
+| Blijven || ? || ? || ? || ? || ?  || ? || ? || ? || ?
+|-
+| Vechten || ? || ? || ? || ? || ?  || ? || ? || ? || ?
+|-
+| Wenen || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Brengen || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Gewerkt || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Gezegd || ? || ? || ? || ? || ? || ? || ? || ? || ?
+|-
+| Gebracht || ? || ? || ? || ? || ? || ? || ? || ? || ?
 |}
 
 === Kalender ===
