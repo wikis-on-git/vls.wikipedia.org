@@ -914,21 +914,21 @@ Image:ArrVeurneLocatie.png|[[Arrondissement Veurne|Veurne]] - [[West-Vlams/Detai
 <!--   || Poperienge || Fletern || EuvelLnd || Mjeesn || Ippr || Lang-Poel || Zunne || Wervik -->
 | Man || vent || ? || ? || ? || vint || ? || ? || vint
 |-
-| Vrouw (neutraal) || vrommens, wuf || ? || ? || ? || wuf || ? || ? || wuuf, vromiens
+| Vrouw (neutraal) || vrommens, wuf || ? || ? || ? || wuf || ? || ? || weuf, vromiens
 |-
-| Vrouw (echtgenote) || wuf || ? || ? || ? || wuf || ? || ? || wuuf, vromiens
+| Vrouw (echtgenote) || wuf || ? || ? || ? || wuf || ? || ? || weuf, vromiens
 |-
 | Attractieve vrouw || snelle mokke || ? || ? || ? || mokke || ? || ? || mokke 
 |-
-| Wijf (pejoratief) || wuf || ? || ? || ? || wuf || ? || ? || wuuf 
+| Wijf (pejoratief) || wuf || ? || ? || ? || wuf || ? || ? || weuf 
 |-
-| Jongentje || knechtejoeng, knechtebrakke || ? || ? || ? || knechtjoeng || ? || ? || mannetje, joengetje 
+| Jongentje || knechtejoeng, knechtebrakke || ? || ? || ? || knechtjoeng || ? || ? || mannetje, joengetje, vintje 
 |-
-| Meisje || mèsje, meesejoenk, mèsjekalut || ? || ? || ? || mèsje || ? || ? || meistje, meistn 
+| Meisje || mèsje, meesejoenk, mèsjekalut || ? || ? || ? || mèsje || ? || ? || meistje, meist'n 
 |-
 | Iemand || etwie(n) || ? || ? || ? || etwie(n) || ? || ? || entwien(e) 
 |-
-| Koortsblaar || ? || ? || ? || ? || kuspuuste  || ? || ? || kusbloaze, kuspuuste 
+| Koortsblaar || ? || ? || ? || ? || kuspuuste  || ? || ? || kusbloaze, kuspeuste 
 |-
 | [[Ruhhe|Rug]] || rik || ? || ? || ? || rik  || ? || ? || ruhhe 
 |-
@@ -942,9 +942,9 @@ Image:ArrVeurneLocatie.png|[[Arrondissement Veurne|Veurne]] - [[West-Vlams/Detai
 |-
 | Mens/mensen || ? || ? || ? || ? || ? || ? || ? || miens/miensjn
 |-
-| Een oude koning || ? || ? || ? || ? || ? || ? || ? || nen oud'n keukienk
+| Een oude koning || ? || ? || ? || ? || ? || ? || ? || nen oon keukienk
 |-
-| Onze zoon || ? || ? || ? || ? || ? || ? || ? || uze zeune
+| Onze zoon || ? || ? || ? || ? || ? || ? || ? || euze zeune
 |-
 | Mijn hart || ? || ? || ? || ? || ? || ? || ? || min erte
 |-
@@ -952,7 +952,7 @@ Image:ArrVeurneLocatie.png|[[Arrondissement Veurne|Veurne]] - [[West-Vlams/Detai
 |-
 | Het Spaans || ? || ? || ? || ? || ? || ? || ? || 't Spoans
 |-
-| de Franse grens || ? || ? || ? || ? || ? || ? || ? || de Fransjke grenze
+| de Franse grens || ? || ? || ? || ? || ? || ? || ? || de Fransjke hrenze
 |-
 | de Vlaamse taal || ? || ? || ? || ? || ? || ? || ? || de Vlamsjke toale
 |}
@@ -1072,7 +1072,7 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Emmer || seule ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || seule
 |-
-| Huisje || uuzetje ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || uuzetje
+| Huisje || uuzetje ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || euzetje
 |-
 | Kruiwagen || puppehoale ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || korwoahn
 |-
@@ -1080,7 +1080,7 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Schommel || ruttekokke ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || ballesjiere
 |-
-| Vaatdoek || sjchutteldoek ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || sjkutteldoek
+| Vaatdoek || sjchutteldoek ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || sjkutteldook
 |-
 | Verf || varve ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || verve
 |-
@@ -1099,7 +1099,7 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Bord (schotel) || talloëre ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || assiete, teljore
 |-
-| Boterham || stute ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || stute
+| Boterham || stute ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || steute
 |-
 | Fles || flesje ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || flosjke
 |-
@@ -1130,7 +1130,7 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Brug || bruhhe ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || bruhhe
 |-
-| Buiten || buut'n ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || buutn
+| Buiten || buut'n ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || beut'n
 |-
 | Gras || hes ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || hes 
 |-
@@ -1140,13 +1140,13 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Paardenbloem || beddepisser ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || pissebedde
 |-
-| Idem (blad+wortel) ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
+| Idem (blad+wortel) ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ---
 |-
 | Regen ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || rèèn
 |-
 | Schaduw || sjchouwte ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || sjkouwte
 |-
-| Spleet || herre ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || herre
+| Spleet || herre ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || herre, splette
 |-
 | Stuk (land) || stik ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || stik
 |-
@@ -1156,19 +1156,19 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Zon || ? || ? || ? || ? || ? || ? || ? || de zunne
 |-
-| Licht (van lamp) || ? || ? || ? || ? || ? || ? || ? || lucht
+| Licht (van lamp) || ? || ? || ? || ? || ? || ? || ? || luch(t)
 |-
 | Vuur || ? || ? || ? || ? || ? || ? || ? || vier
 |-
-| Onkruid || ? || ? || ? || ? || ? || ? || ? || (on)kruud
+| Onkruid || ? || ? || ? || ? || ? || ? || ? || (on)kreud
 |-
 | Muur || ? || ? || ? || ? || ? || ? || ? || ne meur
 |-
 | Stad || ? || ? || ? || ? || ? || ? || ? || e stee
 |-
-| Plein/pleinen || ? || ? || ? || ? || ? || ? || ? || en pleing/pleings
+| Plein/pleinen || ? || ? || ? || ? || ? || ? || ? || en pling/plings
 |-
-| Groentemarkt || ? || ? || ? || ? || ? || ? || ? || groenselmaart
+| Groentemarkt || ? || ? || ? || ? || ? || ? || ? || hroonselmaart
 |}
 
 === Cifers ===
@@ -1181,13 +1181,13 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 !style="background:#ffdead;"  | [[Zunnebeke]]
 !style="background:#ffdead;"  | [[Wervik]]
 |-
-| 5 ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || vuve
+| 5 ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || veuve
 |-
 | 15 ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || vihtiene
 |-
 | 50 ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || vihteh
 |-
-| 1000 ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || duust
+| 1000 ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || deust
 |}
 
 === Kleurn ===
@@ -1217,23 +1217,23 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Dun || dinne ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || dinne
 |-
-| Genoeg || enoeh ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || henoeh
+| Genoeg || enoeh ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || henooh
 |-
 | Kwaad ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || vies
 |-
-| Moedig ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || stoet
+| Moedig ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || stoot
 |-
-| Stout || droef ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || droef
+| Stout || droef ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || droof
 |-
 | Verdriet (hartepijn) ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || ertzeer (èèn)
 |-
-| Vies, vuil ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || keezig
+| Vies, vuil ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || keezih, smèèrih
 |-
 | Weinig ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || letter
 |-
 | Duur (€) || ? || ? || ? || ? || ? || ? || ? || diere
 |-
-| Blij || ? || ? || ? || ? || ? || ? || ? || blie, content
+| Blij || ? || ? || ? || ? || ? || ? || ? || blie, conten(t)
 |}
 
 === Tusschnvoegsels, voorzetsels ===
@@ -1260,7 +1260,7 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Verder || vodder ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || vodder
 |-
-| Volgende (keer) || noaste kè ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || noaste (kee)
+| Volgende (keer) || noaste kè ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || noaste kee
 |-
 | Ergens || ? || ? || ? || ? || ?  || ? || ? || entwoast'n
 |-
@@ -1268,7 +1268,7 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Nergens || ? || ? || ? || ? || ? || ? || ? || nievers
 |-
-| Meer || ? || ? || ? || ? || ? || ? || ? || meer
+| Meer || ? || ? || ? || ? || ? || ? || ? || mei
 |}
 
 === Werkword'n ===
@@ -1289,7 +1289,7 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Krabben (jeuk) ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || sjkaartn
 |-
-| Legen || iddeln ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ?
+| Legen || iddeln ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ---
 |-
 | Luiden (klokken) || luudn ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || luujn
 |-
@@ -1303,9 +1303,9 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Schuren ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || sjkeurn
 |-
-| Ik ben || 'k zi(n) ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || kbenne
+| Ik ben || 'k zi(n) ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || 'k benne
 |-
-| Uit de weg gaan || hert'n ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || hertn
+| Uit de weg gaan || hert'n ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || hert'n
 |-
 | Ga uit de weg! || hert! ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || herte joe!
 |-
@@ -1317,11 +1317,11 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Brengen || ? || ? || ? || ? || ? || ? || ? || briengn
 |-
-| Gewerkt || ? || ? || ? || ? || ? || ? || ? || gevrocht
+| Gewerkt || ? || ? || ? || ? || ? || ? || ? || hevroh
 |-
-| Gezegd || ? || ? || ? || ? || ? || ? || ? || gezei(d)
+| Gezegd || ? || ? || ? || ? || ? || ? || ? || hezei
 |-
-| Gebracht || ? || ? || ? || ? || ? || ? || ? || gebrocht
+| Gebracht || ? || ? || ? || ? || ? || ? || ? || hebroh
 |}
 
 === Kalender ===
@@ -1342,7 +1342,7 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Donderdag ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || dunderdoahe
 |-
-| Vrijdag ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || vriedoahe
+| Vrijdag ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || vreedoahe
 |-
 | Zaterdag ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || zoaterdoahe
 |-
@@ -1350,11 +1350,11 @@ Noot: In ZO WVL wordt knechtebrakke gebreukt voor 'n meiske da zich lik ne joeng
 |-
 | Allerheiligen ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || ollerillehen
 |-
-| Kerstmis || kestdag ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || kestdag
+| Kerstmis || kestdag ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || Kestdag
 |-
 | Pinksteren || siengsn ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || siensjn
 |-
-| 15 augustus || oof oe(g)st ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || --
+| 15 augustus || oof oe(g)st ||  ? ||  ? ||  ? ||  ? ||  ? ||  ? || ---
 |}
 
 ==Arrondissement Kortrik==
