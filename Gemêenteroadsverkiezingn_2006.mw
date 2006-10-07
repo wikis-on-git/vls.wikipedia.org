@@ -53,24 +53,12 @@ zal ip 8 oktober angevuld word'n
 }}
 
 <h3>[[Arrondissement Roeseloare]]</h3>
-*[[Roeseloare]]
-{| border="1" cellpadding="5" cellspacing="0" align="center"  style="background-color:#abcdef;text-align:center;"
- ! style="background:#ffdead;" | Partie  !! style="background:#ffdead;" | Begoald percent !! style="background:#ffdead;" | Aantal zetels 
- |-	
- | [[CD&V|CVP]]  || 37.6%	 || 16	
- |-
- | [[VLD]]	||20.3%	||8	
- |-
- | [[SP.a|SP]]	|| 15.2% || 5
- |-
- | VL.BLOK	||9.6%	||3	
- |-
- | AGALEV	||9.2%	||3	
- |-
- | VU-ID	||7,3%	||2	
- |-
- | VISIE	||0,7%	||0
- |}
+{{Gemjeenteroadsverkiezingn|
+|Gemjeente=[[Roeseloare]]
+|partieen=[[CD&V|CVP]]<br>[[VLD]]<br>[[SP.a|SP]]<br>[[Vlaams Belang|VL.BLOK]]<br>[[Groen!|AGALEV]]<br>VU-ID<br>VISIE
+|procenten=37.6%<br>20.3%<br>15.2%<br>9.6%<br>9.2%<br>7.3%<br>0,7%
+|zetels=16<br>8<br>5<br>3<br>3<br>2<br>0
+}}
 
 <h3>[[Arrondissement Tielt]]</h3>
 {{Gemjeenteroadsverkiezingn|
