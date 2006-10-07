@@ -30,41 +30,19 @@ zal ip 8 oktober angevuld word'n
 }}
 
 <h3>[[Arrondissement Kortrik]]</h3>
-*[[Kortrik]]
-{| border="1" cellpadding="5" cellspacing="0" align="center"  style="background-color:#abcdef;text-align:center;"
- ! style="background:#ffdead;" | Partie  !! style="background:#ffdead;" | Begoald percent !! style="background:#ffdead;" | Aantal zetels 
- |-	
- | [[CD&V|CVP]]  || 45,1%	 || 21	
- |-
- | [[VLD]]-VU	||20.8%	||9	
- |-
- | [[SP.a|SP]]	|| 15.5% || 6
- |-
- | VL.BLOK	||9.6%	||3	
- |-
- | AGALEV	||7.4%	||2	
- |-
- | Z.O.O.Z.||0,4%	||0	
- |-
- | PVDA	||0,3%	||0	
- |-
- | NWP	||0,3%	||0
- |}
+{{Gemjeenteroadsverkiezingn|
+|Gemjeente=[[Kortrik]]
+|partieen=[[CD&V|CVP]]<br>[[VLD]]-VU<br>[[SP.a|SP]]<br>[[Vlaams Belang|VL.BLOK]]<br>[[Groen!|AGALEV]]<br>Z.O.O.Z.<br>PVDA
+|procenten=45,1%<br>20.8%<br>15.5%<br>9.6%<br>7.4%<br>0,4%<br>0,3%
+|zetels=21<br>9<br>6<br>3<br>2<br>0<br>0
+}}
 
-*[[Kuurne]]
-{| border="1" cellpadding="5" cellspacing="0" align="center"  style="background-color:#abcdef;text-align:center;"
- ! style="background:#ffdead;" | Partie  !! style="background:#ffdead;" | Begoald percent !! style="background:#ffdead;" | Aantal zetels
- |-
- | Kartel	||40.2%	||10	
- |-	
- | [[CD&V|CVP]]  || 20.4%	 || 5	
- |-
- | Visie	||16.9%	||4	
- |-
- | [[SP.a|SP]]	|| 13.5% || 3
- |-
- | AGALEV	||9.0%	||1
- |}
+{{Gemjeenteroadsverkiezingn|
+|Gemjeente=[[Kuurne]]
+|partieen=Kartel<br>[[CD&V|CVP]]<br>Visie<br>[[SP.a|SP]]<br>[[Groen!|AGALEV]]
+|procenten=40.2%<br>20.4%<br>16.9%<br>13.5%<br>9.0%
+|zetels=10<br>5<br>4<br>3<br>1
+}}
 
 <h3>[[Arrondissement Ostende]]</h3>
 {{Gemjeenteroadsverkiezingn|
