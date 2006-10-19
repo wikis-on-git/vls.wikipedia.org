@@ -150,31 +150,37 @@ Club oat een wat vlakke voorbereiding achter de rugge. Tegn de kljeendere goden 
 ! width=20 style="background:palegreen;"|-
 ! width=25 style="background:palegreen;"|+/-
 ! width=20 style="background:palegreen;"|Ptn
-|- align=center bgcolor=CCFFCC
+
+|- align=center
 | align=right|1.
+| align=left|Tottenham
+| align=center|{{GB-VLAG}} 
+| 1 || 1 || 0 || 0 || 2 || 0 || 2 || '''3'''
+
+|- align=center
+| align=right|2.
 | align=left|Bayer Leverkusen
 | align=center|{{DE-VLAG}} 
 | 1 || 0 || 1 || 0 || 1 || 1 || 0 || '''1'''
+
 |- align=center bgcolor=CCFFCC
-| align=right|2.
+| align=right|3.
 | align=left|Club Brugge
 | align=center|{{BE-VLAG}} 
 | 1 || 0 || 1 || 0 || 1 || 1 || 0 || '''1'''
-|- align=center bgcolor=CCFFCC
-| align=right|3.
-| align=left|Besiktas Istanbul
-| align=center|{{TR-VLAG}} 
-| 0 || 0 || 0 || 0 || 0 || 0 || 0 || '''0'''
+
 |- align=center
 | align=right|4.
 | align=left|Dinamo Boekarest
 | align=center|{{RO-VLAG}} 
 | 0 || 0 || 0 || 0 || 0 || 0 || 0 || '''0'''
-|- align=center
+
+|- align=center bgcolor=CCFFCC
 | align=right|5.
-| align=left|Tottenham
-| align=center|{{GB-VLAG}} 
-| 0 || 0 || 0 || 0 || 0 || 0 || 0 || '''0'''
+| align=left|Besiktas Istanbul
+| align=center|{{TR-VLAG}} 
+| 1 || 0 || 0 || 1 || 0 || 2 || -2 || '''0'''
+
 |}
 
 ==Jeerelieste==
