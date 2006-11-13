@@ -1,0 +1,88 @@
+
+== Binair reekn’n ==
+
+
+Ey oal gepeist oe da je keun tel’n a je moar an elk’n ant ene vinger zoe ein?
+Dan  zoe je tel’n up volg’nde maniere:
+0 = gein vingers tôon’n
+1 = jeine vinger tôon’n an jein ant
+10 = al joen vingers tôon’n
+Binair tel’n es dus eignlik tel’n aij moar twei vingers è en datter moa twei symbool’n voar moar twei siffers bestoan, nul en ein.
+
+Tel’n
+Achter 0 (nul) komt 1 (jein).
+Achter 1 (jein) komt 10 (tiene).
+Achter 10 (tiene) komt 11 (elve), moar achter (11) elve komt, omdatter gein 12 (twoalve) bestoa, 100.
+Dus:
+0 	+ 	1	=	1
+1 	+ 	1	= 	10	
+10 	+ 	1	=	11
+11 	+ 	1	=	100
+100 	+ 	1	=	101
+101 	+ 	1	=	110
+110 	+ 	1	=	111
+111	+	1	=	1000
+
+Ei je gezien dat je ier oak geteld è toetan achte (8) oa je zoe tel’n in tiendeilig stelsel.
+Doe moar zuoa voart.
+1000	+	1	=	1001
+1001	+	1	=	1010
+
+
+== Je keunt ook vermenigvuldig’n en djeil’n ==
+
+Moal tiene (10) è geweun een nul derbie zet’n of en comma verzetten
+
+10	x	10	=	100
+
+Int tiendelig stelsel zoe da 2 x 2 zien en da gift  4 (viere)
+Ewwel 4 (viere) da è inderdoad in ’t binair 100.
+
+11	x	10	=	110
+
+Int tiendelig stelsel zoe da 3 x 2 zien en da geft  6 (zesse)
+Ewwel 6 (zesse) da è inderdoad in ’t binair 110
+
+
+== Oe moe je werk’n mè comma’s? ==
+
+
+
+Einenalf (1,5 in tiendeilige) dat moe 1,1 zin in ’t binair omda den elft van tiene (10) ein (1) is.
+Ai je dus 1,1 + 1,1 doe dan moet dat 11 zin.
+
+Ai je nu (1,1+ 1,1) x 10 doe è da ’t zelfde als 11 + 11 =  110. Dielt da nu deur 10 en g’eit
+11 . 
+
+Of 
+
+1,1
++	1,1
+-----------------
+1+1+1	   ,0 			=  11
+
+ ier moe je weet’n da 1+1 = 10 is. Da eintje van de tiene pak’n we mee en oa je 1+1+1 zie da è 11.
+
+Oe schrif dje nu 5,25 (tiendeilig) in ’t binair
+Ai je da maal 4 doe gift dat 21
+21 in ’t binair da è 10101
+Nu deil’n we 10101 deur 100 ( 100 binair è gelik an 4 tiendeilig)
+Da gift 101,01
+Dus 5,25 è gelik an 101,01
+
+Ai je nu 
+        101,01 
++ 	101,01
+-----------------
+        010,10     en da è gelik an 10,5 (tiendeilig)
+
+Ai je nu
+        1010,10 
++ 	1010,10
+-----------------
+        10101,00     en da è gelik an 21 (tiendeilig)
+
+
+
+categorie
+Olles, weet’nschap, excate weet’schap, wiskunde, getallenleer
