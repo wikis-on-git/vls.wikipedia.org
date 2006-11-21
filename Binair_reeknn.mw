@@ -252,7 +252,7 @@ Toevallig è ne mens an elk ant vuv vingers en ao j' oal joe vingers tôont dan 
 De marsmannekes ein an elk ant moa vier vingers.
 zoa tel'n ze zunder 0=nits    (1 2 3 4)     (5 6 7 10)   (11 12 13 14)   (15 16 17 20)        ....27 30
 iedr groepke è jein ant derbie.
-Da è 't achtdeilig stels'l
+Da è 't achtdeilig (octagonoal) stels'l
 
 De buit'noardse zul'n dan ôver ons stels'l sprek'n van 't twaalfdjeilige stels'l naar unne norm.
 
@@ -261,5 +261,13 @@ zoa tel'n ze zunder 0=nits    (1)    (10)    (11)  (100)
 iedr groepke è jein ant derbie.
 
 De binaire mannekes zul'n dan ôver ons stels'l sprek'n van 't 1010 djeilige stels'l naar unne norm.
+
+De mannekes mè 't an elk ant acht vingers.
+zoa tel'n ze zunder 0=nits    (1 2 3 4 5 6 7 8)     (9 A B C D E F 10)   (11 12 13 14 15 16 17 18)   (19 1A 1B 1C 1D 1E 1F 20)        ....2F 30
+Iedr groepke è jein ant derbie.
+Da è 't zestiendjeilig ( hexadecimoal)stels'l. Ze gebruk'n da vele in compjoet'r programmoatie.
+
+hier zie je oe da j' 255 skrift in tiendjeilige en inoctagonoale en in 't binair en in 't hexadecimoale.
+255 = 377 = 1111 1111 = FF
 
 [[Category:Getallenleer]]
