@@ -593,7 +593,7 @@ Deugniet
 ::Torpedo [[Kortrik]], [[Wervik]]
 
 ;Tsjolen, tsjole, tsjooldr
-:Tsjolen: sukkelen, moar nie vôorut roaken, rondzwerven
+:Tsjolen: sukkelen, moar nie vôorut roaken, rondzwerven;
 :Tsjole: ormoedigoard, sukkeleire
 :Tsjooldr: zwerver
 ::Tsjolen: [[Kortrik]], [[Wervik]]
@@ -607,6 +607,10 @@ Deugniet
 
 ;Trunte, truntekousse
 :Zeurkous
+
+;Truntoart
+zeurpiet, mannelijke versie dus van trunte
+:Truntoart [[Môorslee]]
 
 ;Tusketerwe
 :Tusketerwe is 'maïs' ('n verbastringe van "turkse tarwe")
