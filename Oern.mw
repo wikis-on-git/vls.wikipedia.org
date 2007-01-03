@@ -1,2 +1,112 @@
-{{wiu}}
-Oeren is ekend voe ze kafe de leute. Eigenlijk wast de vroeger tgemeentus van oeren, mo das ol joarn e kafe woa dander vele toeristn zitn. Tis ook nog e militair kerkof in oeren bie tkerksje van oeren. Int kerksje van oeren zin der dikkers tentoanstellingn. Vele meijr dan de leute ent kerksje ist er ni, juste nog e oede herenhofstee.
+{{Infobox Belgische deelgemeente|
+|kaart1=[[Image:OerenLocation.svg|300px]]
+|naam= Oeren
+|provincie=WVLA
+|gemeente=[[Alveringem]]
+|latitudeGraden=51
+|latitudeMinuten=01
+|latitudeSeconden=30
+|longitudeGraden=2
+|longitudeMinuten=42
+|longitudeSeconden=00
+|opp=2,89
+|inw=
+|datum=
+|dichtheid=
+|postcode=8690
+|netn=
+|}}
+'''Oeren''' is e [[dorp]]sje in de [[België|Belgische]] provinsje [[West-Vloandern]] en e [[deelgemeente]] van [[Oalveringem]]. Oeren ligt in de [[Westhoek]] an de [[Lovaart]]. Oeren was e zelfstandige gemeente toet in 1971 en werd tonne bie Oalveringem gevoegd. 't Landbowdorp et een [[ippervlakte]] van 2,89 [[vierkante kilometer|km²]] en nog gin 50 iweuners.
+<br clear=left />
+==Bevolkienge==
+Oeren is oltied e landbowdorp gebleevn. 't Merendeel van de bevolkienge bestoat ton wok uut landbowfamieljes. 't Antal iweuners was op eur oogtepunt in [[1830]], moa zakt sichtentdien were. Surtoet vanof 't begun van de [[20sten eeuw]] oentvolkte Oeren stief.
+===Demografische evoluusje===
+<timeline>
+Colors=
+  id:a value:gray(0.9)
+  id:b value:gray(0.7)
+  id:c value:rgb(1,1,1)
+  id:d value:rgb(0.6,0.7,0.8)
+
+ImageSize  = width:650 height:373
+PlotArea   = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:200
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:b increment:25 start:0
+ScaleMinor = gridcolor:a increment:5 start:0
+BackgroundColors = canvas:c
+
+BarData=
+  bar:1688 text:1688
+  bar:1759 text:1759
+  bar:1794 text:1794
+  bar:1806 text:1806
+  bar:1816 text:1816
+  bar:1830 text:1830
+  bar:1846 text:1846
+  bar:1856 text:1856
+  bar:1866 text:1866
+  bar:1876 text:1876
+  bar:1880 text:1880
+  bar:1890 text:1890
+  bar:1900 text:1900
+  bar:1910 text:1910
+  bar:1920 text:1920
+  bar:1930 text:1930
+  bar:1947 text:1947
+  bar:1961 text:1961
+  bar:1970 text:1970
+
+PlotData=
+  color:d width:20 align:left
+
+  bar:1688 from:0 till: 159
+  bar:1759 from:0 till: 167
+  bar:1794 from:0 till: 144
+  bar:1806 from:0 till: 173
+  bar:1816 from:0 till: 161
+  bar:1830 from:0 till: 194
+  bar:1846 from:0 till: 180
+  bar:1856 from:0 till: 180
+  bar:1866 from:0 till: 153
+  bar:1876 from:0 till: 161
+  bar:1880 from:0 till: 172
+  bar:1890 from:0 till: 170
+  bar:1900 from:0 till: 155
+  bar:1910 from:0 till: 131
+  bar:1920 from:0 till: 137
+  bar:1930 from:0 till: 116
+  bar:1947 from:0 till: 95
+  bar:1961 from:0 till: 76
+  bar:1970 from:0 till: 68
+
+PlotData=
+
+  bar:1688 at: 159 fontsize:s text: 159 shift:(-10,5)
+  bar:1759 at: 167 fontsize:s text: 167 shift:(-10,5)
+  bar:1794 at: 144 fontsize:s text: 144 shift:(-10,5)
+  bar:1806 at: 173 fontsize:s text: 173 shift:(-10,5)
+  bar:1816 at: 161 fontsize:S text: 161 shift:(-10,5)
+  bar:1830 at: 194 fontsize:S text: 194 shift:(-10,5)
+  bar:1846 at: 180 fontsize:S text: 180 shift:(-10,5)
+  bar:1856 at: 180 fontsize:S text: 180 shift:(-10,5)
+  bar:1866 at: 153 fontsize:S text: 153 shift:(-10,5)
+  bar:1876 at: 161 fontsize:S text: 161 shift:(-10,5)
+  bar:1880 at: 172 fontsize:S text: 172 shift:(-10,5)
+  bar:1890 at: 170 fontsize:S text: 170 shift:(-10,5)
+  bar:1900 at: 155 fontsize:S text: 155 shift:(-10,5)
+  bar:1910 at: 131 fontsize:S text: 131 shift:(-10,5)
+  bar:1920 at: 137 fontsize:S text: 137 shift:(-10,5)
+  bar:1930 at: 116 fontsize:S text: 116 shift:(-10,5)
+  bar:1947 at: 95 fontsize:S text: 95 shift:(-10,5)
+  bar:1961 at: 76 fontsize:S text: 76 shift:(-10,5)
+  bar:1970 at: 68 fontsize:S text: 68 shift:(-10,5)
+  
+</timeline>
+<br clear="left">
+<small>Opm:1806 t/m 1970=volkstellingen op 31 december</small>
+
+[[category:Plekke in West-Vloandern]]
+[[category:Oalveringem]]
