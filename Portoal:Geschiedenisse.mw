@@ -2,13 +2,13 @@
 <!-------------------------------------
 Ier begunt de kolonne lienks
 ---------------------------------------->
-|class="MainPageBG" style="width: 55%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top" | 
+|class="MainPageBG" style="width: 75%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top" | 
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff" 
 
 <!---------------------------------
 Middelêeuwen
 ----------------------------------->
-! style="background-color: #DCF4CC; border: 1px solid #9EE072; text-align: left; padding-left: 7px"  | <center> '''Middelêeuwen''' </center>
+! style="background-color: #DCF4CC; border: 1px solid #9EE072; text-align: left; padding-left: 7px"  | <center> '''[[Middelêeuwen]]''' </center>
 |-
 | {{Middelêeuwen}} <br clear="all" />
 <span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Middelêeuwen|bewerk'n]]''</span>
@@ -17,7 +17,7 @@ Middelêeuwen
 <!---------------------------------
 Nieuwn tid
 ----------------------------------->
-! style="background-color: #FFFFCC; border: 1px solid #FFCC66; text-align: left;  padding-left: 7px;"  | <center>'''Nieuwn tid'''</center>
+! style="background-color: #FFFFCC; border: 1px solid #FFCC66; text-align: left;  padding-left: 7px;"  | <center>'''[[Nieuwn tid]]'''</center>
 |-
 | {{Nieuwn tid}} <br clear="all" />
 <span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Nieuwn tid|bewerk'n]]'' </span>
@@ -26,7 +26,7 @@ Nieuwn tid
 <!---------------------------------
 Nieuwst'n tid
 ----------------------------------->
-! style="background-color: #CEDFF2; border: 1px solid #B1CDEB; text-align: left; padding-left: 7px"  | <center> '''Nieuwst'n tid''' </center>
+! style="background-color: #CEDFF2; border: 1px solid #B1CDEB; text-align: left; padding-left: 7px"  | <center> '''[[Nieuwst'n tid]]''' </center>
 |-
 | {{Nieuwst'n tid}} <br clear="all" />
 <span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Nieuwst'n tid|bewerk'n]]''</span>
@@ -35,7 +35,7 @@ Nieuwst'n tid
 <!---------------------------------
 Eigntidsn tid
 ----------------------------------->
-! style="background-color: #F0F3CD; border: 1px solid #DDDDA4; text-align: left; padding-left: 7px"  | <center> '''Eigntidsn tid''' </center>
+! style="background-color: #F0F3CD; border: 1px solid #DDDDA4; text-align: left; padding-left: 7px"  | <center> '''[[Eigntidsn tid]]''' </center>
 |-
 | {{Eigntidsn tid}} <br clear="all" />
 <span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Eigntidsn tid|bewerk'n]]''</span>
