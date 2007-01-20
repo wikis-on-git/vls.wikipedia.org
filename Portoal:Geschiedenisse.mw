@@ -1,0 +1,63 @@
+{| style="border-spacing:8px;margin:0px -8px"
+<!-------------------------------------
+Ier begunt de kolonne lienks
+---------------------------------------->
+|class="MainPageBG" style="width: 55%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top" | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff" 
+
+<!---------------------------------
+Middelêeuwen
+----------------------------------->
+! style="background-color: #DCF4CC; border: 1px solid #9EE072; text-align: left; padding-left: 7px"  | <center> '''Middelêeuwen''' </center>
+|-
+| {{Nieuws}} <br clear="all" />
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Middelêeuwen|bewerk'n]]''</span>
+|-
+
+<!---------------------------------
+Nieuwn tid
+----------------------------------->
+! style="background-color: #FFFFCC; border: 1px solid #FFCC66; text-align: left;  padding-left: 7px;"  | <center>'''Nieuwn tid'''</center>
+|-
+| {{E poar regels}} <br clear="all" />
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Nieuwn tid|bewerk'n]]'' </span>
+|-
+
+<!---------------------------------
+Nieuwst'n tid
+----------------------------------->
+! style="background-color: #CEDFF2; border: 1px solid #B1CDEB; text-align: left; padding-left: 7px"  | <center> '''Nieuwst'n tid''' </center>
+|-
+| {{Belangrike uproep'n}} <br clear="all" />
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Nieuwst'n tid|bewerk'n]]''</span>
+|-
+
+<!---------------------------------
+Eigntidsn tid
+----------------------------------->
+! style="background-color: #F0F3CD; border: 1px solid #DDDDA4; text-align: left; padding-left: 7px"  | <center> '''Eigntidsn tid''' </center>
+|-
+| {{Belangrike uproep'n}} <br clear="all" />
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Eigntidsn tid|bewerk'n]]''</span>
+|-
+
+|}
+
+
+<!-------------------------------------
+Ier begunt de kolonne reks
+---------------------------------------->
+|class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top"| <div style="margin: 4px 4px 2px 4px; text-align: left;">
+{| width="100%" cellpadding="2" cellspacing="1" style="vertical-align:top; background-color:#ffffff; "
+
+
+<!---------------------------------
+Wuk da me geirn zoen ein
+----------------------------------->
+! style="background-color:  #F7CADA; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px"  | <center> Wuk da me geirn zoen ein</center>
+|-
+| {{Wuk da me zere moet'n ein}}
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Wuk da me zere moet'n ein|bewerk'n]]''</span>
+
+|}
+|}
