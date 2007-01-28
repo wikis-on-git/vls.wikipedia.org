@@ -1,7 +1,7 @@
 E '''Fibonacci-getal''' is e begrip uut de wiskunde. 't Makt dêel uut van e reke speciale getalln.
 
 == De Fibonacci-reke ==
-De Fibonacci-reke is oneindig. 't Begunt me [[nul (getal)|nul]] en [[êen (getal)|êen]]. Je verkriegt de reke deur ossan de somme te moak'n van de latste twêe getalln.
+De Fibonacci-reke is oneindig. 't Begunt me [[0 (getal)|nul]] en [[1 (getal)|êe]]. Je verkriegt de reke deur ossan de somme te moak'n van de latste twêe getalln.
 0+1=2, 1+2=3, 2+3=5, 3+5=8, enzovôors.
 
 Dat makt dus: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, ...
