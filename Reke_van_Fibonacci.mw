@@ -22,7 +22,7 @@ Zukken defenisje noem'n ze in de wiskunde n "recursieve" defenisje.
 D'er bestoat ôok nog n andre defenisje die nie recursief es en die in 1730 gepubliceerd es door Abraham de Moivre. Moa die formule es mêestol de formule van Binet genoemd, omda Jacques Binet in 1843 den êesten wos die die formule beweez'n èt.
 (nvdr kmoete nog ne kêe zoekn oe da'k ier wiskundeformules keun upzetten ...)
 
-<math>sqrt(5)</math>
+<math>f(n) = \frac{(1+\sqrt 5)^n - (1-\sqrt 5)^n}{2^n \sqrt 5}</math>
 
 == Voe wuk dien et? ==
 De getallnreke tref je oek an in vele andere wiskundige probleemn. Ze speelt oeder ander e belangrieke rolle bie de Guld'n Sneej.
