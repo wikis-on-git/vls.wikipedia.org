@@ -7,7 +7,22 @@ De Fibonacci-reke is oneindig. 't Begunt me [[0 (getal)|nul]] en [[1 (getal)|êe
 Dat makt dus: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, ...
 
 == Wie zit erachter? ==
-De getallnreke is enoemd na Leonardo va Pisa, biegenoamd Fibonacci. Dat wos een [[Itoalje|Italioanschen]] wiskundigen die leefde roend 1200. D'r woarn verzekers ol andere die deze bezoendere getallnreke addn uutevoen, moa Fibonacci wos 'n êest'n in 't West'n die 't oek op papier ezet et.
+De getallnreke is enoemd na Leonardo Pisano of Leonardo va Pisa, biegenoamd [[Fibonacci]] (letterlik "zeune van Bonaccio"). Dat wos een [[Itoalje|Italioanschen]] wiskundigen die leefde roend 1200. D'r woarn verzekers ol andere die deze bezoendere getallnreke addn uutevoen, moa Fibonacci wos 'n êest'n in 't West'n die 't oek op papier ezet et.
+
+== Defenisje ==
+*In woord'n:
+De reke van Fibonacci es n reke van getall'n wovan ieder illement gelyk es an de somme van de twêe vôrige.
+*In symbolen:
+f(0)=0
+f(1)=1
+f(n)=f(n-2)+f(n-1) voor n > 1
+
+Zukken defenisje noem'n ze in de wiskunde n "recursieve" defenisje.
+
+D'er bestoat ôok nog n andre defenisje die nie recursief es en die in 1730 gepubliceerd es door Abraham de Moivre. Moa die formule es mêestol de formule van Binet genoemd, omda Jacques Binet in 1843 den êesten wos die die formule beweez'n èt.
+(nvdr kmoete nog ne kêe zoekn oe da'k ier wiskundeformules keun upzetten ...)
+
+<math>sqrt(5)</math>
 
 == Voe wuk dien et? ==
 De getallnreke tref je oek an in vele andere wiskundige probleemn. Ze speelt oeder ander e belangrieke rolle bie de Guld'n Sneej.
