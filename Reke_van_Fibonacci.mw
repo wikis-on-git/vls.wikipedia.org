@@ -12,18 +12,18 @@ De getallnreke is enoemd na Leonardo Pisano of Leonardo va Pisa, biegenoamd [[Fi
 
 
 == Defenisje ==
-*In woord'n:
-De reke van Fibonacci es n reke van getall'n wovan ieder illement gelyk es an de somme van de twêe vôrige.
-*In symbolen:
-f(0)=0
-f(1)=1
-f(n)=f(n-2)+f(n-1) voor n > 1
+;In woord'n:
+::De reke van Fibonacci es n reke van getall'n wovan ieder illement gelyk es an de somme van de twêe vôrige.
+;In symbolen:
+::f(0) = 0
+::f(1) = 1
+::f(n) = f(n-2) + f(n-1) voor n > 1
 
 Zukken defenisje noem'n ze in de wiskunde n "recursieve" defenisje.
 
 D'er bestoat ôok nog n andre defenisje die nie recursief es en die in 1730 gepubliceerd es door Abraham de Moivre. Moa die formule es mêestol de formule van Binet genoemd, omda Jacques Binet in 1843 den êesten wos die die formule beweez'n èt.
 
-<math>f(n) = \frac{(1+\sqrt 5)^n - (1-\sqrt 5)^n}{2^n \sqrt 5}</math>
+::<math>f(n) = \frac{(1+\sqrt 5)^n - (1-\sqrt 5)^n}{2^n \sqrt 5}</math>
 
 == Voe wuk dien et? ==
 
