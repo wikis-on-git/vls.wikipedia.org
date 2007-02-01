@@ -83,10 +83,10 @@ Ier begunt de kolonne reks
 <!---------------------------------
 Artikels van dizze moand
 ----------------------------------->
-! style="background-color: #F7CADA; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px"  | <center>'''Nieuw sins {{CURRENTMONTHNAME}} {{CURRENTYEAR}}</center>
+! style="background-color: #F7CADA; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px"  | <center>'''Nieuwe artikels</center>
 |- 
-| {{Nieuwe artikels/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}} <br clear="all" />
-<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Nieuwe artikels/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}|bewerk'n]]''</span>
+| {{Nieuwe artikels}} <br clear="all" />
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Nieuwe artikels|bewerk'n]]''</span>
 |- 
 
 <!---------------------------------
