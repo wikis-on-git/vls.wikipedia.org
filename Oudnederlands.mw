@@ -43,23 +43,28 @@ Ze leid'n dat of uut 't feit da
 Ier begunt de kolonne lienks
 ---------------------------------------->
 |class="MainPageBG" style="width: 50%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top" | 
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff" 
+<div style="margin: 12px 48px; text-align: left;">
+{| width="100%" cellpadding="2" cellspacing="50" style="vertical-align:top; background-color:#ffffff" 
 
 ===uutvol van intervocoale h===
 *ONed. ''a'' ↔ Got. ''ahva'' (water)
 *ONed. ''fē'' ↔ Oudsaks. ''fehes'' (vee)
 *ONed. ''sian'' ↔ Got. ''saihvan'' (zien)
 
+
 ===uutvol van h anlautend voor consonant===
 *ONed. ''ruopan'' ↔ Got. ''hropan'' (roepen)
 *ONed. ''wat'' ↔ OEng. ''hwæt'' (wat)
+
 
 ===th wordt d===
 *ONed. ''tant'' ↔ OEng. ''toþ'' (tand)
 *ONed. ''bruder'' ↔ Got. ''broþar'' (broeder)
 
+
 ===f wordt v===
 *ONed. ''vogala'' ↔ Got. ''fugls'' (vogel)
+
 
 ===ft wordt ht===
 *ONed. ''sahti'' ↔ OEng. ''softe'' (zacht)
@@ -69,7 +74,8 @@ Ier begunt de kolonne lienks
 <!-------------------------------------
 Ier begunt de kolonne reks
 ---------------------------------------->
-|class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top"| <div style="margin: 4px 4px 2px 4px; text-align: left;">
+|class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top"| 
+<div style="margin: 12px 48px; text-align: left;">
 {| width="100%" cellpadding="2" cellspacing="1" style="vertical-align:top; background-color:#ffffff; "
 
 ===diftong ai wordt lange e voor r/w, anders ei===
@@ -77,12 +83,15 @@ Ier begunt de kolonne reks
 *ONed. ''mēro'' ↔ Got. ''mairra'' (meer)
 *ONed. ''stein'' ↔ Got. ''stains'' (steen)
 
+
 ===diftong au wordt lange o voor r/h, anders ou===
 *ONed. ''hōren'' ↔ Got. ''hausjan'' (horen)
 *ONed. ''ouga'' ↔ Got. ''augo'' (oog)
 
+
 ===lange e wordt diftong ie===
 *ONed. ''hiera'' ↔ Got. ''hēr'' (hier)
+
 
 ===lange o wordt diftong uo===
 *ONed. ''fuot'' ↔ Got. ''fōtus'' (voet)
