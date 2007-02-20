@@ -69,9 +69,8 @@ __NOEDITSECTION__
  | Kleur1     = 8898BF
  | Kleur2     = A8D3FF
  | Titel      = Literatuurgeschiedenisse
- | Inoud      = 
-*[[Middelnederlands]]: [[Gruuthuse-andschrift]]
-*[[Oudnederlands]]: [[Wachtendonckse Psalmn]], [[Centroal-Frankischn Rymbybel]]
+ | Inoud      = {{Literatuurgeschiedenisse}}
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Literatuurgeschiedenisse|bewerk'n]]''</span>
 }}
 
 <!------------------Toaln en Streektoaln----------------------->
@@ -79,10 +78,8 @@ __NOEDITSECTION__
  | Kleur1     = 8898BF
  | Kleur2     = A8D3FF
  | Titel      = Toaln en Streektoaln
- | Inoud      = 
-*[[West-Vlams]], [[Frans-Vlams]], [[Vlams]]
-*[[Algemêen Nederlands]]
-*[[Grôniengs]]
+ | Inoud      = {{Toaln en streektoaln}}
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Toaln en streektoaln|bewerk'n]]''</span>
 }}
 
 <!------------------Toalkundige Instelliengn----------------------->
@@ -90,9 +87,8 @@ __NOEDITSECTION__
  | Kleur1     = 8898BF
  | Kleur2     = A8D3FF
  | Titel      = Toalkundige Instelliengn
- | Inoud      = 
-*De [[Nederlandse Taalunie]]
-*[[Akademie_voor_Nuuze_Vlaamsche_Tale|Akademie voor Nuuze Vlaamsche Tale]]
+ | Inoud      = {{Toalkundige instelliengn}}
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Toalkundige instelliengn|bewerk'n]]''</span>
 }}
 
 <!------------------Wuk da me geirn zoen ein----------------------->
@@ -100,13 +96,8 @@ __NOEDITSECTION__
  | Kleur1     = EF98B7
  | Kleur2     = F7CADA
  | Titel      = Wuk da me geirn zoen ein
- | Inoud      = 
-*[[Middelnederlands]], [[Van den vos Reynaerde]], [[Karel ende Elegast]], [[Ferguut]], [[Floris ende Blancefloer]], [[Hadewych]], [[Hendrik van Veldeke]]
-*[[Nederlandse Taalunie]]
-*zie [[Vlams]]: [[Vlams (Nederlands)]], [[Vlams (middeleeuws)]], [[Vlams (dialect)]]
-*[[Oost-Vlams]], [[Zêeuws-Vlams]], [[Broabants]], [[Ollands]], [[Limburgs]], [[Nederfrankisch]], [[Middelfrankisch]], [[Rijnlands]]
-*[[Indo-Europees]], [[Oudgermoans]], [[Noord-Germoans]], [[West-Germoans]], [[Oost-Germoans]]
-*[[Gotisch]], [[Oudnoors]], [[Oudiengels]], [[Oudoogduuts]], [[Oudsaksisch]], [[Oudfries]], [[runenschrift]]
+ | Inoud      = {{Wuk da me geirn zoen ein in Toale}}
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Wuk da me geirn zoen ein in Toale|bewerk'n]]''</span>
 }}
 
 |}
