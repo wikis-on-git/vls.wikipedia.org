@@ -18,33 +18,26 @@ __NOEDITSECTION__
  | Kleur1     = 97BF87
  | Kleur2     = AADDAA
  | Titel      = Standoardvlams
- | Inoud      = 
-*[[Wikipedia:SV_V1.1|Spelliengsregels SV 1.1]]
-*[[Wikipedia:SV_V1.1_Soamnvattienge|Spelliengsregels SV 1.1 (soamngevat)]]
-*Vertoalliste [[Wikipedia:SV-AN|Standoardvlams - Nederlands]] 
-*Vertoalliste [[Wikipedia:AN-SV|Nederlands - Standoardvlams]]
+ | Inoud      = {{Standoardvlams}}
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Standoardvlams|bewerk'n]]''</span>
 }}
 
-<!------------------West-Vlamsche Woord'nschat----------------------->
+<!------------------West-Vlamschn Woord'nschat----------------------->
 {{Portoalkoader
  | Kleur1     = 97BF87
  | Kleur2     = AADDAA
- | Titel      = West-Vlamsche Woord'nschat
- | Inoud      = 
-*[[Wikipedia:Regionoal_West-Vlams|Woord'nliste per gemeente]]
-*[[Typische West-Vlamsche woord'n|Typische West-Vlamsche woord'n ]]
-*[[Wikipedia:Typische_West-Vlamsche_uutdrukkiengn|Typische West-Vlamsche uutdrukkiengn]]
-*[[Verschillen_Vlams%2C_Ollands_en_West-Vlams|Verschillen Vlams, Ollands en West-Vlams]]
+ | Titel      = West-Vlamschn Woord'nschat
+ | Inoud      = {{West-Vlamschn Woord'nschat}}
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:West-Vlamschn Woord'nschat|bewerk'n]]''</span>
 }}
 
-<!------------------West-Vlamsche Vormleer----------------------->
+<!------------------West-Vlamsche Grammatica----------------------->
 {{Portoalkoader
  | Kleur1     = 97BF87
  | Kleur2     = AADDAA
- | Titel      = West-Vlamsche Vormleer
- | Inoud      = 
-*[[Wikipedia:Vormleer|Ippersche-Poperiengsche grammatica]]
-*[[Wikipedia:Vervoegienge van ja, nêe en ols|Vervoegienge van ja, nêe en ols]]
+ | Titel      = West-Vlamsche Grammatica
+ | Inoud      = {{West-Vlamsche Grammatica}}
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:West-Vlamsche Grammatica|bewerk'n]]''</span>
 }}
 
 <!------------------Lokoale Spelliengsafsproak'n----------------------->
@@ -52,9 +45,8 @@ __NOEDITSECTION__
  | Kleur1     = 97BF87
  | Kleur2     = AADDAA
  | Titel      = Lokoale Spelliengsafsproak'n
- | Inoud      = 
-*[[Kortriks]]
-*[[Discuusje:Brugge|Brugs]]
+ | Inoud      = {{Lokoale Spelliengsafsproak'n}}
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Lokoale Spelliengsafsproak'n|bewerk'n]]''</span>
 }}
 
 |}
