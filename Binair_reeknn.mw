@@ -6,7 +6,7 @@ D'er bestoat vôor oeze latste ving'r pertank gin symbool. We moet'n content zin
 
 Vô ol d'andere ving'rs èn we een symbool vôor 't cyfer.
 
-:Gein ving'rs = 0
+:Gin ving'rs = 0
 :Êne ving'r  = 1
 :Twêe ving'rs = 2
 :Drie ving'rs = 3
@@ -30,68 +30,47 @@ Dan  zoe j’ telln up volg’nde maniere:
 
 Binair tel’n es dus eig’nlyk tel’n ai j’ moar twei vingers è en datter moa twei symbool’n voar moar twei siffers bestoan, nul en jein. Binair is eig'nlyk het nul en den andere siffer jein stelsel.
 
-== Tel’n ==
+== Telln ==
 
-Achter 0 (nul) komt 1 (jein).
-
-Achter 1 (jein) komt 10 (tiene).
-
-Achter 10 (tiene) komt 11 (elve), moar achter (11) elve komt, omdatter gein 12 (twoalve) bestoa, 100.
+:achter 0 (nul) komt 1 (êen)
+:achter 1 (êen) komt 10 (tiene)
+:achter 10 (tiene) komt 11 (elve)
+:achter 11 (elve) komt, omdatter gin 12 (twoalve) bestoa, 100.
 
 Dus:
 
-0          +          1          =          1
+:0 + 1 = 1
+:1 + 1 = 10
+:10 + 1 = 11
+:11 + 1 = 100
+:100 + 1 = 101
+:101 + 1 = 110 
+:110 + 1 = 111
+:111 + 1 = 1000
 
-1          +          1          =          10       
+Ei j’ gezien dat j’ier oak geteld è toet an achte (8) oa j’ zoe telln in oes tiendêlig stelsel.
 
-10        +          1          =          11
+Doe moar zô vôort.
 
-11        +          1          =          100
-
-100      +          1          =          101
-
-101      +          1          =          110
-
-110      +          1          =          111
-
-111      +          1          =          1000
-
+:1000 + 1 = 1001
+:1001 + 1 = 1010
  
 
-Ei j’ gezien dat j’ier oak geteld è toet an achte (8) oa j’ zoe tel’n in oes tiendeilig stelsel.
+== Je keunt ook vermenigvuldig’n en dêeln ==
 
-Doe moar zuoa voart.
+Moal tiene (10) è geweun een nul derby zett'n of een komma verzett'n.
 
-1000    +          1          =          1001
+:10 x 10 = 100
 
-1001    +          1          =          1010
 
+In oes tiendelig stelsel zoe da 2 x 2 zyn en da gift 4 (viere).</br>
+Ewwel 4 (viere) da ès inderdoad in ’t binair 100.
+
+:11 x 10 = 110
  
 
-== Je keunt ook vermenigvuldig’n en djeil’n ==
-
-
-Moal tiene (10) è geweun een nul derbie zet’n of u comma verzetten
-
- 
-
-10        x          10        =          100
-
- 
-
-In oes tiendelig stelsel zoe da 2 x 2 zien en da gift  4 (viere)
-
-Ewwel 4 (viere) da ès’inderdoad in ’t binair 100.
-
- 
-
-11        x          10        =          110
-
- 
-
-Int oes tiendelig stelsel zoe da 3 x 2 zien en da gift  6 (zesse)
-
-Ewwel 6 (zesse) da ès’inderdoad in ’t binair 110
+In oes tiendelig stelsel zoe da 3 x 2 zyn en da gift 6 (zesse).</br>
+Ewwel 6 (zesse) da ès inderdoad in ’t binair 110.
 
 
 == Oe moe j’  werk’n mè komma’s? ==
