@@ -89,39 +89,32 @@ of
 
 Ier moe je weet’n da 1+1 = 10 is. Da êentje van de tiene pakk’n we mee en oa j’ 1+1+1 zie dan ès da 11.
 
-== Oe schrif dj’ nu 5,25 (tiendeilig) in ’t binair ==
-Ai j’ da maal 4 doe gift dat 21
+== Oe schrif dj’ nu 5,25 (tiendêlig) in ’t binair ==
+Ai j’ da maal 4 doe gift dat 21.
 
-21 in ’t binair da è 10101
+:21 in ’t binair da è 10101
 
-Nu deil’n we 10101 deur 100 ( 100 binair è gelyk an 4 tiendeilig)
+Nu dêeln 10101 deur 100.
 
-Da gift 101,01
+:100 binair è gelyk an 4 tiendêlig
 
-Dus 5,25 è gelyk an 101,01
+Da gift 101,01.
 
-Ai je nu
-
-           101,01
-
-+          101,01
-
------------------
-
-          1010,10     en da è gelyk an 10,5 (tiendeilig)
-
+:dus 5,25 è gelyk an 101,01
 
 Ai je nu
 
-           1010,10
+    101,01
+ +  101,01
+ ---------
+   1010,10     en da è gelyk an 10,5 (tiendeilig)
 
-+          1010,10
+Ai je nu
 
------------------
-
-          10101,00     en da è gelyk an 21 (tiendeilig)
-
-
+   1010,10
+ + 1010,10
+----------
+  10101,00     en da è gelyk an 21 (tiendeilig)
 
 == Zoa zie j’ da oalles achter de komma  u zoa kan utgelei word’n: ==
 Den elft                                                         è gelyk an                                0,1
