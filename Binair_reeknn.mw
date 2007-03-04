@@ -139,46 +139,30 @@ A j’ nu 0,111 moal 10 doe è j’ 1,11 en da gelyk an 1,75 in tiendêlig. Inde
  -------
   100,10  en da è gelyk an 4,5 (tiendêlig)
 
-== Omzet’n van de tiendjeilige getallen noa binair en omgekeird ==
+== Ommezett’n van de tiendêlige getalln noa binair en omgekêerd ==
+Oe zet je byvôorbeeld 107 omme na binair?
 
- 
+Oa je wit da
+:<math>2^6</math> = 64 
+:<math>2^5</math> = 32
 
-Oa je wit da bievoarbeeld 2tot6de = 64 en 2tot5de = 32, dan zit er bievoarbeeld in 107 eine keir 64 in, moa gen twei keir. Er zit bievoarbeeld oak nog eine keir 2tot5de = 32, enzovoart…
+dan zit er byvôorbeeld in 107 êne kêer 64 in, moa gin twêe kêer.</br>
+Er zit byvôorbeeld ôok nog êne kêer <math>2^5</math> = 32, enzovôort…
 
- 
+:107 = 64 + 32 + 0 + 8 + 0 + 2 + 1
+:107 = (1 * <math>2^6</math>) + (1 * <math>2^5</math>) + (0 * <math>2^4</math>) + (1 * <math>2^3</math>) + (0 * <math>2^2</math>) + (1 * <math>2^1</math>) + (1 * <math>2^0</math>)
+:107 è dus 1101011 in ‘t binair  
 
-107 = 64 + 32+0+8+0+2+1
+Getalln met komma's:
 
-107 = (1*2tot6)+(1*2tot5)+(0*2tot4)+(1*2tot3)+(0*2tot2)+(1*2tot1)+(1*2tot0)
+:107,578125 = 107 + 0,578125
+:107,578125 = 64 + 32 + 0 + 8 + 0 + 2 + 1 + 0,5 + 0 + 0 + 0,0625 + 0 + 0,015625
+:107,578125= (1 * 2tot6) + (1 * 2tot5) + (0 * 2tot4) + (1 * 2tot3) + (0 * 2tot2) + (1 * 2tot1) + (1 * 2tot0) + (1 * (0,5)tot1) + (0 * (0,5)tot2)+ (0 * (0,5)tot3) + (1 * (0,5)tot4) + (0 * (0,5)tot5) + (1 * (0,5)tot6)
 
-107 è dus 1101011 in ‘t binair  
+Je zied’ier da ‘t ginne achter de komma uutgelei kan word’n op de maniere van de macht'n van 0,5 of 2 tôt de negatieve macht'n.
 
- 
-
-Getal’n met kommas
-
- 
-
-107,578125=107 + 0,578125
-
-107,578125= 64 + 32+0+8+0+2+1    +    0,5+0+0+0,0625+0+0,015625
-
- 
-
-107,578125= (1*2tot6)+(1*2tot5)+(0*2tot4)+(1*2tot3)+(0*2tot2)+(1*2tot1)+(1*2tot0)    +   (1*(0,5)tot1)+ (0*(0,5)tot2)+ (0*(0,5)tot3)+ (1*(0,5)tot4)+ (0*(0,5)tot5)+ (1*(0,5)tot6)
-
- 
-
-J’ zied’ier da ‘t geine achter de komma utgelei kan word’n op de maniere van de machten van 0,5 of 2 tôt de negatieve machten.
-
- 
-
-Dus 107,578125  è gelyk an 1101011    + 0,100101 in ‘tbinair
-
- 
-
-Dus 107,578125  è gelyk an 1101011,100101 in ‘tbinair
-
+:107,578125 è gelyk an 1101011 + 0,100101 in 't binair
+:107,578125 è gelyk an 1101011,100101 in 't binair
 
 == Andere stelsels ==
 
