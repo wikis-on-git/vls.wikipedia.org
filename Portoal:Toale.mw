@@ -44,6 +44,17 @@ __NOEDITSECTION__
 <span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:West-Vlamsche Grammatica|bewerk'n]]''</span>
 }}
 
+<!------------------West-Vlamsche Klankleer----------------------->
+{{Portoalkoader
+ | Kleur1     = 97BF87
+ | Kleur2     = AADDAA
+ | Zendje     = Crystal knotify.png
+ | Britte     = 50
+ | Titel      = West-Vlamsche Klankleer
+ | Inoud      = {{West-Vlamsche Klankleer}}
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:West-Vlamsche Klankleer|bewerk'n]]''</span>
+}}
+
 <!------------------Lokoale Spelliengsafsproak'n----------------------->
 {{Portoalkoader
  | Kleur1     = 97BF87
