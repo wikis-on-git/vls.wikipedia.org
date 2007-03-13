@@ -1,4 +1,5 @@
 De '''Gulden snee''' es een specioale veroudienge tussn twêe getallen. Et weirdt het typevôorbeeld van een armonieuze veroudienge genoemd en es nen êeste kêe beschreevn gewist deur de [[oude Griek'n]], die et getal me Φ aanduudigen.
+(In 't Latyn zeggen ze ôok "proportia divina": goddelyke veroudienge)
 
 ==Wiskundig==
 De gulden snee es de veroudienge tussn twee getallen woarvôorn da de volgende regel geldt:
@@ -14,7 +15,12 @@ K + 1 / K = K / 1
 
 K^2 - K - 1 = 0
 
-K = 1.618
+K = 1.618...
+
+Formule: :<math>\varphi = \frac{1+\sqrt{5}}{2} 
+
+
+In woord'n: de gulden snee verdêelt e lyne in 2 oengelyke dêeln, zôdoanig da de veroudienge van 't klènste toet 't grotste dêel gelyk es an de veroudienge van 't grotste dêel toet 't gehêel.
 
 Een andere merkwoardigheid van het getal es dat et gelik es an sqrt(1 + sqrt(1 + sqrt(1 + sqrt(...))))
 
