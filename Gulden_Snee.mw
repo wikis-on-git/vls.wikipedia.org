@@ -3,7 +3,7 @@ De '''Gulden snee''' es een specioale veroudienge tussn twêe getallen. Et weird
 
 ==Wiskundig==
 * In woord'n: de gulden snee verdêelt e lyne in 2 oengelyke dêeln, zôdoanig da de veroudienge van 't klènste toet 't grotste dêel gelyk es an de veroudienge van 't grotste dêel toet 't gehêel.
-[[Afbeelding:Secció àuria - Golden section.png|350px|right]]
+
 * De gulden snee es de veroudienge tussn twee getallen woarvôorn da de volgende regel geldt:
 
 K = grôotste getal
@@ -24,7 +24,16 @@ K = 1.618...
 
 * Formule :<math>\varphi = \frac{1+\sqrt{5}}{2} \approx 1,6180339887499...</math>
 
+* ==Gulden rechtoek==
+[[Afbeelding:Guldensnede.PNG|right]]'n '''Gulden rechtoek''' es ne rechtoek upgebouwd volgens de gulden snee:
 
+De lengte = de brètte maal [[Gulden snede|gulden getal]] 
+<math>\varphi  =(1+\sqrt{5})/2 \approx 1,618</math>.
+
+en dus
+:<math>\frac{a}{b}=\frac{a+b}{a}</math>
+
+Ierin es ''a'' de brètte en ''a'' + ''b'' de lengte.
 
 * Een andere merkwoardigheid van het getal es dat et gelik es an 
 :<math>\varphi = \sqrt{1+\sqrt{1+\sqrt{1+\sqrt{...}}}}</math>
