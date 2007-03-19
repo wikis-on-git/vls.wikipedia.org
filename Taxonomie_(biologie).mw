@@ -6,45 +6,64 @@
 De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 
 {| {{prettytable}}
-! Stamme !! Klasse !! Orde !! Familie !! Geslacht !! Sorte
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Familie !! Geslacht !! Sorte
 |-
-<!-- STAMME ------------------------------------------------- -->
-| colspan = "6" | [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]]) 
+<!-- OENDERRYK --------------------------------------------------------------- -->
+| colspan = "8" | ? 
 |-
-<!-- -------- KLASSE ---------------------------------------- -->
-| || colspan = "5" | [[:Categorie:Veugels|Veugels]] ([[Aves]]) 
+<!-- --------- STAMME -------------------------------------------------------- -->
+| || colspan = "7" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
 |-
-<!-- ----------------- ORDE --------------------------------- -->
-| || || colspan = "4" | [[:Categorie:???|???]] ([[Galliformes]])
+<!-- ---------------- KLASSE ------------------------------------------------- -->
+| || || colspan = "6" | [[:Categorie:Veugels|Veugels]] ([[Aves]]) 
 |-
-<!-- ------------------------ FAMILIE ----------------------- -->
-| || || || colspan = "3" | [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
+<!-- ----------------------- OENDERKLASSE ------------------------------------ -->
+| || || || colspan = "5" | ?
 |-
-<!-- ---------------------------------- GESLACHT + SORTE ---- -->
-| || || || || [[:Categorie:???|???]] (Phasianus) 
+<!-- ------------------------------------ ORDE ------------------------------- -->
+| || || || || colspan = "4" | [[:Categorie:???|???]] ([[Galliformes]])
+|-
+<!-- ----------------------------------------- FAMILIE ----------------------- -->
+| || || || || || colspan = "3" | [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
+|-
+<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
+| || || || || || || [[:Categorie:???|???]] (Phasianus) 
 | [[Fazante]]
 |-
-<!-- ----------------- ORDE --------------------------------- -->
-| || || colspan = "4" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
+<!-- ------------------------------------ ORDE ------------------------------- -->
+| || || || || colspan = "4" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
 |-
-<!-- ------------------------ FAMILIE ----------------------- -->
-| || || || colspan = "3" | [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]])
+<!-- ----------------------------------------- FAMILIE ----------------------- -->
+| || || || || || colspan = "3" | [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]]) 
 |-
-<!-- ---------------------------------- GESLACHT + SORTE ---- -->
-| || || || || [[:Categorie:???|???]] (Turdus)
+<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
+| || || || || || || [[:Categorie:???|???]] (Turdus)
 | [[Merelaan]]
 |-
-<!-- -------- KLASSE ---------------------------------------- -->
-| || colspan = "5" | [[:Categorie:Zoogbêestn|Zoogbêestn]] ([[Mammalia]]) 
+<!-- ---------------- KLASSE ------------------------------------------------- -->
+| || || colspan = "6" |[[:Categorie:Zoogbêestn|Zoogbêestn]] ([[Mammalia]]) 
 |-
-<!-- ----------------- ORDE --------------------------------- -->
-| || || colspan = "4" | [[:Categorie:Vleeseters|Vlêeseters]] ([[Carnivora]])
+<!-- ----------------------- OENDERKLASSE ------------------------------------ -->
+| || || || colspan = "5" | ?
 |-
-<!-- ------------------------ FAMILIE ----------------------- -->
-| || || || colspan = "3" | [[:Categorie:Katachtigen|Katachtigen]] ([[Felidae]]) 
+<!-- ------------------------------------ ORDE ------------------------------- -->
+| || || || || colspan = "4" | [[:Categorie:Eevnoevigen|Eevnoevigen]] ([[Artiodactyla]])
 |-
-<!-- ---------------------------------- GESLACHT + SORTE ---- -->
-| || || || || [[:Categorie:Klene kattn|Klene kattn]] ([[Felis]]) 
+<!-- ----------------------------------------- FAMILIE ----------------------- -->
+| || || || || || colspan = "3" | [[:Categorie:Zwyns|Zwyns]] ([[Suidae]])
+|-
+<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
+| || || || || || || [[:Categorie:???|???]] ([[Sus]]) 
+| [[Zwyn]]
+|-
+<!-- ------------------------------------ ORDE ------------------------------- -->
+| || || || || colspan = "4" | [[:Categorie:Vleeseters|Vlêeseters]] ([[Carnivora]])
+|-
+<!-- ----------------------------------------- FAMILIE ----------------------- -->
+| || || || || || colspan = "3" | [[:Categorie:Katachtigen|Katachtigen]] ([[Felidae]]) 
+|-
+<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
+| || || || || || || [[:Categorie:Klene kattn|Klene kattn]] ([[Felis]]) 
 | [[Katte]]
 |-
 |}
