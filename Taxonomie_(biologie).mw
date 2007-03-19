@@ -1,21 +1,52 @@
 {{wiu}}
 '''Taxonomie''' es de noame dan ze in de [[biologie]] geevn an de '''weetnschappelikke ordenienge''' van levende organismen. 't Word es ofkomstig van 't Grieks ''taxon'' (groep). Taxonomie verwyst nie ollene na d'indelienge zevve, moa ook na de '''methode''' da je gebruukt vo in te deeln.
 
-==Taxonomie van 't Ryk der Bêestn==
+==Taxonomie van 't [[Ryk der Bêestn]] ([[Animalia]])==
 
 De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 
 {| {{prettytable}}
 ! Stamme !! Klasse !! Orde !! Familie !! Geslacht !! Sorte
 |-
-| [[:Categorie:Chordabêestn|Chordabêestn]] (Chordata) 
-| [[:Categorie:Zoogbêestn|Zoogbêestn]] (Mammalia) 
-| [[:Categorie:Vleeseters|Vlêeseters]] (Carnivora) 
-|  || || 
+<!-- STAMME ------------------------------------------------- -->
+| colspan = "6" | [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]]) 
 |-
-| || || 
-| [[:Categorie:Katachtigen|Katachtigen]] (Felidae)
-| [[:Categorie:Klene kattn|Klene kattn]] (Felis) || [[Katte]]
+<!-- -------- KLASSE ---------------------------------------- -->
+| || colspan = "5" | [[:Categorie:Veugels|Veugels]] ([[Aves]]) 
+|-
+<!-- ----------------- ORDE --------------------------------- -->
+| || || colspan = "4" | [[:Categorie:???|???]] ([[Galliformes]])
+|-
+<!-- ------------------------ FAMILIE ----------------------- -->
+| || || || colspan = "3" | [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
+|-
+<!-- ---------------------------------- GESLACHT + SORTE ---- -->
+| || || || || [[:Categorie:???|???]] (Phasianus) 
+| [[Fazante]]
+|-
+<!-- ----------------- ORDE --------------------------------- -->
+| || || colspan = "4" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
+|-
+<!-- ------------------------ FAMILIE ----------------------- -->
+| || || || colspan = "3" | [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]])
+|-
+<!-- ---------------------------------- GESLACHT + SORTE ---- -->
+| || || || || [[:Categorie:???|???]] (Turdus)
+| [[Merelaan]]
+|-
+<!-- -------- KLASSE ---------------------------------------- -->
+| || colspan = "5" | [[:Categorie:Zoogbêestn|Zoogbêestn]] ([[Mammalia]]) 
+|-
+<!-- ----------------- ORDE --------------------------------- -->
+| || || colspan = "4" | [[:Categorie:Vleeseters|Vlêeseters]] ([[Carnivora]])
+|-
+<!-- ------------------------ FAMILIE ----------------------- -->
+| || || || colspan = "3" | [[:Categorie:Katachtigen|Katachtigen]] ([[Felidae]]) 
+|-
+<!-- ---------------------------------- GESLACHT + SORTE ---- -->
+| || || || || [[:Categorie:Klene kattn|Klene kattn]] ([[Felis]]) 
+| [[Katte]]
+|-
 |}
 
 [[Categorie: Biologie]]
