@@ -24,7 +24,7 @@ De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 | || || || || colspan = "5" | [[:Categorie:Puutn en paddn|Puutn en paddn]] ([[Anura]])
 |-
 <!-- ------------------------------------ OENDER ORDE ------------------------------- -->
-| || || || || || colspan = "4" | [[:Categorie:???|???]] ([[Neobatrachia]])
+| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[Neobatrachia]])
 |-
 <!-- ------------------------------------------------ FAMILIE ----------------------------- -->
 | || || || || || || colspan = "3" | [[:Categorie:Echte paddn|Echte paddn]] ([[Bufonidae]]) 
@@ -42,6 +42,22 @@ De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 <!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
 | || || || || || || 
 | [[:Categorie:Puutn|Puutn]] ([[Rana]]) || [[Brune puut]], [[Groene puut]]
+|-
+<!-- ------------------------------- ORDE ----------------------------------- -->
+| || || || || colspan = "5" | [[:Categorie:Salamanders|Salamanders]] ([[Caudata ]])
+|-
+<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[Salamandroidea]])
+|-
+<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
+| || || || || || || colspan = "3" | [[:Categorie:Echte salamanders|Echte salamanders]] ([[Salamandridae]]) 
+|-
+<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
+| || || || || || || 
+| [[:Categorie:?|?]] ([[Triturus]]) || [[Salamander]]
+|-
+| || || || || || || 
+| [[:Categorie:?|?]] ([[Triturus]]) || [[Kamsalamander]], [[Klêen Woatersalamander]], [[Vinpôotsalamander]]
 |-
 <!-- ============================================================================================ -->
 ! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte
@@ -114,7 +130,7 @@ De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 |-
 <!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
 | || || || || || || 
-| [[:Categorie:???|???]] ([[Sus]]) || [[Zwyn]]
+| [[:Categorie:?|?]] ([[Sus]]) || [[Zwyn]]
 |-
 <!-- ------------------------------- ORDE ----------------------------------- -->
 | || || || || colspan = "5" | [[:Categorie:Vleeseters|Vlêeseters]] ([[Carnivora]])
@@ -156,6 +172,34 @@ De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 <!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
 | || || || || || || 
 | [[:Categorie:?|?]] ([[?]]) || [[Sprienkoander]]
+|-
+<!-- ============================================================================================ -->
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte
+|-
+<!-- OENDERRYK ------------------------------ -->
+| colspan = "9" | [[:Categorie:?|?]] ([[?]])
+|-
+<!-- --------- STAMME ------------------------------ -->
+| || colspan = "8" |  [[:Categorie:Riengwurms|Riengwurms]] ([[Annelida]])
+|-
+<!-- ---------------- KLASSE ------------------------------- -->
+| || || colspan = "7" | [[:Categorie:?|?]] ([[Clitellata]]) 
+|-
+<!-- ----------------------- OENDERKLASSE --------------------------- -->
+| || || || colspan = "6" | [[:Categorie:?|?]] ([[?]]) 
+|-
+<!-- ------------------------------- ORDE ----------------------------------- -->
+| || || || || colspan = "5" | [[:Categorie:?|?]] ([[Haplotaxida]])
+|-
+<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+|-
+<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
+| || || || || || || colspan = "3" | [[:Categorie:?|?]] ([[Lumbricidae]]) 
+|-
+<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
+| || || || || || || 
+| [[:Categorie:?|?]] ([[?]]) || [[Wurme]]
 |-
 |}
 
