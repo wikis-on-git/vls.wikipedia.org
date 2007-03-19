@@ -1,5 +1,15 @@
-E '''gehêel getal''' es e getal da in de verzoamelienge <math>\Z</math> zit. Anders gezei, e getal es element van de verzoamelienge van de gehêle getall'n, as 't negatief, nul of positief es... 't Mag wel gin kommagetal zyn. 
+E '''gehêel getal''' es e getal da in de verzoamelienge <math>\Z</math> zit. Da zyn de getalln 0, 1, 2, 3, ..., -1, -2, -3, ...
+Anders gezeid, e getal es illement van de verzoamelienge van de gehêle getalln, as 't negatief, nul of positief es... 't Mag dus wel gin kommagetal zyn. 
 
 Nog kêe anders gezei: 't is een uutbreidienge van de [[Natuurlyk getal|natuurlyke getall'n]] mè de negatieve getalln.
+
+Wiskundig kaj de gehêle getalln omschrievn als de klêenste verzoamelienge me de eigenschappn:
+:<math>0 \in \mathbb{Z}</math>
+:<math>z \in \mathbb{Z} \implies z + 1 \in \mathbb{Z}</math>
+:<math>z \in \mathbb{Z} \implies z - 1 \in \mathbb{Z}</math>
+
+De uptellienge, oftrekkienge en de vermenigvuldigienge van gehêle getalln es "inwendig", da wilt zeggn da de uutkomste were n gehêel getal es. De delienge is nie oltied 'n gehêel getal, bevôorbild: 6:7 zit nie in <math>\Z</math>.
+Doadeure es 't nôdig vo 'n nieuwe verzoamelienge getalln te definiëren: de [[rationoale getalln]]
+
 
 [[Categorie:Getal]]
