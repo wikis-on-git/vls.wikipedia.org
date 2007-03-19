@@ -6,6 +6,7 @@
 De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 
 {| {{prettytable}}
+<!-- ========================================================================= -->
 ! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Familie !! Geslacht !! Sorte
 |-
 <!-- OENDERRYK --------------------------------------------------------------- -->
@@ -21,10 +22,14 @@ De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 | || || || colspan = "5" | ?
 |-
 <!-- ------------------------------------ ORDE ------------------------------- -->
-| || || || || colspan = "4" | [[:Categorie:???|???]] ([[Galliformes]])
+| || || || || colspan = "4" | [[:Categorie:Onderveugels|Onderveugels]] ([[Galliformes]])
 |-
 <!-- ----------------------------------------- FAMILIE ----------------------- -->
 | || || || || || colspan = "3" | [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
+|-
+<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
+| || || || || || || [[:Categorie:???|???]] (Gallus) 
+| [[Enne]]
 |-
 <!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
 | || || || || || || [[:Categorie:???|???]] (Phasianus) 
@@ -39,6 +44,15 @@ De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 <!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
 | || || || || || || [[:Categorie:???|???]] (Turdus)
 | [[Merelaan]]
+|-
+<!-- ========================================================================= -->
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Familie !! Geslacht !! Sorte
+|-
+<!-- OENDERRYK --------------------------------------------------------------- -->
+| colspan = "8" | ? 
+|-
+<!-- --------- STAMME -------------------------------------------------------- -->
+| || colspan = "7" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
 |-
 <!-- ---------------- KLASSE ------------------------------------------------- -->
 | || || colspan = "6" |[[:Categorie:Zoogbêestn|Zoogbêestn]] ([[Mammalia]]) 
@@ -65,6 +79,31 @@ De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 <!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
 | || || || || || || [[:Categorie:Klene kattn|Klene kattn]] ([[Felis]]) 
 | [[Katte]]
+|-
+<!-- ========================================================================= -->
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Familie !! Geslacht !! Sorte
+|-
+<!-- OENDERRYK --------------------------------------------------------------- -->
+| colspan = "8" | [[:Categorie:Zespotigen|Zespotigen]] ([[Hexapoda]])
+|-
+<!-- --------- STAMME -------------------------------------------------------- -->
+| || colspan = "7" |  [[:Categorie:Geleedpotigen|Geleedpotigen]] ([[Arthropoda]])
+|-
+<!-- ---------------- KLASSE ------------------------------------------------- -->
+| || || colspan = "6" | [[:Categorie:Instectn|Insectn]] ([[Insecta]]) 
+|-
+<!-- ----------------------- OENDERKLASSE ------------------------------------ -->
+| || || || colspan = "5" | [[:Categorie:Gevleugelde Instectn|Gevleugelde Insectn]] ([[Pterygota]]) 
+|-
+<!-- ------------------------------------ ORDE ------------------------------- -->
+| || || || || colspan = "4" | [[:Categorie:Sprienkoanders en krekels|Sprienkoanders en krekels]] ([[Orthoptera]])
+|-
+<!-- ----------------------------------------- FAMILIE ----------------------- -->
+| || || || || || colspan = "3" | [[:Categorie:Sprienkoanders|Sprienkoanders]] ([[Acrididae]]) 
+|-
+<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
+| || || || || || || ?
+| [[Sprienkoander]]
 |-
 |}
 
