@@ -5,136 +5,157 @@
 De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 
 {| {{prettytable}}
-<!-- ========================================================================= -->
-! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Familie !! Geslacht !! Sorte
+<!-- ============================================================================================ -->
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte
 |-
-<!-- OENDERRYK --------------------------------------------------------------- -->
-| colspan = "8" | ? 
+<!-- OENDERRYK ------------------------------ -->
+| colspan = "9" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- --------- STAMME -------------------------------------------------------- -->
-| || colspan = "7" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
+<!-- --------- STAMME ------------------------------ -->
+| || colspan = "8" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
 |-
-<!-- ---------------- KLASSE ------------------------------------------------- -->
-| || || colspan = "6" | [[:Categorie:Amfibieën|Amfibieën]] ([[Amphibia]]) 
+<!-- ---------------- KLASSE ------------------------------- -->
+| || || colspan = "7" | [[:Categorie:Amfibieën|Amfibieën]] ([[Amphibia]]) 
 |-
-<!-- ----------------------- OENDERKLASSE ------------------------------------ -->
-| || || || colspan = "5" | ?
+<!-- ----------------------- OENDERKLASSE --------------------------- -->
+| || || || colspan = "6" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ------------------------------------ ORDE ------------------------------- -->
-| || || || || colspan = "4" | [[:Categorie:Puutn en paddn|Puutn en paddn]] ([[Anura]])
+<!-- ------------------------------- ORDE ----------------------------------- -->
+| || || || || colspan = "5" | [[:Categorie:Puutn en paddn|Puutn en paddn]] ([[Anura]])
 |-
-<!-- ----------------------------------------- FAMILIE ----------------------- -->
-| || || || || || colspan = "3" | [[:Categorie:Echte paddn|Echte paddn]] ([[Bufonidae]]) 
+<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+| || || || || || colspan = "4" | [[:Categorie:???|???]] ([[Neobatrachia]])
 |-
-<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
-| || || || || || || [[:Categorie:Paddn|Paddn]] (Bufo) 
-| [[Padde]]
+<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
+| || || || || || || colspan = "3" | [[:Categorie:Echte paddn|Echte paddn]] ([[Bufonidae]]) 
 |-
-<!-- ----------------------------------------- FAMILIE ----------------------- -->
-| || || || || || colspan = "3" | [[:Categorie:Echte puutn|Echte puutn]] ([[Ranidae]]) 
+<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
+| || || || || || || 
+| [[:Categorie:Paddn|Paddn]] ([[Bufo]]) || [[Padde]]
 |-
-<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
-| || || || || || || [[:Categorie:Puutn|Puutn]] (Rana) 
-| [[Brune puut]], [[Groene puut]]
+<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ========================================================================= -->
-! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Familie !! Geslacht !! Sorte
+<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
+| || || || || || || colspan = "3" | [[:Categorie:Echte puutn|Echte puutn]] ([[Ranidae]]) 
 |-
-<!-- OENDERRYK --------------------------------------------------------------- -->
-| colspan = "8" | ? 
+<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
+| || || || || || || 
+| [[:Categorie:Puutn|Puutn]] ([[Rana]]) || [[Brune puut]], [[Groene puut]]
 |-
-<!-- --------- STAMME -------------------------------------------------------- -->
-| || colspan = "7" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
+<!-- ============================================================================================ -->
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte
 |-
-<!-- ---------------- KLASSE ------------------------------------------------- -->
-| || || colspan = "6" | [[:Categorie:Veugels|Veugels]] ([[Aves]]) 
+<!-- OENDERRYK ------------------------------ -->
+| colspan = "9" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ----------------------- OENDERKLASSE ------------------------------------ -->
-| || || || colspan = "5" | ?
+<!-- --------- STAMME ------------------------------ -->
+| || colspan = "8" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
 |-
-<!-- ------------------------------------ ORDE ------------------------------- -->
-| || || || || colspan = "4" | [[:Categorie:Onderveugels|Onderveugels]] ([[Galliformes]])
+<!-- ---------------- KLASSE ------------------------------- -->
+| || || colspan = "7" | [[:Categorie:Veugels|Veugels]] ([[Aves]]) 
 |-
-<!-- ----------------------------------------- FAMILIE ----------------------- -->
-| || || || || || colspan = "3" | [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
+<!-- ----------------------- OENDERKLASSE --------------------------- -->
+| || || || colspan = "6" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
-| || || || || || || [[:Categorie:???|???]] (Gallus) 
-| [[Enne]]
+<!-- ------------------------------- ORDE ----------------------------------- -->
+| || || || || colspan = "5" | [[:Categorie:Oenderveugels|Oenderveugels]] ([[Galliformes]])
 |-
-<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
-| || || || || || || [[:Categorie:???|???]] (Phasianus) 
-| [[Fazante]]
+<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ------------------------------------ ORDE ------------------------------- -->
-| || || || || colspan = "4" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
+<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
+| || || || || || || colspan = "3" | [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
 |-
-<!-- ----------------------------------------- FAMILIE ----------------------- -->
-| || || || || || colspan = "3" | [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]]) 
+<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
+| || || || || || || 
+| [[:Categorie:?|?]] ([[Gallus]]) || [[Enne]]
 |-
-<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
-| || || || || || || [[:Categorie:???|???]] (Turdus)
-| [[Merelaan]]
+<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
+| || || || || || || 
+| [[:Categorie:?|?]] ([[Phasianus]]) || [[Fazante]]
 |-
-<!-- ========================================================================= -->
-! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Familie !! Geslacht !! Sorte
+<!-- ------------------------------- ORDE ----------------------------------- -->
+| || || || || colspan = "5" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
 |-
-<!-- OENDERRYK --------------------------------------------------------------- -->
-| colspan = "8" | ? 
+<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- --------- STAMME -------------------------------------------------------- -->
-| || colspan = "7" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
+<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
+| || || || || || || colspan = "3" | [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]]) 
 |-
-<!-- ---------------- KLASSE ------------------------------------------------- -->
-| || || colspan = "6" |[[:Categorie:Zoogbêestn|Zoogbêestn]] ([[Mammalia]]) 
+<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
+| || || || || || || 
+| [[:Categorie:?|?]] ([[Turdus]]) || [[Merelaan]]
 |-
-<!-- ----------------------- OENDERKLASSE ------------------------------------ -->
-| || || || colspan = "5" | ?
+<!-- ============================================================================================ -->
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte
 |-
-<!-- ------------------------------------ ORDE ------------------------------- -->
-| || || || || colspan = "4" | [[:Categorie:Eevnoevigen|Eevnoevigen]] ([[Artiodactyla]])
+<!-- OENDERRYK ------------------------------ -->
+| colspan = "9" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ----------------------------------------- FAMILIE ----------------------- -->
-| || || || || || colspan = "3" | [[:Categorie:Zwyns|Zwyns]] ([[Suidae]])
+<!-- --------- STAMME ------------------------------ -->
+| || colspan = "8" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
 |-
-<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
-| || || || || || || [[:Categorie:???|???]] ([[Sus]]) 
-| [[Zwyn]]
+<!-- ---------------- KLASSE ------------------------------- -->
+| || || colspan = "7" | [[:Categorie:Zoogbêestn|Zoogbêestn]] ([[Mammalia]]) 
 |-
-<!-- ------------------------------------ ORDE ------------------------------- -->
-| || || || || colspan = "4" | [[:Categorie:Vleeseters|Vlêeseters]] ([[Carnivora]])
+<!-- ----------------------- OENDERKLASSE --------------------------- -->
+| || || || colspan = "6" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ----------------------------------------- FAMILIE ----------------------- -->
-| || || || || || colspan = "3" | [[:Categorie:Katachtigen|Katachtigen]] ([[Felidae]]) 
+<!-- ------------------------------- ORDE ----------------------------------- -->
+| || || || || colspan = "5" | [[:Categorie:Eevnoevigen|Eevnoevigen]] ([[Artiodactyla]])
 |-
-<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
-| || || || || || || [[:Categorie:Klene kattn|Klene kattn]] ([[Felis]]) 
-| [[Katte]]
+<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ========================================================================= -->
-! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Familie !! Geslacht !! Sorte
+<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
+| || || || || || || colspan = "3" | [[:Categorie:Zwyns|Zwyns]] ([[Suidae]])
 |-
-<!-- OENDERRYK --------------------------------------------------------------- -->
-| colspan = "8" | [[:Categorie:Zespotigen|Zespotigen]] ([[Hexapoda]])
+<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
+| || || || || || || 
+| [[:Categorie:???|???]] ([[Sus]]) || [[Zwyn]]
 |-
-<!-- --------- STAMME -------------------------------------------------------- -->
-| || colspan = "7" |  [[:Categorie:Geleedpotigen|Geleedpotigen]] ([[Arthropoda]])
+<!-- ------------------------------- ORDE ----------------------------------- -->
+| || || || || colspan = "5" | [[:Categorie:Vleeseters|Vlêeseters]] ([[Carnivora]])
 |-
-<!-- ---------------- KLASSE ------------------------------------------------- -->
-| || || colspan = "6" | [[:Categorie:Instectn|Insectn]] ([[Insecta]]) 
+<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ----------------------- OENDERKLASSE ------------------------------------ -->
-| || || || colspan = "5" | [[:Categorie:Gevleugelde Instectn|Gevleugelde Insectn]] ([[Pterygota]]) 
+<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
+| || || || || || || colspan = "3" | [[:Categorie:Katachtigen|Katachtigen]] ([[Felidae]]) 
 |-
-<!-- ------------------------------------ ORDE ------------------------------- -->
-| || || || || colspan = "4" | [[:Categorie:Sprienkoanders en krekels|Sprienkoanders en krekels]] ([[Orthoptera]])
+<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
+| || || || || || || 
+| [[:Categorie:Klene kattn|Klene kattn]] ([[Felis]]) || [[Katte]]
 |-
-<!-- ----------------------------------------- FAMILIE ----------------------- -->
-| || || || || || colspan = "3" | [[:Categorie:Sprienkoanders|Sprienkoanders]] ([[Acrididae]]) 
+<!-- ============================================================================================ -->
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte
 |-
-<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
-| || || || || || || ?
-| [[Sprienkoander]]
+<!-- OENDERRYK ------------------------------ -->
+| colspan = "9" | [[:Categorie:Zespotigen|Zespotigen]] ([[Hexapoda]])
+|-
+<!-- --------- STAMME ------------------------------ -->
+| || colspan = "8" |  [[:Categorie:Geleedpotigen|Geleedpotigen]] ([[Arthropoda]])
+|-
+<!-- ---------------- KLASSE ------------------------------- -->
+| || || colspan = "7" | [[:Categorie:Instectn|Insectn]] ([[Insecta]]) 
+|-
+<!-- ----------------------- OENDERKLASSE --------------------------- -->
+| || || || colspan = "6" | [[:Categorie:Gevleugelde Instectn|Gevleugelde Insectn]] ([[Pterygota]]) 
+|-
+<!-- ------------------------------- ORDE ----------------------------------- -->
+| || || || || colspan = "5" | [[:Categorie:Sprienkoanders en krekels|Sprienkoanders en krekels]] ([[Orthoptera]])
+|-
+<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+|-
+<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
+| || || || || || || colspan = "3" | [[:Categorie:Sprienkoanders|Sprienkoanders]] ([[Acrididae]]) 
+|-
+<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
+| || || || || || || 
+| [[:Categorie:?|?]] ([[?]]) || [[Sprienkoander]]
 |-
 |}
 
