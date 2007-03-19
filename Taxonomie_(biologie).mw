@@ -1,4 +1,3 @@
-{{wiu}}
 '''Taxonomie''' es de noame dan ze in de [[biologie]] geevn an de '''weetnschappelikke ordenienge''' van levende organismen. 't Word es ofkomstig van 't Grieks ''taxon'' (groep). Taxonomie verwyst nie ollene na d'indelienge zevve, moa ook na de '''methode''' da je gebruukt vo in te deeln.
 
 ==Taxonomie van 't [[Ryk der Bêestn]] ([[Animalia]])==
@@ -6,6 +5,38 @@
 De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 
 {| {{prettytable}}
+<!-- ========================================================================= -->
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Familie !! Geslacht !! Sorte
+|-
+<!-- OENDERRYK --------------------------------------------------------------- -->
+| colspan = "8" | ? 
+|-
+<!-- --------- STAMME -------------------------------------------------------- -->
+| || colspan = "7" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
+|-
+<!-- ---------------- KLASSE ------------------------------------------------- -->
+| || || colspan = "6" | [[:Categorie:Amfibieën|Amfibieën]] ([[Amphibia]]) 
+|-
+<!-- ----------------------- OENDERKLASSE ------------------------------------ -->
+| || || || colspan = "5" | ?
+|-
+<!-- ------------------------------------ ORDE ------------------------------- -->
+| || || || || colspan = "4" | [[:Categorie:Puutn en paddn|Puutn en paddn]] ([[Anura]])
+|-
+<!-- ----------------------------------------- FAMILIE ----------------------- -->
+| || || || || || colspan = "3" | [[:Categorie:Echte paddn|Echte paddn]] ([[Bufonidae]]) 
+|-
+<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
+| || || || || || || [[:Categorie:Paddn|Paddn]] (Bufo) 
+| [[Padde]]
+|-
+<!-- ----------------------------------------- FAMILIE ----------------------- -->
+| || || || || || colspan = "3" | [[:Categorie:Echte puutn|Echte puutn]] ([[Ranidae]]) 
+|-
+<!-- ------------------------------------------------- GESLACHT + SORTE ------ -->
+| || || || || || || [[:Categorie:Puutn|Puutn]] (Rana) 
+| [[Brune puut]], [[Groene puut]]
+|-
 <!-- ========================================================================= -->
 ! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Familie !! Geslacht !! Sorte
 |-
