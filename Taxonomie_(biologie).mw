@@ -64,7 +64,7 @@ Afsproakn vo de categoriebenoamiengn:
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
-! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
 |-
 <!-- OENDERRYK ------------------------------ -->
 | colspan = "9" | [[:Categorie:?|?]] ([[?]])
@@ -84,16 +84,16 @@ Afsproakn vo de categoriebenoamiengn:
 <!-- ------------------------------------ OENDER ORDE ------------------------------- -->
 | || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
-| || || || || || || colspan = "3" | [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
+| || || || || || 
+| [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
+| [[:Categorie:?|?]] ([[Gallus]]) 
+| [[Enne]]
 |-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:?|?]] ([[Gallus]]) || [[Enne]]
-|-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:?|?]] ([[Phasianus]]) || [[Fazante]]
+| || || || || || 
+| [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
+| [[:Categorie:?|?]] ([[Phasianus]]) 
+| [[Fazante]]
 |-
 <!-- ------------------------------- ORDE ----------------------------------- -->
 | || || || || colspan = "5" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
@@ -101,26 +101,21 @@ Afsproakn vo de categoriebenoamiengn:
 <!-- ------------------------------------ OENDER ORDE ------------------------------- -->
 | || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
-| || || || || || || colspan = "3" | [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]]) 
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
+| || || || || || 
+| [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]]) 
+| [[:Categorie:?|?]] ([[Erithacus]]) 
+| [[Rôbost]]
 |-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:?|?]] ([[Erithacus]]) || [[Rôbost]]
+| || || || || || 
+| [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]]) 
+| [[:Categorie:?|?]] ([[Turdus]]) 
+| [[Merelaan]]
 |-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:?|?]] ([[Turdus]]) || [[Merelaan]]
-|-
-<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
-|-
-<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
-| || || || || || || colspan = "3" | [[:Categorie:Musschn en snêeuwvienkn|Musschn en snêeuwvienkn]] ([[Passeridae]]) 
-|-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:?|?]] ([[Passer]]) || [[Mussche]]
+| || || || || ||
+| [[:Categorie:Musschn en snêeuwvienkn|Musschn en snêeuwvienkn]] ([[Passeridae]]) 
+| [[:Categorie:?|?]] ([[Passer]]) 
+| [[Mussche]]
 |-
 |}
 
