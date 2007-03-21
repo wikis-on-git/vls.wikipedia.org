@@ -69,88 +69,83 @@ Afsproakn vo de categoriebenoamiengn:
 ===Klasse: [[Veugels]] ([[Aves]])===
 
 {| {{prettytable}}
+<!-- OENDERKLASSE nie gebruukt by veugels -->
 <!-- ============================================================================================ -->
-! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
+! Oenderryk !! Stamme !! Klasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
 |-
 <!-- OENDERRYK ------------------------------ -->
-| colspan = "9" | [[:Categorie:?|?]] ([[?]])
+| colspan = "8" | [[:Categorie:?|?]] ([[?]])
 |-
 <!-- --------- STAMME ------------------------------ -->
-| || colspan = "8" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
+| || colspan = "7" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
 |-
 
 <!-- ---------------- KLASSE ------------------------------- -->
-| || || colspan = "7" | [[:Categorie:Veugels|Veugels]] ([[Aves]]) 
+| || || colspan = "6" | [[:Categorie:Veugels|Veugels]] ([[Aves]]) 
 |-
-
-<!-- *** NIE TOGEN (begun)
-<!-- ----------------------- OENDERKLASSE ---------------------------
-| || || || colspan = "6" | [[:Categorie:?|?]] ([[?]])
-|-
-     *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[:Categorie:Oenderveugels|Oenderveugels]] ([[Galliformes]])
+| || || || || colspan = "4" | [[:Categorie:Oenderveugels|Oenderveugels]] ([[Galliformes]])
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ OENDER ORDE -------------------------------
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || || colspan = "3" | [[:Categorie:?|?]] ([[?]])
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
-| || || || || || 
+| || || || ||
 | [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
 | [[:Categorie:?|?]] ([[Gallus]]) 
 | [[Enne]]
 |-
 
-| || || || || || 
+| || || || ||
 | [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
 | [[:Categorie:?|?]] ([[Phasianus]]) 
 | [[Fazante]]
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[:Categorie:Ooievoarachtigen|Ooievoarachtigen]] ([[Ciconiiformes]])
+| || || || || colspan = "4" | [[:Categorie:Ooievoarachtigen|Ooievoarachtigen]] ([[Ciconiiformes]])
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ OENDER ORDE -------------------------------
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || || colspan = "3" | [[:Categorie:?|?]] ([[?]])
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
-| || || || || || 
+| || || || ||
 | [[:Categorie:Caracara's en valkn|Caracara's en valkn]] ([[Falconidae]]) 
 | [[:Categorie:Valkn|Valkn]] ([[Falco]]) 
 | [[Toornvalke]]
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
+| || || || || colspan = "4" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ OENDER ORDE -------------------------------
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || || colspan = "3" | [[:Categorie:?|?]] ([[?]])
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
-| || || || || || 
+| || || || ||
 | [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]]) 
 | [[:Categorie:?|?]] ([[Erithacus]]) 
 | [[Rôbost]]
 |-
-| || || || || || 
+| || || || ||
 | [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]]) 
 | [[:Categorie:?|?]] ([[Turdus]]) 
 | [[Merelaan]]
 |-
-| || || || || ||
+| || || || ||
 | [[:Categorie:Musschn en snêeuwvienkn|Musschn en snêeuwvienkn]] ([[Passeridae]]) 
 | [[:Categorie:?|?]] ([[Passer]]) 
 | [[Mussche]]
