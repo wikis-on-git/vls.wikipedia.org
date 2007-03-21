@@ -14,7 +14,7 @@ Afsproakn vo de categoriebenoamiengn:
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
-! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
 |-
 <!-- OENDERRYK ------------------------------ -->
 | colspan = "9" | [[:Categorie:?|?]] ([[?]])
@@ -34,38 +34,29 @@ Afsproakn vo de categoriebenoamiengn:
 <!-- ------------------------------------ OENDER ORDE ------------------------------- -->
 | || || || || || colspan = "4" | [[:Categorie:?|?]] ([[Neobatrachia]])
 |-
-<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
-| || || || || || || colspan = "3" | [[:Categorie:Echte paddn|Echte paddn]] ([[Bufonidae]]) 
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
+| || || || || || 
+| [[:Categorie:Echte paddn|Echte paddn]] ([[Bufonidae]]) 
+| [[:Categorie:Paddn|Paddn]] ([[Bufo]]) 
+| [[Padde]]
 |-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:Paddn|Paddn]] ([[Bufo]]) || [[Padde]]
-|-
-<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
-|-
-<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
-| || || || || || || colspan = "3" | [[:Categorie:Echte puutn|Echte puutn]] ([[Ranidae]]) 
-|-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:Puutn|Puutn]] ([[Rana]]) || [[Brune puut]], [[Groene puut]]
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
+| || || || || || 
+| [[:Categorie:Echte puutn|Echte puutn]] ([[Ranidae]]) 
+| [[:Categorie:Puutn|Puutn]] ([[Rana]]) 
+| [[Brune puut]], [[Groene puut]]
 |-
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[:Categorie:Salamanders|Salamanders]] ([[Caudata ]])
+| || || || || colspan = "3" | [[:Categorie:Salamanders|Salamanders]] ([[Caudata ]])
 |-
 <!-- ------------------------------------ OENDER ORDE ------------------------------- -->
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[Salamandroidea]])
+| || || || || || colspan = "2" | [[:Categorie:?|?]] ([[Salamandroidea]])
 |-
-<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
-| || || || || || || colspan = "3" | [[:Categorie:Echte salamanders|Echte salamanders]] ([[Salamandridae]]) 
-|-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:?|?]] ([[Triturus]]) || [[Salamander]]
-|-
-| || || || || || || 
-| [[:Categorie:?|?]] ([[Triturus]]) || [[Kamsalamander]], [[Klêen Woatersalamander]], [[Vinpôotsalamander]]
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
+| || || || || || 
+| [[:Categorie:Echte salamanders|Echte salamanders]] ([[Salamandridae]]) 
+| [[:Categorie:?|?]] ([[Triturus]])
+| [[Salamander]]
 |-
 |}
 
