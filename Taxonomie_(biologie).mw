@@ -16,56 +16,71 @@ Afsproakn vo de categoriebenoamiengn:
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
-! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
+! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld !! Wiki-categorieën
 |-
 <!-- STAMME ------------------------------ -->
-| colspan = "9" | [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
+| colspan = "9" | [[Chordabêestn]] ([[Chordata]])
+| [[:Categorie:Chordabêestn|Chordabêestn]] 
 |-
 <!-- --------- ONDERSTAMME ------------------------- -->
-| || colspan = "8" |  [[:Categorie:?|?]] ([[?]])
+| || colspan = "8" | [[?]] ([[?]])
+| 
 |-
 
 <!-- ---------------- KLASSE ------------------------------- -->
-| || || colspan = "7" | [[:Categorie:Amfibieën|Amfibieën]] ([[Amphibia]]) 
+| || || colspan = "7" | [[Amfibieën]] ([[Amphibia]]) 
+| [[:Categorie:Amfibieën|Amfibieën]] 
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ----------------------- ONDERKLASSE ---------------------------
-| || || || colspan = "6" | [[:Categorie:?|?]] ([[?]])
+| || || || colspan = "6" | [[?]] ([[?]])
+| 
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[:Categorie:Puutn en paddn|Puutn en paddn]] ([[Anura]])
+| || || || || colspan = "5" | [[Puutn en paddn]] ([[Anura]])
+| [[:Categorie:Puutn en paddn|Puutn en paddn]] 
 |-
 
 <!-- ------------------------------------ ONDER ORDE ------------------------------- -->
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[Neobatrachia]])
+| || || || || || colspan = "4" | [[?]] ([[Neobatrachia]])
+|
 |-
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || || || 
-| [[:Categorie:Echte paddn|Echte paddn]] ([[Bufonidae]]) 
-| [[:Categorie:Paddn|Paddn]] ([[Bufo]]) 
+| [[Echte paddn]] ([[Bufonidae]]) 
+| [[Paddn]] ([[Bufo]]) 
 | [[Padde]]
+| [[:Categorie:Echte paddn|Echte paddn]], [[:Categorie:Paddn|Paddn]] 
 |-
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || || || 
-| [[:Categorie:Echte puutn|Echte puutn]] ([[Ranidae]]) 
-| [[:Categorie:Puutn|Puutn]] ([[Rana]]) 
+| [[Echte puutn]] ([[Ranidae]]) 
+| [[Puutn]] ([[Rana]]) 
 | [[Brune puut]], [[Groene puut]]
+| [[:Categorie:Echte puutn|Echte puutn]], [[:Categorie:Puutn|Puutn]] 
 |-
+
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "3" | [[:Categorie:Salamanders|Salamanders]] ([[Caudata ]])
+| || || || || colspan = "3" | [[Salamanders]] ([[Caudata]])
+| [[:Categorie:Salamanders|Salamanders]] 
 |-
+
 <!-- ------------------------------------ ONDER ORDE ------------------------------- -->
-| || || || || || colspan = "2" | [[:Categorie:?|?]] ([[Salamandroidea]])
+| || || || || || colspan = "2" | [[?]] ([[Salamandroidea]])
+| 
 |-
+
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || || || 
-| [[:Categorie:Echte salamanders|Echte salamanders]] ([[Salamandridae]]) 
-| [[:Categorie:?|?]] ([[Triturus]])
+| [[Echte salamanders]] ([[Salamandridae]]) 
+| [[?]] ([[Triturus]])
 | [[Salamander]]
+| [[:Categorie:Echte salamanders|Echte salamanders]] 
 |-
+
 |}
 
 ====Klasse: [[Veugels]] ([[Aves]])====
@@ -73,84 +88,101 @@ Afsproakn vo de categoriebenoamiengn:
 {| {{prettytable}}
 <!-- ONDERKLASSE nie gebruukt by veugels -->
 <!-- ============================================================================================ -->
-! Stamme !! Onderstamme !! Klasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
+! Stamme !! Onderstamme !! Klasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld !! Wiki-categorieën
 |-
+
 <!-- STAMME ------------------------------ -->
-| colspan = "8" | [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
+| colspan = "8" | [[Chordabêestn]] ([[Chordata]])
+| [[:Categorie:Chordabêestn|Chordabêestn]] 
 |-
+
 <!-- --------- ONDERSTAMME ------------------------- -->
-| || colspan = "7" |  [[:Categorie:?|?]] ([[?]])
+| || colspan = "7" |  [[?]] ([[?]])
+| 
 |-
 
 <!-- ---------------- KLASSE ------------------------------- -->
-| || || colspan = "6" | [[:Categorie:Veugels|Veugels]] ([[Aves]]) 
+| || || colspan = "6" | [[Veugels]] ([[Aves]]) 
+| [[:Categorie:Veugels|Veugels]]
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || colspan = "5" | [[:Categorie:Oenderveugels|Oenderveugels]] ([[Galliformes]])
+| || || || colspan = "5" | [[Oenderveugels]] ([[Galliformes]])
+| [[:Categorie:Oenderveugels|Oenderveugels]] 
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || colspan = "4" | [[?]] ([[?]])
+|
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
-| [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
-| [[:Categorie:?|?]] ([[Gallus]]) 
+| [[Fazantn]] ([[Phasianidae]]) 
+| [[?]] ([[Gallus]]) 
 | [[Enne]]
+| [[:Categorie:Fazantn|Fazantn]]
 |-
 
 | || || || ||
-| [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
-| [[:Categorie:?|?]] ([[Phasianus]]) 
+| [[Fazantn]] ([[Phasianidae]]) 
+| [[?]] ([[Phasianus]]) 
 | [[Fazante]]
+| [[:Categorie:Fazantn|Fazantn]] 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || colspan = "5" | [[:Categorie:Ooievoarachtigen|Ooievoarachtigen]] ([[Ciconiiformes]])
+| || || || colspan = "5" | [[Ooievoarachtigen]] ([[Ciconiiformes]])
+| [[:Categorie:Ooievoarachtigen|Ooievoarachtigen]] 
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || colspan = "4" | [[?]] ([[?]])
+|
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
-| [[:Categorie:Caracara's en valkn|Caracara's en valkn]] ([[Falconidae]]) 
-| [[:Categorie:Valkn|Valkn]] ([[Falco]]) 
+| [[Caracara's en valkn]] ([[Falconidae]]) 
+| [[Valkn]] ([[Falco]]) 
 | [[Toornvalke]]
+| [[:Categorie:Caracara's en valkn|Caracara's en valkn]], [[:Categorie:Valkn|Valkn]] 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || colspan = "5" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
+| || || || colspan = "5" | [[Zangveugels]] ([[Passeriformes]])
+| [[:Categorie:Zangveugels|Zangveugels]] 
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || colspan = "4" | [[?]] ([[?]])
+|
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
-| [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]]) 
-| [[:Categorie:?|?]] ([[Erithacus]]) 
+| [[Lysters en tapuutn]] ([[Turdidae]]) 
+| [[?]] ([[Erithacus]]) 
 | [[Rôbost]]
+| [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]]
 |-
 | || || || ||
-| [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]]) 
-| [[:Categorie:?|?]] ([[Turdus]]) 
+| [[Lysters en tapuutn]] ([[Turdidae]]) 
+| [[?]] ([[Turdus]]) 
 | [[Merelaan]]
+| [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]]
 |-
 | || || || ||
-| [[:Categorie:Musschn en snêeuwvienkn|Musschn en snêeuwvienkn]] ([[Passeridae]]) 
-| [[:Categorie:?|?]] ([[Passer]]) 
+| [[Musschn en snêeuwvienkn]] ([[Passeridae]]) 
+| [[?]] ([[Passer]]) 
 | [[Mussche]]
+| [[:Categorie:Musschn en snêeuwvienkn|Musschn en snêeuwvienkn]]
 |-
 
 |}
@@ -159,135 +191,158 @@ Afsproakn vo de categoriebenoamiengn:
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
-! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
+! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld || Wiki-categorieën
 |-
 <!-- STAMME ------------------------------ -->
-| colspan = "9" | [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
+| colspan = "9" | [[Chordabêestn]] ([[Chordata]])
+| [[:Categorie:Chordabêestn|Chordabêestn]] 
 |-
 <!-- --------- ONDERSTAMME ------------------------- -->
-| || colspan = "8" |  [[:Categorie:?|?]] ([[?]])
+| || colspan = "8" |  [[?]] ([[?]])
+|  
 |-
 
 <!-- ---------------- KLASSE ------------------------------- -->
-| || || colspan = "7" | [[:Categorie:Zoogbêestn|Zoogbêestn]] ([[Mammalia]]) 
+| || || colspan = "7" | [[Zoogbêestn]] ([[Mammalia]]) 
+| [[:Categorie:Zoogbêestn|Zoogbêestn]] 
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ----------------------- ONDERKLASSE ---------------------------
-| || || || colspan = "6" | [[:Categorie:?|?]] ([[?]])
+| || || || colspan = "6" | [[?]] ([[?]])
+|
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[:Categorie:Eevnoevigen|Eevnoevigen]] ([[Artiodactyla]])
+| || || || || colspan = "5" | [[Eevnoevigen]] ([[Artiodactyla]])
+| [[:Categorie:Eevnoevigen|Eevnoevigen]] 
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || || colspan = "4" | [[?]] ([[?]])
+|
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
-| [[:Categorie:Kemelachtigen|Kemelachtigen]] ([[Camelidae]])
-| [[:Categorie:Lama's|Lama's]] ([[Lama]]) 
+| [[Kemelachtigen]] ([[Camelidae]])
+| [[Lama's]] ([[Lama]]) 
 | [[Alpaca]]
+| [[:Categorie:Kemelachtigen|Kemelachtigen]], [[:Categorie:Lama's|Lama's]] 
 |-
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
 | [[:Categorie:Zwyns|Zwyns]] ([[Suidae]])
-| [[:Categorie:?|?]] ([[Sus]]) 
+| [[?]] ([[Sus]]) 
 | [[Zwyn]]
+| [[:Categorie:Zwyns|Zwyns]]
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[:Categorie:Insecteneters|Insecteneters]] ([[Soricomorpha]])
+| || || || || colspan = "5" | [[Insecteneters]] ([[Soricomorpha]])
+| [[:Categorie:Insecteneters|Insecteneters]] 
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || || colspan = "4" | [[?]] ([[?]])
+|
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
-| [[:Categorie:Mols|Mols]] ([[Talpidae]]) 
-| [[:Categorie:Mol|Mol]] ([[Talpa]]) 
+| [[Mols en desmann]] ([[Talpidae]]) 
+| [[Mols]] ([[Talpa]]) 
 | [[Mol]]
+| [[:Categorie:Mols en desmann|Mols en desmann]], [[:Categorie:Mols|Mols]]
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[:Categorie:Knoagbêestn|Knoagbêestn]] ([[Rodentia]])
+| || || || || colspan = "5" | [[Knoagbêestn]] ([[Rodentia]])
+| [[:Categorie:Knoagbêestn|Knoagbêestn]] 
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || || colspan = "4" | [[?]] ([[?]])
+| 
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
-| [[:Categorie:Muusachtigen|Muusachtigen]] ([[Muridae]]) 
-| [[:Categorie:Echte muuzn|Echte muuzn]] ([[Mus]]) 
+| [[Muusachtigen]] ([[Muridae]]) 
+| [[Echte muuzn]] ([[Mus]]) 
 | [[Muus]]
+| [[:Categorie:Muusachtigen|Muusachtigen]], [[:Categorie:Echte muuzn|Echte muuzn]] 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[:Categorie:Oaze-achtigen|Oaze-achtigen]] ([[Lagomorpha]])
+| || || || || colspan = "5" | [[Oaze-achtigen]] ([[Lagomorpha]])
+| [[:Categorie:Oaze-achtigen|Oaze-achtigen]] 
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || || colspan = "4" | [[?]] ([[?]])
+|
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
-| [[:Categorie:Oazn en keuns|Oazn en keuns]] ([[Leporidae]]) 
-| [[:Categorie:Echte oazn|Echte oazn]] ([[Lepus]]) 
+| [[Oazn en keuns]] ([[Leporidae]]) 
+| [[Echte oazn]] ([[Lepus]]) 
 | [[Oaze]]
+| [[:Categorie:Oazn en keuns|Oazn en keuns]], [[:Categorie:Echte oazn|Echte oazn]] 
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
-| [[:Categorie:Oazn en keuns|Oazn en keuns]] ([[Leporidae]]) 
-| [[:Categorie:?|?]] ([[Oryctolagus]]) 
+| [[Oazn en keuns]] ([[Leporidae]]) 
+| [[?]] ([[Oryctolagus]]) 
 | [[Keun]]
+| [[:Categorie:Oazn en keuns|Oazn en keuns]] 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[:Categorie:Vleeseters|Vlêeseters]] ([[Carnivora]])
+| || || || || colspan = "5" | [[Vlêeseters]] ([[Carnivora]])
+| [[:Categorie:Vleeseters|Vlêeseters]] 
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || || colspan = "4" | [[?]] ([[?]])
+|
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
-| [[:Categorie:Katachtigen|Katachtigen]] ([[Felidae]]) 
-| [[:Categorie:Klene kattn|Klene kattn]] ([[Felis]]) 
+| [[Katachtigen]] ([[Felidae]]) 
+| [[Klene kattn]] ([[Felis]]) 
 | [[Katte]]
+| [[:Categorie:Katachtigen|Katachtigen]], [[:Categorie:Klene kattn|Klene kattn]] 
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
-| [[:Categorie:Marterachtigen|Marterachtigen]] ([[Mustelidae]]) 
-| [[:Categorie:Marters|Marters]] ([[Mustela]]) 
+| [[Marterachtigen]] ([[Mustelidae]]) 
+| [[Marters]] ([[Mustela]]) 
 | [[Wezel]]
+| [[:Categorie:Marterachtigen|Marterachtigen]], [[:Categorie:Marters|Marters]] 
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
-| [[:Categorie:Ondachtigen|Ondachtigen]] ([[Canidae]]) 
-| [[:Categorie:Vossn|Vossn]] ([[Vulpes]]) 
+| [[Ondachtigen]] ([[Canidae]]) 
+| [[Vossn]] ([[Vulpes]]) 
 | [[Vos]]
+| [[:Categorie:Ondachtigen|Ondachtigen]], [[:Categorie:Vossn|Vossn]] 
 |-
 
 |}
@@ -346,40 +401,48 @@ Afsproakn vo de categoriebenoamiengn:
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
-! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
+! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld || Wiki-categorieën
 |-
 <!-- STAMME ------------------------------ -->
-| colspan = "9" |  [[:Categorie:Riengwurms|Riengwurms]] ([[Annelida]])
+| colspan = "9" |  [[Riengwurms]] ([[Annelida]])
+| [[:Categorie:Riengwurms|Riengwurms]] 
 |-
+
 <!-- --------- ONDERSTAMME ------------------------- -->
-| || colspan = "8" |  [[:Categorie:?|?]] ([[?]])
+| || colspan = "8" |  [[?]] ([[?]])
+|
 |-
 
 <!-- ---------------- KLASSE ------------------------------- -->
-| || || colspan = "7" | [[:Categorie:Clitellata|Clitellata]] ([[Clitellata]]) 
+| || || colspan = "7" | [[Clitellata]] ([[Clitellata]]) 
+| [[:Categorie:Clitellata|Clitellata]] 
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ----------------------- ONDERKLASSE ---------------------------
-| || || || colspan = "6" | [[:Categorie:?|?]] ([[?]]) 
+| || || || colspan = "6" | [[?]] ([[?]]) 
+| 
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[:Categorie:?|?]] ([[Haplotaxida]])
+| || || || || colspan = "5" | [[?]] ([[Haplotaxida]])
+| 
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || || colspan = "4" | [[?]] ([[?]])
+|
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
-| [[:Categorie:?|?]] ([[Lumbricidae]]) 
-| [[:Categorie:?|?]] ([[?]]) 
+| [[?]] ([[Lumbricidae]]) 
+| [[?]] ([[?]]) 
 | [[Wurme]]
+| 
 |-
 |}
 
