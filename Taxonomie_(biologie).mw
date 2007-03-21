@@ -73,7 +73,7 @@ Afsproakn vo de categoriebenoamiengn:
 {| {{prettytable}}
 <!-- ONDERKLASSE nie gebruukt by veugels -->
 <!-- ============================================================================================ -->
-! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
+! Stamme !! Onderstamme !! Klasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
 |-
 <!-- STAMME ------------------------------ -->
 | colspan = "8" | [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
@@ -87,12 +87,12 @@ Afsproakn vo de categoriebenoamiengn:
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "4" | [[:Categorie:Oenderveugels|Oenderveugels]] ([[Galliformes]])
+| || || || colspan = "5" | [[:Categorie:Oenderveugels|Oenderveugels]] ([[Galliformes]])
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || || colspan = "3" | [[:Categorie:?|?]] ([[?]])
+| || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
      *** NIE TOGEN (tende) -->
 
@@ -110,12 +110,12 @@ Afsproakn vo de categoriebenoamiengn:
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "4" | [[:Categorie:Ooievoarachtigen|Ooievoarachtigen]] ([[Ciconiiformes]])
+| || || || colspan = "5" | [[:Categorie:Ooievoarachtigen|Ooievoarachtigen]] ([[Ciconiiformes]])
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || || colspan = "3" | [[:Categorie:?|?]] ([[?]])
+| || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
      *** NIE TOGEN (tende) -->
 
@@ -127,12 +127,12 @@ Afsproakn vo de categoriebenoamiengn:
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "4" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
+| || || || colspan = "5" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || || colspan = "3" | [[:Categorie:?|?]] ([[?]])
+| || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
      *** NIE TOGEN (tende) -->
 
