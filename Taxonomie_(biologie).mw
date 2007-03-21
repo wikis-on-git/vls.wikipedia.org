@@ -78,18 +78,27 @@ Afsproakn vo de categoriebenoamiengn:
 <!-- --------- STAMME ------------------------------ -->
 | || colspan = "8" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
 |-
+
 <!-- ---------------- KLASSE ------------------------------- -->
 | || || colspan = "7" | [[:Categorie:Veugels|Veugels]] ([[Aves]]) 
 |-
-<!-- ----------------------- OENDERKLASSE --------------------------- -->
+
+<!-- *** NIE TOGEN (begun)
+<!-- ----------------------- OENDERKLASSE ---------------------------
 | || || || colspan = "6" | [[:Categorie:?|?]] ([[?]])
 |-
+     *** NIE TOGEN (tende) -->
+
 <!-- ------------------------------- ORDE ----------------------------------- -->
 | || || || || colspan = "5" | [[:Categorie:Oenderveugels|Oenderveugels]] ([[Galliformes]])
 |-
-<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+
+<!-- *** NIE TOGEN (begun)
+<!-- ------------------------------------ OENDER ORDE -------------------------------
 | || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
+     *** NIE TOGEN (tende) -->
+
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || || || 
 | [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
@@ -104,9 +113,13 @@ Afsproakn vo de categoriebenoamiengn:
 <!-- ------------------------------- ORDE ----------------------------------- -->
 | || || || || colspan = "5" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
 |-
-<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+
+<!-- *** NIE TOGEN (begun)
+<!-- ------------------------------------ OENDER ORDE -------------------------------
 | || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
+     *** NIE TOGEN (tende) -->
+
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || || || 
 | [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]] ([[Turdidae]]) 
