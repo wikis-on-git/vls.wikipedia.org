@@ -245,7 +245,7 @@ Afsproakn vo de categoriebenoamiengn:
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
-! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
 |-
 <!-- OENDERRYK ------------------------------ -->
 | colspan = "9" | [[:Categorie:?|?]] ([[?]])
@@ -253,24 +253,32 @@ Afsproakn vo de categoriebenoamiengn:
 <!-- --------- STAMME ------------------------------ -->
 | || colspan = "8" |  [[:Categorie:Riengwurms|Riengwurms]] ([[Annelida]])
 |-
+
 <!-- ---------------- KLASSE ------------------------------- -->
 | || || colspan = "7" | [[:Categorie:?|?]] ([[Clitellata]]) 
 |-
-<!-- ----------------------- OENDERKLASSE --------------------------- -->
+
+<!-- *** NIE TOGEN (begun)
+<!-- ----------------------- OENDERKLASSE ---------------------------
 | || || || colspan = "6" | [[:Categorie:?|?]] ([[?]]) 
 |-
+     *** NIE TOGEN (tende) -->
+
 <!-- ------------------------------- ORDE ----------------------------------- -->
 | || || || || colspan = "5" | [[:Categorie:?|?]] ([[Haplotaxida]])
 |-
-<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+
+<!-- *** NIE TOGEN (begun)
+<!-- ------------------------------------ OENDER ORDE -------------------------------
 | || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
-| || || || || || || colspan = "3" | [[:Categorie:?|?]] ([[Lumbricidae]]) 
-|-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:?|?]] ([[?]]) || [[Wurme]]
+     *** NIE TOGEN (tende) -->
+
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
+| || || || || || 
+| [[:Categorie:?|?]] ([[Lumbricidae]]) 
+| [[:Categorie:?|?]] ([[?]]) 
+| [[Wurme]]
 |-
 |}
 
