@@ -299,41 +299,46 @@ Afsproakn vo de categoriebenoamiengn:
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
-! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
+! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld !! Wiki-categorieën
 |-
 <!-- STAMME ------------------------------ -->
-| colspan = "9" |  [[:Categorie:Geleedpotigen|Geleedpotigen]] ([[Arthropoda]])
+| colspan = "9" |  [[Geleedpotigen]] ([[Arthropoda]]) 
+| [[:Categorie:Geleedpotigen|Geleedpotigen]]
 |-
 <!-- --------- ONDERSTAMME ------------------------- -->
-| || colspan = "8" | [[:Categorie:Zespotigen|Zespotigen]] ([[Hexapoda]])
+| || colspan = "8" | [[Zespotigen]] ([[Hexapoda]]) 
+| [[:Categorie:Zespotigen|Zespotigen]] 
 |-
 
 <!-- ---------------- KLASSE ------------------------------- -->
-| || || colspan = "7" | [[:Categorie:Instectn|Insectn]] ([[Insecta]]) 
+| || || colspan = "7" | [[Insectn]] ([[Insecta]]) 
+| [[:Categorie:Instectn|Insectn]] 
 |-
 
 <!-- ----------------------- ONDERKLASSE --------------------------- -->
-| || || || colspan = "6" | [[:Categorie:Gevleugelde Instectn|Gevleugelde Insectn]] ([[Pterygota]]) 
+| || || || colspan = "6" | [[Gevleugelde Insectn]] ([[Pterygota]]) 
+| [[:Categorie:Gevleugelde Instectn|Gevleugelde Insectn]] 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[:Categorie:Sprienkoanders en krekels|Sprienkoanders en krekels]] ([[Orthoptera]])
+| || || || || colspan = "5" | [[Sprienkoanders en krekels]] ([[Orthoptera]]) 
+| [[:Categorie:Sprienkoanders en krekels|Sprienkoanders en krekels]]
 |-
 
 <!-- *** NIE TOGEN (begun)
 <!-- ------------------------------------ ONDER ORDE -------------------------------
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+| || || || || || colspan = "4" | [[?]] ([[?]]) | [[:Categorie:?|?]]
 |-
      *** NIE TOGEN (tende) -->
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
-| [[:Categorie:Sprienkoanders|Sprienkoanders]] ([[Acrididae]]) 
+| [[Sprienkoanders]] ([[Acrididae]]) 
 | [[:Categorie:?|?]] ([[?]]) 
 | [[Sprienkoander]]
+| [[:Categorie:Sprienkoanders|Sprienkoanders]] 
 |-
 |}
-
 
 ===Stamme: [[Riengwurms]] ([[Annelida]])===
 
