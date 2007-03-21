@@ -123,7 +123,7 @@ Afsproakn vo de categoriebenoamiengn:
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
-! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
 |-
 <!-- OENDERRYK ------------------------------ -->
 | colspan = "9" | [[:Categorie:?|?]] ([[?]])
@@ -131,47 +131,55 @@ Afsproakn vo de categoriebenoamiengn:
 <!-- --------- STAMME ------------------------------ -->
 | || colspan = "8" |  [[:Categorie:Chordabêestn|Chordabêestn]] ([[Chordata]])
 |-
+
 <!-- ---------------- KLASSE ------------------------------- -->
 | || || colspan = "7" | [[:Categorie:Zoogbêestn|Zoogbêestn]] ([[Mammalia]]) 
 |-
-<!-- ----------------------- OENDERKLASSE --------------------------- -->
+
+<!-- *** NIE TOGEN (begun)
+<!-- ----------------------- OENDERKLASSE ---------------------------
 | || || || colspan = "6" | [[:Categorie:?|?]] ([[?]])
 |-
+     *** NIE TOGEN (tende) -->
+
 <!-- ------------------------------- ORDE ----------------------------------- -->
 | || || || || colspan = "5" | [[:Categorie:Eevnoevigen|Eevnoevigen]] ([[Artiodactyla]])
 |-
-<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+
+<!-- *** NIE TOGEN (begun)
+<!-- ------------------------------------ OENDER ORDE -------------------------------
 | || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
-| || || || || || || colspan = "3" | [[:Categorie:Kemelachtigen|Kemelachtigen]] ([[Camelidae]])
+     *** NIE TOGEN (tende) -->
+
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
+| || || || || || 
+| [[:Categorie:Kemelachtigen|Kemelachtigen]] ([[Camelidae]])
+| [[:Categorie:Lama's|Lama's]] ([[Lama]]) 
+| [[Alpaca]]
 |-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:Lama's|Lama's]] ([[Lama]]) || [[Alpaca]]
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
+| || || || || || 
+| [[:Categorie:Zwyns|Zwyns]] ([[Suidae]])
+| [[:Categorie:?|?]] ([[Sus]]) 
+| [[Zwyn]]
 |-
-<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
-| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
-|-
-<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
-| || || || || || || colspan = "3" | [[:Categorie:Zwyns|Zwyns]] ([[Suidae]])
-|-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:?|?]] ([[Sus]]) || [[Zwyn]]
-|-
+
 <!-- ------------------------------- ORDE ----------------------------------- -->
 | || || || || colspan = "5" | [[:Categorie:Vleeseters|Vlêeseters]] ([[Carnivora]])
 |-
-<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+
+<!-- *** NIE TOGEN (begun)
+<!-- ------------------------------------ OENDER ORDE -------------------------------
 | || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
-| || || || || || || colspan = "3" | [[:Categorie:Katachtigen|Katachtigen]] ([[Felidae]]) 
-|-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:Klene kattn|Klene kattn]] ([[Felis]]) || [[Katte]]
+     *** NIE TOGEN (tende) -->
+
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
+| || || || || || 
+| [[:Categorie:Katachtigen|Katachtigen]] ([[Felidae]]) 
+| [[:Categorie:Klene kattn|Klene kattn]] ([[Felis]]) 
+| [[Katte]]
 |-
 |}
 
