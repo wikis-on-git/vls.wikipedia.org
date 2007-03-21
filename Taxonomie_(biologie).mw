@@ -206,7 +206,7 @@ Afsproakn vo de categoriebenoamiengn:
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
-! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte
+! Oenderryk !! Stamme !! Klasse !! Oenderklasse !! Orde !! Oenderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld
 |-
 <!-- OENDERRYK ------------------------------ -->
 | colspan = "9" | [[:Categorie:Zespotigen|Zespotigen]] ([[Hexapoda]])
@@ -214,24 +214,30 @@ Afsproakn vo de categoriebenoamiengn:
 <!-- --------- STAMME ------------------------------ -->
 | || colspan = "8" |  [[:Categorie:Geleedpotigen|Geleedpotigen]] ([[Arthropoda]])
 |-
+
 <!-- ---------------- KLASSE ------------------------------- -->
 | || || colspan = "7" | [[:Categorie:Instectn|Insectn]] ([[Insecta]]) 
 |-
+
 <!-- ----------------------- OENDERKLASSE --------------------------- -->
 | || || || colspan = "6" | [[:Categorie:Gevleugelde Instectn|Gevleugelde Insectn]] ([[Pterygota]]) 
 |-
+
 <!-- ------------------------------- ORDE ----------------------------------- -->
 | || || || || colspan = "5" | [[:Categorie:Sprienkoanders en krekels|Sprienkoanders en krekels]] ([[Orthoptera]])
 |-
-<!-- ------------------------------------ OENDER ORDE ------------------------------- -->
+
+<!-- *** NIE TOGEN (begun)
+<!-- ------------------------------------ OENDER ORDE -------------------------------
 | || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
 |-
-<!-- ------------------------------------------------ FAMILIE ----------------------------- -->
-| || || || || || || colspan = "3" | [[:Categorie:Sprienkoanders|Sprienkoanders]] ([[Acrididae]]) 
-|-
-<!-- ----------------------------------------------------------------- GESLACHT + SORTE --------- -->
-| || || || || || || 
-| [[:Categorie:?|?]] ([[?]]) || [[Sprienkoander]]
+     *** NIE TOGEN (tende) -->
+
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
+| || || || || || 
+| [[:Categorie:Sprienkoanders|Sprienkoanders]] ([[Acrididae]]) 
+| [[:Categorie:?|?]] ([[?]]) 
+| [[Sprienkoander]]
 |-
 |}
 
