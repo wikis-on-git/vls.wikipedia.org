@@ -105,11 +105,30 @@ Afsproakn vo de categoriebenoamiengn:
 | [[:Categorie:?|?]] ([[Gallus]]) 
 | [[Enne]]
 |-
+
 | || || || || || 
 | [[:Categorie:Fazantn|Fazantn]] ([[Phasianidae]]) 
 | [[:Categorie:?|?]] ([[Phasianus]]) 
 | [[Fazante]]
 |-
+
+<!-- ------------------------------- ORDE ----------------------------------- -->
+| || || || || colspan = "5" | [[:Categorie:Ooievoarachtigen|Ooievoarachtigen]] ([[Ciconiiformes]])
+|-
+
+<!-- *** NIE TOGEN (begun)
+<!-- ------------------------------------ OENDER ORDE -------------------------------
+| || || || || || colspan = "4" | [[:Categorie:?|?]] ([[?]])
+|-
+     *** NIE TOGEN (tende) -->
+
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
+| || || || || || 
+| [[:Categorie:Caracara's en valkn|Caracara's en valkn]] ([[Falconidae]]) 
+| [[:Categorie:Valkn|Valkn]] ([[Falco]]) 
+| [[Toornvalke]]
+|-
+
 <!-- ------------------------------- ORDE ----------------------------------- -->
 | || || || || colspan = "5" | [[:Categorie:Zangveugels|Zangveugels]] ([[Passeriformes]])
 |-
@@ -136,6 +155,7 @@ Afsproakn vo de categoriebenoamiengn:
 | [[:Categorie:?|?]] ([[Passer]]) 
 | [[Mussche]]
 |-
+
 |}
 
 ===Klasse: [[Zoogbêestn]] ([[Mammalia]])===
