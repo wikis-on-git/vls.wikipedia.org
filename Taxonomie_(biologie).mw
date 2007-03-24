@@ -382,6 +382,39 @@ Afsproakn vo de categoriebenoamiengn:
 | [[:Categorie:Zêesterre|Zêesterre]] 
 |-
 
+|}
+
+
+===Stamme: [[Wêekbêest'n]] ([[Mollusca]])===
+
+====Klasse: [[Twêekleppigen]] ([[Bivalvia]])====
+
+{| {{prettytable}}
+<!-- ============================================================================================ -->
+! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld || Wiki-categorieën
+|-
+<!-- STAMME ------------------------------ -->
+| colspan = "9" |  [[Wêekbêeste]] ([[Mollusca]])
+| [[:Categorie:Wêekbêeste|Wêekbêeste]] 
+|-
+
+<!-- ---------------- KLASSE ------------------------------- -->
+| || || colspan = "7" | [[Bivalvia]] ([[Twêekleppigen]]) 
+| [[:Categorie:Twêekleppigen|Twêekleppigen]] 
+|-
+
+<!-- ------------------------------- ORDE ----------------------------------- -->
+| || || || || colspan = "5" | [[Mytiloida]]
+| [[:Categorie:Mytiloida|Mytiloida]] 
+|-
+
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
+| || || || || || 
+| [[Mytilidae]]
+| [[Mytilus]]
+| [[Mussel]]
+| [[:Categorie:Mytilidae|Mytilidae]], [[:Categorie:Mytilus|Mytilus]] 
+|-
 
 |}
 
