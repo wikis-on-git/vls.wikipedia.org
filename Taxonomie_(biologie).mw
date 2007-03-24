@@ -163,18 +163,18 @@ Afsproakn vo de categoriebenoamiengn:
 ! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld || Wiki-categorieën
 |-
 <!-- STAMME ------------------------------ -->
-| colspan = "9" | [[Chordabêestn]] ([[Chordata]])
-| [[:Categorie:Chordabêestn|Chordabêestn]] 
+| colspan = "9" | [[Chordadier]] ([[Chordata]])
+| [[:Categorie:Chordadier|Chordadier]] 
 |-
 
 <!-- ---------------- KLASSE ------------------------------- -->
-| || || colspan = "7" | [[Zoogbêestn]] ([[Mammalia]]) 
-| [[:Categorie:Zoogbêestn|Zoogbêestn]] 
+| || || colspan = "7" | [[Zoogdier]] ([[Mammalia]]) 
+| [[:Categorie:Zoogdier|Zoogdier]] 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[Eevnoevigen]] ([[Artiodactyla]])
-| [[:Categorie:Eevnoevigen|Eevnoevigen]] 
+| || || || || colspan = "5" | [[Eevnoevige]] ([[Artiodactyla]])
+| [[:Categorie:Eevnoevige|Eevnoevige]] 
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
@@ -189,14 +189,14 @@ Afsproakn vo de categoriebenoamiengn:
 | [[Kemelachtigen]] ([[Camelidae]])
 | [[Lama's]] ([[Lama]]) 
 | [[Alpaca]]
-| [[:Categorie:Kemelachtigen|Kemelachtigen]], [[:Categorie:Lama's|Lama's]] 
+| [[:Categorie:Kemelachtigen|Kemelachtigen]], [[:Categorie:Lama|Lama]] 
 |-
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
 | [[Zwyns]] ([[Suidae]])
 | [[?]] ([[Sus]]) 
 | [[Zwyn]]
-| [[:Categorie:Zwyns|Zwyns]]
+| [[:Categorie:Zwyn|Zwyn]]
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
@@ -227,8 +227,8 @@ Afsproakn vo de categoriebenoamiengn:
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[Knoagbêestn]] ([[Rodentia]])
-| [[:Categorie:Knoagbêestn|Knoagbêestn]] 
+| || || || || colspan = "5" | [[Knoagdier]] ([[Rodentia]])
+| [[:Categorie:Knoagdier|Knoagdier]] 
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
@@ -236,7 +236,7 @@ Afsproakn vo de categoriebenoamiengn:
 | [[Muusachtigen]] ([[Muridae]]) 
 | [[Echte muuzn]] ([[Mus]]) 
 | [[Muus]]
-| [[:Categorie:Muusachtigen|Muusachtigen]], [[:Categorie:Echte muuzn|Echte muuzn]] 
+| [[:Categorie:Muusachtige|Muusachtige]], [[:Categorie:Echte muuzn|Echte muuzn]] 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
@@ -247,17 +247,17 @@ Afsproakn vo de categoriebenoamiengn:
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
 | [[Oazn en keuns]] ([[Leporidae]]) 
-| [[Echte oazn]] ([[Lepus]]) 
+| [[Oazn]] ([[Lepus]]) 
 | [[Oaze]]
-| [[:Categorie:Oazn en keuns|Oazn en keuns]], [[:Categorie:Echte oazn|Echte oazn]] 
+| [[:Categorie:Oazn en keuns|Oazn en keuns]], [[:Categorie:Oaze|Oaze]] 
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
 | [[Oazn en keuns]] ([[Leporidae]]) 
-| [[Oryctolagus]]
+| [[Keuns]] ([[Oryctolagus]])
 | [[Keun]]
-| [[:Categorie:Oazn en keuns|Oazn en keuns]] 
+| [[:Categorie:Oazn en keuns|Oazn en keuns]], [[:Categorie:Keun|Keun]] 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
@@ -270,7 +270,7 @@ Afsproakn vo de categoriebenoamiengn:
 | [[Katachtigen]] ([[Felidae]]) 
 | [[Klene kattn]] ([[Felis]]) 
 | [[Katte]]
-| [[:Categorie:Katachtigen|Katachtigen]], [[:Categorie:Klene kattn|Klene kattn]] 
+| [[:Categorie:Katachtigen|Katachtigen]], [[:Categorie:Klene katte|Klene katte]] 
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
@@ -278,7 +278,7 @@ Afsproakn vo de categoriebenoamiengn:
 | [[Marterachtigen]] ([[Mustelidae]]) 
 | [[Marters]] ([[Mustela]]) 
 | [[Wezel]]
-| [[:Categorie:Marterachtigen|Marterachtigen]], [[:Categorie:Marters|Marters]] 
+| [[:Categorie:Marterachtige|Marterachtige]], [[:Categorie:Marter|Marter]] 
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
@@ -286,7 +286,7 @@ Afsproakn vo de categoriebenoamiengn:
 | [[Ondachtigen]] ([[Canidae]]) 
 | [[Vossn]] ([[Vulpes]]) 
 | [[Vos]]
-| [[:Categorie:Ondachtigen|Ondachtigen]], [[:Categorie:Vossn|Vossn]] 
+| [[:Categorie:Ondachtige|Ondachtige]], [[:Categorie:Vos|Vos]] 
 |-
 
 |}
