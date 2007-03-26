@@ -82,17 +82,17 @@ Afsproakn vo de categoriebenoamiengn:
 
 <!-- STAMME ------------------------------ -->
 | colspan = "8" | [[Chordabêestn]] ([[Chordata]])
-| [[:Categorie:Chordabêestn|Chordabêestn]] 
+| [[:Categorie:Chordabêeste|Chordabêeste]] 
 |-
 
 <!-- ---------------- KLASSE ------------------------------- -->
 | || || colspan = "6" | [[Veugels]] ([[Aves]]) 
-| [[:Categorie:Veugels|Veugels]]
+| [[:Categorie:Veugel|Veugel]]
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
 | || || || colspan = "5" | [[Oenderveugels]] ([[Galliformes]])
-| [[:Categorie:Oenderveugels|Oenderveugels]] 
+| [[:Categorie:Oenderveugel|Oenderveugel]] 
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
@@ -100,19 +100,19 @@ Afsproakn vo de categoriebenoamiengn:
 | [[Fazantn]] ([[Phasianidae]]) 
 | [[?]] ([[Gallus]]) 
 | [[Enne]]
-| [[:Categorie:Fazantn|Fazantn]]
+| [[:Categorie:Fazante|Fazante]]
 |-
 
 | || || || ||
 | [[Fazantn]] ([[Phasianidae]]) 
 | [[?]] ([[Phasianus]]) 
 | [[Fazante]]
-| [[:Categorie:Fazantn|Fazantn]] 
+| [[:Categorie:Fazante|Fazante]] 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
 | || || || colspan = "5" | [[Ooievoarachtigen]] ([[Ciconiiformes]])
-| [[:Categorie:Ooievoarachtigen|Ooievoarachtigen]] 
+| [[:Categorie:Ooievoarachtige|Ooievoarachtige]] 
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
@@ -120,44 +120,55 @@ Afsproakn vo de categoriebenoamiengn:
 | [[Caracara's en valkn]] ([[Falconidae]]) 
 | [[Valkn]] ([[Falco]]) 
 | [[Toornvalke]]
-| [[:Categorie:Caracara's en valkn|Caracara's en valkn]], [[:Categorie:Valkn|Valkn]] 
+| [[:Categorie:Caracara of valke|Caracara of valke]], [[:Categorie:Valke|Valke]] 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
 | || || || colspan = "5" | [[Zangveugels]] ([[Passeriformes]])
-| [[:Categorie:Zangveugels|Zangveugels]] 
+| [[:Categorie:Zangveugel|Zangveugel]] 
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
-| [[Kroain]] ([[Corvidae]]) 
+| [[Kroaiachtigen]] ([[Corvidae]]) 
 | [[Eksters]] ([[Pika]]) 
 | [[Ekster]]
-| [[:Categorie:Kroain|Kroain]], [[:Categorie:Eksters|Eksters]]
+| [[:Categorie:Kroaiachtige|Kroaiachtige]], [[:Categorie:Ekster|Ekster]]
 |-
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
 | [[Kroaiachtigen]] ([[Corvidae]]) 
 | [[Garrulus]]
 | [[Vlamsche goai]]
 | [[:Categorie:Kroaiachtige|Kroaiachtige]], [[:Categorie:Garrulus|Garrulus]]
 |-
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
 | [[Lysters en tapuutn]] ([[Turdidae]]) 
-| [[?]] ([[Erithacus]]) 
+| [[Erithacus]]
 | [[Rôbost]]
-| [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]]
+| [[:Categorie:Lyster of tapuut|Lyster of tapuut]], [[:Categorie:Erithacus|Erithacus]]
 |-
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
 | [[Lysters en tapuutn]] ([[Turdidae]]) 
-| [[?]] ([[Turdus]]) 
+| [[Turdus]]
 | [[Merelaan]]
-| [[:Categorie:Lysters en tapuutn|Lysters en tapuutn]]
+| [[:Categorie:Lyster of tapuut|Lyster of tapuut]], [[:Categorie:Turdus|Turdus]]
 |-
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
 | [[Musschn en snêeuwvienkn]] ([[Passeridae]]) 
-| [[?]] ([[Passer]]) 
+| [[Passer]]
 | [[Mussche]]
-| [[:Categorie:Musschn en snêeuwvienkn|Musschn en snêeuwvienkn]]
+| [[:Categorie:Mussche of snêeuwvienke|Mussche of snêeuwvienke]], [[:Categorie:Passer|Passer]]
+|-
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
+| || || || ||
+| [[Vienkachtigen]] ([[Fringillidae]]) 
+| [[Vienkn en keepn]] ([[Fringilla]]) 
+| [[Vienke]]
+| [[:Categorie:Vienkachtige|Vienkachtige]], [[:Categorie:Vienke of kepe|Vienke of kepe]]
 |-
 
 |}
