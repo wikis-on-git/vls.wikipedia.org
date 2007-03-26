@@ -361,24 +361,52 @@ Afsproakn vo de categoriebenoamiengn:
 |-
 <!-- STAMME ------------------------------ -->
 | colspan = "9" |  [[Riengwurms]] ([[Annelida]])
-| [[:Categorie:Riengwurms|Riengwurms]] 
+| [[:Categorie:Riengwurme|Riengwurme]] 
 |-
 
 <!-- ---------------- KLASSE ------------------------------- -->
-| || || colspan = "7" | [[Clitellata]] ([[Clitellata]]) 
+| || || colspan = "7" | [[Clitellata]] 
 | [[:Categorie:Clitellata|Clitellata]] 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "5" | [[?]] ([[Haplotaxida]])
-| 
+| || || || || colspan = "5" | [[Haplotaxida]]
+| [[:Categorie:Haplotaxida|Haplotaxida]] 
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
 | || || || || || 
-| [[?]] ([[Lumbricidae]]) 
-| [[?]] ([[?]]) 
+| [[Lumbricidae]]
+|
 | [[Wurme]]
+| [[:Categorie:Lumbricidae|Lumbricidae]] 
+|-
+|}
+
+
+===Stamme: [[Oltebeestn]] ([[Cnidaria]])===
+
+====Klasse: [[Scyphosa]] ====
+
+{| {{prettytable}}
+<!-- ============================================================================================ -->
+! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld || Wiki-categorieën
+|-
+<!-- STAMME ------------------------------ -->
+| colspan = "9" |  [[Oltebeestn]] ([[Cnidaria]])
+| [[:Categorie:Oltebeeste|Oltebeeste]] 
+|-
+
+<!-- ---------------- KLASSE ------------------------------- -->
+| || || colspan = "7" | [[Scyphosa]]
+| [[:Categorie:Scyphosa|Scyphosa]] 
+|-
+
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
+| || || || || || 
+| 
+| 
+| [[Kwalle]]
 | 
 |-
 |}
