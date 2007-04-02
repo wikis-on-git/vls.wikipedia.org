@@ -1,6 +1,6 @@
 '''Taxonomie''' es de noame dan ze in de [[biologie]] geevn an de '''weetnschappelikke ordenienge''' van levende organismen. 't Word es ofkomstig van 't Grieks ''taxon'' (groep). Taxonomie verwyst nie ollene na d'indelienge zevve, moa ook na de '''methode''' da je gebruukt vo in te deeln.
 
-==Taxonomie van 't [[Ryk der Bêestn]]==
+==Taxonomie van 't [[Ryk der Bêestn]] ([[Animalia]])==
 
 De Latynsche weetnschappelikke benoamienge stoat tusschn aksjes.
 
@@ -10,9 +10,9 @@ Afsproakn vo de categoriebenoamiengn:
 #consequent zyn mè de meervoudsvorm: ''Visschn, Musschn'' (en gin ''Vissn, Mussn'')
 #gin AN in de benoamiengn, dus ''Zoogbêestn'' (en gin ''Zoogdiern'')
 
-===Stamme: [[Chordabêestn]]===
+===Stamme: [[Chordabêestn]] ([[Chordata]])===
 
-====Klasse: [[Amfibieën]]====
+====Klasse: [[Amfibieën]] ([[Amphibia]])====
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
@@ -73,7 +73,7 @@ Afsproakn vo de categoriebenoamiengn:
 
 |}
 
-====Klasse: [[Veugels]]====
+====Klasse: [[Veugels]] ([[Aves]])====
 
 {| {{prettytable}}
 <!-- ONDERKLASSE nie gebruukt by veugels -->
@@ -98,13 +98,14 @@ Afsproakn vo de categoriebenoamiengn:
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
-| rowspan = "2" | [[Fazantn]] ([[Phasianidae]]) 
+| [[Fazantn]] ([[Phasianidae]]) 
 | [[Gallus]]
 | [[Enne]]
 | [[:Categorie:Fazante|Fazante]], [[:Categorie:Gallus|Gallus]]
 |-
 
 | || || || ||
+| [[Fazantn]] ([[Phasianidae]]) 
 | [[Phasianus]]
 | [[Fazante]]
 | [[:Categorie:Fazante|Fazante]], [[:Categorie:Phasianus|Phasianus]]
@@ -138,15 +139,7 @@ Afsproakn vo de categoriebenoamiengn:
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
-| [[Echte mêezn]] ([[Paridae]]) 
-| [[Parus]]
-| [[Koolmêze]], [[Pimpelmêze]]
-| [[:Categorie:Echte mêeze|Echte mêeze]], [[:Categorie:Parus|Parus]]
-|-
-
-<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
-| || || || ||
-| rowspan = "3" | [[Kroaiachtigen]] ([[Corvidae]]) 
+| [[Kroaiachtigen]] ([[Corvidae]]) 
 | [[Eksters]] ([[Pika]]) 
 | [[Ekster]]
 | [[:Categorie:Kroaiachtige|Kroaiachtige]], [[:Categorie:Ekster|Ekster]]
@@ -154,13 +147,7 @@ Afsproakn vo de categoriebenoamiengn:
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
-| [[Kroain]] ([[Corvus]]) 
-| [[Zworte kroaie]]
-| [[:Categorie:Kroaiachtige|Kroaiachtige]], [[:Categorie:Kroaie|Kroaie]]
-|-
-
-<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
-| || || || ||
+| [[Kroaiachtigen]] ([[Corvidae]]) 
 | [[Garrulus]]
 | [[Vlamsche goai]]
 | [[:Categorie:Kroaiachtige|Kroaiachtige]], [[:Categorie:Garrulus|Garrulus]]
@@ -168,7 +155,7 @@ Afsproakn vo de categoriebenoamiengn:
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
-| rowspan = "2" | [[Lysters en tapuutn]] ([[Turdidae]]) 
+| [[Lysters en tapuutn]] ([[Turdidae]]) 
 | [[Erithacus]]
 | [[Rôbost]]
 | [[:Categorie:Lyster of tapuut|Lyster of tapuut]], [[:Categorie:Erithacus|Erithacus]]
@@ -176,6 +163,7 @@ Afsproakn vo de categoriebenoamiengn:
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
+| [[Lysters en tapuutn]] ([[Turdidae]]) 
 | [[Turdus]]
 | [[Merelaan]]
 | [[:Categorie:Lyster of tapuut|Lyster of tapuut]], [[:Categorie:Turdus|Turdus]]
@@ -191,14 +179,6 @@ Afsproakn vo de categoriebenoamiengn:
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
 | || || || ||
-| [[Piepers en kwiksteirtn]] ([[Motacillidae]]) 
-| [[Motacilla]]
-| [[Witte kwiksteirt]]
-| [[:Categorie:Pieper of kwiksteirt|Pieper of kwiksteirt]], [[:Categorie:Motacilla|Motacilla]]
-|-
-
-<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ----------- -->
-| || || || ||
 | [[Vienkachtigen]] ([[Fringillidae]]) 
 | [[Vienkn en keepn]] ([[Fringilla]]) 
 | [[Vienke]]
@@ -207,7 +187,7 @@ Afsproakn vo de categoriebenoamiengn:
 
 |}
 
-====Klasse: [[Zoogbêestn]]====
+====Klasse: [[Zoogbêestn]] ([[Mammalia]])====
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
@@ -355,98 +335,50 @@ Afsproakn vo de categoriebenoamiengn:
 
 |}
 
-===Stamme: [[Gelêedpotigen]]===
+===Stamme: [[Geleedpotigen]] ([[Arthropoda]])===
 
-====Klasse: [[Insectn]]====
+====Klasse: [[Insectn]] ([[Insecta]])====
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
-! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Infraorde !! Familie !! Geslacht !! Sorte: typevoorbeeld !! Wiki-categorieën
+! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Familie !! Geslacht !! Sorte: typevoorbeeld !! Wiki-categorieën
 |-
 <!-- STAMME ------------------------------ -->
-| colspan = "10" |  [[Gelêedpotigen]] ([[Arthropoda]]) 
-| [[:Categorie:Gelêedpotige|Gelêedpotige]]
+| colspan = "9" |  [[Geleedpotigen]] ([[Arthropoda]]) 
+| [[:Categorie:Geleedpotige|Geleedpotige]]
 |-
-
 <!-- --------- ONDERSTAMME ------------------------- -->
-| || colspan = "9" | [[Zespotigen]] ([[Hexapoda]]) 
+| || colspan = "8" | [[Zespotigen]] ([[Hexapoda]]) 
 | [[:Categorie:Zespotige|Zespotige]] 
 |-
 
 <!-- ---------------- KLASSE ------------------------------- -->
-| || || colspan = "8" | [[Insectn]] ([[Insecta]]) 
-| [[:Categorie:Insecte|Insecte]] 
+| || || colspan = "7" | [[Insectn]] ([[Insecta]]) 
+| [[:Categorie:Instecte|Insecte]] 
 |-
 
 <!-- ----------------------- ONDERKLASSE --------------------------- -->
-| || || || colspan = "7" | [[Gevleugelde Insectn]] ([[Pterygota]]) 
+| || || || colspan = "6" | [[Gevleugelde Insectn]] ([[Pterygota]]) 
 | [[:Categorie:Gevleugelde Instecte|Gevleugelde Insecte]] 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "6" | [[Sprienkoanders en krekels]] ([[Orthoptera]]) 
+| || || || || colspan = "5" | [[Sprienkoanders en krekels]] ([[Orthoptera]]) 
 | [[:Categorie:Sprienkoander of krekel|Sprienkoander of krekel]]
 |-
 
 <!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
-| || || || || || ||
+| || || || || || 
 | [[Sprienkoanders]] ([[Acrididae]]) 
 | 
 | [[Sprienkoander]]
 | [[:Categorie:Sprienkoander|Sprienkoander]] 
 |-
-
 |}
 
-====Klasse: [[Oggere kreeftn]]====
+===Stamme: [[Riengwurms]] ([[Annelida]])===
 
-{| {{prettytable}}
-<!-- ============================================================================================ -->
-! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Infraorde !! Familie !! Geslacht !! Sorte: typevoorbeeld !! Wiki-categorieën
-|-
-<!-- STAMME ------------------------------ -->
-| colspan = "10" |  [[Geleedpotigen]] ([[Arthropoda]]) 
-| [[:Categorie:Geleedpotige|Geleedpotige]]
-|-
-
-<!-- --------- ONDERSTAMME ------------------------- -->
-| || colspan = "9" | [[Kreeftachtigen]] ([[Crustacea]]) 
-| [[:Categorie:Kreeftachtige|Kreeftachtige]] 
-|-
-
-<!-- ---------------- KLASSE ------------------------------- -->
-| || || colspan = "8" | [[Oggere kreeftn]] ([[Malacostraca]]) 
-| [[:Categorie:Oggere kreefte|Oggere kreefte]]
-|-
-
-<!-- ------------------------------- ORDE ----------------------------------- -->
-| || || || || colspan = "6" | [[Tienpôtigen]] ([[Decapoda]]) 
-| [[:Categorie:Tienpôtige|Tienpôtige]]
-|-
-
-<!-- ----------------------------------- OENDERORDE ------------------------------- -->
-| || || || || || colspan = "5" | [[Pleocyemata]]
-| [[:Categorie:Pleocyemata|Pleocyemata]]
-|-
-
-<!-- -------------------------------------- INFRAORDE --------------------------------- -->
-| || || || || || || colspan = "4" | [[Brachyura]]
-| [[:Categorie:Brachyura|Brachyura]]
-|-
-
-<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
-| || || || || || ||
-| 
-| 
-| [[Krabbe]]
-| [[:Categorie:Krabbe|Krabbe]] 
-|-
-
-|}
-
-===Stamme: [[Riengwurms]]===
-
-====Klasse: [[Clitellata]]====
+====Klasse: [[Clitellata]] ====
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
@@ -477,7 +409,7 @@ Afsproakn vo de categoriebenoamiengn:
 |}
 
 
-===Stamme: [[Oltebeestn]]===
+===Stamme: [[Oltebeestn]] ([[Cnidaria]])===
 
 ====Klasse: [[Scyphosa]] ====
 
@@ -504,9 +436,9 @@ Afsproakn vo de categoriebenoamiengn:
 |-
 |}
 
-===Stamme: [[Stekkervelbêest'n]]===
+===Stamme: [[Stekkervelbêest'n]] ([[Echinodermata]])===
 
-====Klasse: [[Asteroidea]]====
+====Klasse: [[Asteroidea]] ====
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
@@ -532,9 +464,9 @@ Afsproakn vo de categoriebenoamiengn:
 
 |}
 
-===Stamme: [[Wêekbêest'n]]===
+===Stamme: [[Wêekbêest'n]] ([[Mollusca]])===
 
-====Klasse: [[Twêekleppigen]]====
+====Klasse: [[Twêekleppigen]] ([[Bivalvia]])====
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
