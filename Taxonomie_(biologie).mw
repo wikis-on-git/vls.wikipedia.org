@@ -376,6 +376,50 @@ Afsproakn vo de categoriebenoamiengn:
 |-
 |}
 
+====Klasse: [[Insectn]]====
+
+{| {{prettytable}}
+<!-- ============================================================================================ -->
+! Stamme !! Onderstamme !! Klasse !! Onderklasse !! Orde !! Onderorde !! Infraorde !! Familie !! Geslacht !! Sorte: typevoorbeeld !! Wiki-categorieën
+|-
+<!-- STAMME ------------------------------ -->
+| colspan = "10" |  [[Geleedpôtigen]] ([[Arthropoda]]) 
+| [[:Categorie:Geleedpôtige|Geleedpôtige]]
+|-
+<!-- --------- ONDERSTAMME ------------------------- -->
+| || colspan = "9" | [[Kreeftachtigen]] ([[Crustacea]]) 
+| [[:Categorie:Kreeftachtige|Kreeftachtige]] 
+|-
+
+<!-- ---------------- KLASSE ------------------------------- -->
+| || || colspan = "8" | [[Oggere kreeftn]] ([[Malacostraca]]) 
+| [[:Categorie:Oggere kreefte|Oggere kreefte]] 
+|-
+
+<!-- ------------------------------- ORDE ----------------------------------- -->
+| || || || || colspan = "6" | [[Tienpôtigen]] ([[Decapoda]]) 
+| [[:Categorie:Tienpôtige|Tienpôtige]]
+|-
+
+<!-- ---------------------------------- OENDERORDE -------------------------------- -->
+| || || || || || colspan = "5" | [[Pleocyemata]]
+| [[:Categorie:Pleocyemata|Pleocyemata]]
+|-
+
+<!-- --------------------------------------- INFRAORDE -------------------------------- -->
+| || || || || || || colspan = "4" | [[Brachyura]]
+| [[:Categorie:Brachyura|Brachyura]]
+|-
+
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
+| || || || || || ||
+| 
+| 
+| [[Krabbe]]
+| [[:Categorie:Krabbe|Krabbe]] 
+|-
+|}
+
 ===Stamme: [[Riengwurms]]===
 
 ====Klasse: [[Clitellata]]====
