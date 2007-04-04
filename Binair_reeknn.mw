@@ -3,7 +3,7 @@
 == 't Verschil mè geweune reekn'n ==
 Telln tôt tiene lyk da w'ollemoale geleird èn in de lagere schole, is eig'nlyk telln up oez vingers (twei kêer vuve). Da è de boasis van oes tiendêlig stelsel, eig'nlyk 't stelsel woarin datter een nul en d'andere neegn cyfers zyn.
 
-D'er bestoat vôor oeze latste ving'r pertank gin symbool. We moet'n content zin mè 1 en 0 om 't getal 10 te vormn.
+D'er bestoat vôor oeze latste ving'r pertank gin symbool. We moetn content zin mè 1 en 0 om 't getal 10 te vormn.
 
 Vô ol d'andere ving'rs èn we een symbool vôor 't cyfer.
 
@@ -59,7 +59,7 @@ Doe moar zô vôort.
 
 == Je keunt ook vermenigvuldig’n en dêeln ==
 
-Moal tiene (10) è geweun een nul derby zett'n of een komma verzett'n.
+Moal tiene (10) è geweun een nul derby zettn of een komma verzettn.
 
 :10 x 10 = 100
 
@@ -160,7 +160,7 @@ Er zit byvôorbeeld ôok nog êne kêer <math>2^5</math> = 32, enzovôort…
 :107,578125 = 64 + 32 + 0 + 8 + 0 + 2 + 1 + 0,5 + 0 + 0 + 0,0625 + 0 + 0,015625
 :107,578125= (1 * <math>2^6</math>) + (1 * <math>2^5</math>) + (0 * <math>2^4</math>) + (1 * <math>2^3</math>) + (0 * <math>2^2</math>) + (1 * <math>2^1</math>) + (1 * <math>2^0</math>) + (1 * <math>0.5^1</math>) + (0 * <math>0.5^2</math>)+ (0 * <math>0.5^3</math>) + (1 * <math>0.5^4</math>) + (0 * <math>0.5^5</math>) + (1 * <math>0.5^6</math>)
 
-Je zied’ier da ‘t ginne achter de komma uutgelei kan word’n op de maniere van de macht'n van 0,5 of 2 tôt de negatieve macht'n/
+Je zied’ier da ‘t ginne achter de komma uutgelei kan word’n op de maniere van de machtn van 0,5 of 2 tôt de negatieve machtn/
 
 :107,578125 è gelyk an 1101011 + 0,100101 in 't binair
 :107,578125 è gelyk an 1101011,100101 in 't binair
@@ -173,19 +173,19 @@ Toevallig è ne mens an elk and '''vuuf''' vingers en oe j'ol joe vingers tôont
 
 
 De marsmannekes ein an elk and moa '''vier''' vingers. Zoa telln ze zunder:
-:0 = niet'n (1 2 3 4) (5 6 7 10) (11 12 13 14) (15 16 17 20) (21 22 23 24) (25 26 27 30)
+:0 = nietn (1 2 3 4) (5 6 7 10) (11 12 13 14) (15 16 17 20) (21 22 23 24) (25 26 27 30)
 Iedr groepke è êen and d'rby. Da è 't '''octoal''' of '''achtdêlig''' stelsel.</br>
-De buut'neirdsche zulln ton ôver uus stelsel spreek'n van 't twoalfdêlig stelsel naar unne norm.
+De buutneirdsche zulln ton ôver uus stelsel spreek'n van 't twoalfdêlig stelsel naar unne norm.
 
 
 De '''binaire''' mannekes ein an elk ant moa '''êne''' vinger. Zoa telln ze zunder:
-:0 = niet'n (1) (10) (11)  (100)
+:0 = nietn (1) (10) (11)  (100)
 Iedr groepke è êen and d'rby.</br>
 De binaire mannekes zulln dan ôver ons stelsel spreek'n van 't 1010-dêlige stelsel naar unne norm.
 
 
 De mannekes mè 't an elk and '''acht''' vingers. Zoa telln ze zunder:
-:0 = niet'n (1 2 3 4 5 6 7 8) (9 A B C D E F 10) (11 12 13 14 15 16 17 18) (19 1A 1B 1C 1D 1E 1F 20) (21 22 23 24 25 26 27 28) (29 2A 2B 2C 2D 2E 2E 30)
+:0 = nietn (1 2 3 4 5 6 7 8) (9 A B C D E F 10) (11 12 13 14 15 16 17 18) (19 1A 1B 1C 1D 1E 1F 20) (21 22 23 24 25 26 27 28) (29 2A 2B 2C 2D 2E 2E 30)
 Iedr groepke è êen and d'rby. Da è 't '''hexadecimoal''' of '''zestiendêlig''' stelsel. Ze gebruuk'n da vele in d'[[informatica]], surtout by de [[programmoasje]] in [[assembler]] of [[machinecode]] lyk alternatief vo zuvere binaire code want da zoe elegansn onleesbaar zyn.
 
 
