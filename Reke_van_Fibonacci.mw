@@ -11,7 +11,7 @@ De Fibonacci-reke is oneindig. 't Begunt me [[0 (getal)|nul]] en [[1 (getal)|êe
 Dat makt dus: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, ...
 
 == Wie zit erachter? ==
-De getallnreke is enoemd na Leonardo Pisano of Leonardo va Pisa, bygenoamd [[Fibonacci]] (letterlyk "zeune van Bonaccio"). Dat wos nen [[Itoalje|Italioanschn]] wiskundige die leefde roend 1200. D'r woarn verzekers ol andere die deze bezoendere getallnreke add'n uutevoen, moa Fibonacci wos 'n êest'n in 't West'n die 't oek op papier ezet et.
+De getallnreke is enoemd na Leonardo Pisano of Leonardo va Pisa, bygenoamd [[Fibonacci]] (letterlyk "zeune van Bonaccio"). Dat wos nen [[Itoalje|Italioanschn]] wiskundige die leefde roend 1200. D'r woarn verzekers ol andere die deze bezoendere getallnreke add'n uutevoen, moa Fibonacci wos 'n êestn in 't Westn die 't oek op papier ezet et.
 
 [[Ofbeeldienge:Fibonacci.jpg|thumb|right| Leonardo Fibonacci]]
 
@@ -25,7 +25,7 @@ De getallnreke is enoemd na Leonardo Pisano of Leonardo va Pisa, bygenoamd [[Fib
 
 Zukke defenisje noemn ze in de wiskunde e '''recursieve''' defenisje.
 
-D'er bestoat ôok nog en andre defenisje die nie recursief es en die in 1730 gepubliceerd es door [[Abraham de Moivre]]. Moa die formule es mêestol de '''[[formule van Binet]]''' genoemd, omda Jacques Binet in 1843 den êest'n wos die die formule beweezn èt.
+D'er bestoat ôok nog en andre defenisje die nie recursief es en die in 1730 gepubliceerd es door [[Abraham de Moivre]]. Moa die formule es mêestol de '''[[formule van Binet]]''' genoemd, omda Jacques Binet in 1843 den êestn wos die die formule beweezn èt.
 
 ::<math>f(n) = \frac{(1+\sqrt 5)^n - (1-\sqrt 5)^n}{2^n \sqrt 5}</math>
 
@@ -33,7 +33,7 @@ D'er bestoat ôok nog en andre defenisje die nie recursief es en die in 1730 gep
 
 De getalln uut de reke van Fibonacci kommn vele vôorn in de nateure:
 * 't antal bloembledjes van e bloeme es dikkens êen van die cyfers. E [[lelie]] èt 3 echte bloembledjes, e [[beuterblomme]] 8, e [[cikreie]] 21, [[madelief|madelievn]] 34 of 55.
-* Zunneblompitt'n droain an twêe kant'n en 't antal droais in de twêe richtingn verschilt. Oftewel 21 en 34, of 34 en 55, of 55 en 89, oftewel 89 en 144. 
+* Zunneblompittn droain an twêe kantn en 't antal droais in de twêe richtingn verschilt. Oftewel 21 en 34, of 34 en 55, of 55 en 89, oftewel 89 en 144. 
 * Denn'nappels èn oftewel 8 spiroaln in d'êne richtinge en 13 in d'andre oftewel 5 spiroalen in d'êne richtinge en 8 in d'andere. En nen ananas èt 8 diagonoaln in d' êne richtinge en 13 in d'andre!
 
 [[Ofbeeldienge:zunnebloeme.jpg|thumb|right]]
