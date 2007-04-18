@@ -1,4 +1,121 @@
-{{beg}}
-'''Êesn''' is e deelgemeente van [[Diksmude]]. 
+{{Infobox Belgische deelgemeente|
+|kaart1=[[Image:EsenLocation.svg|300px]]
+|naam= Esen
+|provincie=WVLA
+|gemeente=[[Diksmude]]
+|latitudeGraden=51
+|latitudeMinuten=01
+|latitudeSeconden=46
+|longitudeGraden=02
+|longitudeMinuten=54
+|longitudeSeconden=08
+|opp=17,53
+|inw=1.854
+|datum=01/01/2007
+|dichtheid=106
+|postcode=8600
+|}}
+'''Eesn''' ([[Nederlands]]: ''Esen'') is e dorpsje in de [[België|Belgische]] provinsje [[West-Vloandern]]. 't Is e [[deelgemeente]] van de stad [[Diksmude]] sichtent de fuusje in [[1965]]. Eesn et een ippervlakte van 17,53 [[vierkante kilometer|km²]] en der weunn biekan 1900 menschn. 't Is doamee buutn Diksmude-centrum de deelgemeente met de meest iweuners.
 
-Der is redlijk veel te doen in de brouwerije van Êesn: [[De Dolle Brouwers]]. Ge ku der bier drienkn: [[Oerbier]] of [[Arabier]] of twuk anders. 't Dorpsje is wel getekend deur de [[Êestn Weireldoorloge|êestn]] en [[Twiddn Weireldôorloge|twiddn weireldôorloge]].
+'t Dorpscentrum van Eesn ligt ip één van de grote toegangsweegn noa de stad Diksmude, den [[N35]], die Diksmude verbiendt met 't binneland en d'autostrade [[A17]]/[[E403]] in [[Lichtervelde]]. Wok de bebowwienge van 't stadscentrum van Diksmude lopt voer e groot stik deure ip 't groendgebied van Eesn. Den [[Ansoamevoart]] is de noordgrenze van de deelgemeente.
+
+[[Image:Esen - Esenweg 1.jpg|thumb|left|Binnrienn via den Esenweg (N35) vanuut Diksmude]]
+<br clear="left"/>
+==Attraksjes==
+* De [[loatgotiek|loatgotische]] Sint-Petruskerke was oorsproenkelik uut de 15sten eeuw. In de [[Eeste Wereldoorlog]] is de kerke 't ope met de reste van 't dorp serieus beschoadigd. De kerke is achter den oorlog eripgebowd.. 
+[[Image:Esen - Sint-Petruskerk 1.jpg|Sint-Petruskerke|thumb|left]]
+<br clear="left"/>
+
+==Demografische evoluusje==
+<timeline>
+Colors=
+  id:a value:gray(0.9)
+  id:b value:gray(0.7)
+  id:c value:rgb(1,1,1)
+  id:d value:rgb(0.6,0.7,0.8)
+
+ImageSize  = width:700 height:373
+PlotArea   = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:2400
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:b increment:300 start:0
+ScaleMinor = gridcolor:a increment:60 start:0
+BackgroundColors = canvas:c
+
+BarData=
+  bar:1806 text:1806
+  bar:1816 text:1816
+  bar:1830 text:1830
+  bar:1846 text:1846
+  bar:1856 text:1856
+  bar:1866 text:1866
+  bar:1876 text:1876
+  bar:1880 text:1880
+  bar:1890 text:1890
+  bar:1900 text:1900
+  bar:1910 text:1910
+  bar:1920 text:1920
+  bar:1930 text:1930
+  bar:1947 text:1947
+  bar:1961 text:1961
+  bar:1964 text:1964
+  bar:1970 
+  bar:2001 text:2001
+  bar:2007 text:2007
+
+PlotData=
+  color:d width:20 align:left
+
+  bar:1806 from:0 till: 1426
+  bar:1816 from:0 till: 1624
+  bar:1830 from:0 till: 1871
+  bar:1846 from:0 till: 1906
+  bar:1856 from:0 till: 1776
+  bar:1866 from:0 till: 1986
+  bar:1876 from:0 till: 2002
+  bar:1880 from:0 till: 2021
+  bar:1890 from:0 till: 2199
+  bar:1900 from:0 till: 2215
+  bar:1910 from:0 till: 2239
+  bar:1920 from:0 till: 1583
+  bar:1930 from:0 till: 1761
+  bar:1947 from:0 till: 2010
+  bar:1961 from:0 till: 1888
+  bar:1964 from:0 till: 1890
+  bar:1970 from:0 till: 0
+  bar:2001 from:0 till: 1941
+  bar:2007 from:0 till: 1854
+
+PlotData=
+
+  bar:1806 at: 1426 fontsize:s text: 1.426 shift:(-10,5)
+  bar:1816 at: 1624 fontsize:S text: 1.624 shift:(-10,5)
+  bar:1830 at: 1871 fontsize:S text: 1.871 shift:(-10,5)
+  bar:1846 at: 1906 fontsize:S text: 1.906 shift:(-10,5)
+  bar:1856 at: 1776 fontsize:S text: 1.776 shift:(-10,5)
+  bar:1866 at: 1986 fontsize:S text: 1.986 shift:(-10,5)
+  bar:1876 at: 2002 fontsize:S text: 2.002 shift:(-10,5)
+  bar:1880 at: 2021 fontsize:S text: 2.021 shift:(-10,5)
+  bar:1890 at: 2199 fontsize:S text: 2.199 shift:(-10,5)
+  bar:1900 at: 2215 fontsize:S text: 2.215 shift:(-10,5)
+  bar:1910 at: 2239 fontsize:S text: 2.239 shift:(-10,5)
+  bar:1920 at: 1583 fontsize:S text: 1.583 shift:(-10,5)
+  bar:1930 at: 1761 fontsize:S text: 1.761 shift:(-10,5)
+  bar:1947 at: 2010 fontsize:S text: 2.010 shift:(-10,5)
+  bar:1961 at: 1888 fontsize:S text: 1.888 shift:(-10,5)
+  bar:1964 at: 1890 fontsize:S text: 1.890 shift:(-10,5)
+  bar:2001 at: 1941 fontsize:S text: 1.941 shift:(-10,5)
+  bar:2007 at: 1854 fontsize:S text: 1.854 shift:(-10,5)
+
+</timeline>
+<br clear="left">
+<small>Opm:1806 t/m 1961=volkstelliengn ip den 31sten december; 1964 = aantal iweuners ip 31 december</small>
+
+{{coördinaten|51_01_46_N_02_54_08_E_type:city_region:BE|51°02'N 2°54'O}}
+[[Category:Plekke in West-Vloandern]]
+[[Category:Diksmude]]
+
+[[en:Esen]]
+[[nl:Esen]]
