@@ -157,7 +157,7 @@ Truukske vo 'n tiendêlig getal omme te zettn noa binair:
 ge dêelt 't getal deur twêe (de boasis van 't stelsel), 't gehêel [[quotiënt]] schryv' je d'rachter en de reste oender da quotiënt. Ge doe zô vôort toet da'j nul uutkomt. De upêenvolgende rest'n es 't binair getal.
 
 107 53 26  13  6  3  1  0
-     1  1   0  1  0  1  1
+Rest 1  1   0  1  0  1  1
 dus 107 = 1101011
 
 Omgekêerd: vo 'n binair getal omme te zetten noa decimoal:
@@ -165,8 +165,8 @@ d'een êeste 1 doeje maal 2 en je telt doa 't twidde cyfre bie, da getal doeje w
 
 Bevôorbild: 10110101
 
-1  0  1  1  0  1  0  1
-   2  5  11 22 45 90 181
+ 1  0  1  1  0  1  0  1
+Som 2  5  11 22 45 90 181
 
 '''Getalln met komma's:'''
 
