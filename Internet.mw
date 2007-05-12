@@ -1,14 +1,23 @@
-Het '''Internet''' is an weireldwyde communicatie-infrastructuur dat het meuglik makt om [[compjoeter]]s met mekoar te loat'n babbeln.
+Het '''Internet''' is an weireldwyde communicatie-infrastructuur dat het meuglik makt om [[computer]]s met mekoar te loatn babbeln.
 
-Oan de basis ligt êest en voaral 't Amerikoans leger dat den Internet Protocol (IP) ipgeleid eit an al eur leveranciers. Diene protocol loat toe om twêe compjoeters die ip 't zelfde netwerk angesloten zyn me mekoar te loat'n babbelen en klêne berichtjes ùt te wisselen ip un betrouwbare maniere. 
-<br>'t Principe van IP es dat den ontvangenden compjoeter, oat ie 't bericht goe verstoan eit, dattie antwoordt om te zeggen da 't oal in ordre es en dattie grièd is om 't volgende bericht t'ontvangen. Oat er veel stôorienge ip de lyne zit en den ontvanger verstoat het niet, ton zwigt ie lik vermôord.  Oat de zender gêen bericht krygt binnen ne bepoalden tyd, weet ie datter wa mis es en probeert ie nog un aantoal kêren teut da 't in ordre es. Oat'ie te vele moe proberen weet ie dat de lyne of de compjoeter oan den anderen kant nie goe zeun en probeert ie de protocol were ip te starten van 't begun.
-<br>Den ôofregel is da iedre compjoeter un uniek IP adres ei.
-<br>Moar 't es nie omdat twêe compjoeters me mekoar keun klapp'n dat de verschillende programma's ip de compjoeters me mekoar keunn babbelen. Om dadde toe te loat'n eit 't Amerikoans leger oak de protocolloage TCP (Transfer Control Protocol) ipgeleid.
-<br>Met dienen TCP keun programma's groate berichten zenden noar of lùsteren an zôgezeide pôorten. TCP zorgt er vôaren dat oal de gegevens die in klêne bitjes verzonden zeun over IP, were tôpe geplakt worden en garandeert dat de ontvangen boadschap identiek is met het gezonden bericht (risiduele kanse ip fouten is 1 vêertiene plekken achter de komma, stief klêne dus).
-<br>Met dienen TCP/IP woaren ze vertrokken om gespecialiseerde programma's te loat'n samenwirken: simple tekste-mails (SMTP), transfer van bestanden (ftp - File Transfer Protocol) en Telnet (simplen terminal ip afstand) woaren de mêest populaire.
-<br><br>In 1989 zoat'n de mannen van den weet'nschappelyke weireld in CERN (Centre de Recherche Nucléaire) in Genève te broeden ip 'n systèm dat moeste toelaten om gegevens ùt te wisselen en te bekyken, onafhankelyk van 't programma of de compjoeter dat die gegevens gemoakt oat. Da was belangryk omdat die gasten met weet'nschappers van over hièl de weireld tôpe werkten.
-<br>Doarom stelden Robert Cailliau ùt Tongeren en Tim Berners-Lee ùt Londen de Hyper Text Transfer Protocol voarn die begoste te droaien in 1990. En da was 't begun van 't WWW: World Wide Web. 
-<br>In 1993 ontstonden d'êeste browsers (Nederlands bladeraars) en toan gieng 't verschrikkelijk zêre. Omzeggens iedrêen, lik gie nu, zit nu hêle doagen ip browsers en consorten te kyken en gegevens ùt te wisseln.
+Oan de basis ligt êest en vôorol 't Amerikoans leger dat den Internet Protocol (IP) ipgeleid eit an al eur leveranciers. Diene protocol loat toe om twêe computers die ip 't zelfde netwerk angesloten zyn me mekoar te loatn babblen en klêne berichtjes uut te wissln ip un betrouwbare maniere. 
+
+'t Principe van IP es dat den ontvangenden computer, oat ie 't bericht goe verstoan eit, dattie antwoordt om te zeggen da 't oal in ordre es en dattie grêed is om 't volgende bericht t'ontvangn. Oat er veel stôrienge ip de lyne zit en den ontvanger verstoat het niet, ton zwygt ie lik vermôord.  Oat de zender gêen bericht krygt binn ne bepoalden tyd, weet ie datter wa mis es en probeert ie nog un poar kêren teut da 't in ordre es. Oat'ie te vele moe proberen weet ie dat de lyne of de computer oan den anderen kant nie goe zeun en probeert ie de protocol were ip te starten van 't begun.
+
+Den ôofdregle is da iedre computer un uniek IP adres eit.
+
+Moar 't es nie omdat twêe computers me mekoar keun klappn dat de verschillende programma's ip de computers me mekoar keunn babblen. Om dadde toe te loatn eit 't Amerikoans leger oak de protocolloage TCP (Transfer Control Protocol) ipgeleid.
+
+Met dienen TCP keunn programma's grôte berichten zenden noar of leustren an zôgezeide pôorten. TCP zorgt er vôren dat ol de gegeevns die in klêne bitjes verzonden zyn over IP, were tôpe geplakt wirdn en garandeert dat de ontvangen bôodschap identiek is met het gezondn bericht (risiduele kanse ip fouten is 1 vêertiene plekken achter de komma, styf klêne dus).
+
+Met dienen TCP/IP woaren ze vertrokken om gespecialiseerde programma's te loatn topewirken: simple tekste-mails (SMTP), transfer van bestanden (ftp - File Transfer Protocol) en Telnet (simplen terminal ip afstand) woaren de mêest populaire.
+
+
+In 1989 zoatn de mannen van den weetnschappelyke weireld in CERN (Centre de Recherche Nucléaire) in Genève te broedn ip 'n systèm dat moeste toeloaten om gegevens uut te wisslen en te bekyken, onafhankelik van 't programma of de computer dat die gegevens gemoakt oat. Da was belangryk omdat die gasten met weetnschappers van over hêel de weireld tôpe werken.
+
+Doarom stelden Robert Cailliau uut Tongeren en Tim Berners-Lee uut Londen de Hyper Text Transfer Protocol vôorn die begoste te droaien in 1990. En da was 't begun van 't WWW: World Wide Web.
+ 
+In 1993 ontstonden d'êeste browsers (Nederlands bladeraars) en toan gieng 't verschrikkelijk zêre. Omzeggens iedrêen, lik gy nu, zit nu hêle doagen ip browsers en consorten te kyken en gegevens uut te wisseln.
 
 
 [[Categorie:Internet]]
