@@ -1,0 +1,25 @@
+De verzoamelinge van de complexe getalln es 'n uutbreidinge van de [[Reële getalln| reële getalln]]. De notoatie es <math>\mathbb{C}</math>.
+
+In de reële getalln bestoat er gêne vierkantwortel van 'n negatief getal. Moa in de zestienste êeuwe voenden [[Tartaglia]] en [[del Ferro]] stilletjesan 'n olgemêne uplossinge vo derdegroadsvergelykingn. En in under formule kosten d'er vierkantswortels van negatieve getalln vôren kommn. Up da moment zyn ze begunn spreekn van "imaginaire" getalln, da woaren dus vierkantswortels van negatieve getalln. Van toen of noemden ze de "geweune" getalln reële getalln.
+
+== Definitie ==
+De imaginaire êenheid es genoteerd als ''i'' en dat es êen van d'uplossingen van de vergelykingen x² = -1.
+
+Een complex getal es gedefinieerd als a + bi, woaby dat a, b reële getalln zyn.
+'t Getal a noemn we 't reële dêel, 't getal b 't imaginair dêel van 't complex getal.
+Oe a = 0 toen èje 'n zuver imaginair getal, oe b = 0 toen èje 'n reëel getal. Dus <math>\mathbb{R}</math> es 'n dêelverzoamelinge van <math>\mathbb{C}</math> 
+
+== Reeknen met complexe getalln ==
+Me complexe getalln in de vorm a + bi kujje geweune reeknen, me de ofsproake da je overol i² vervangt deur -1.
+
+* Uptellen en oftrekken: 't reële dêel en 't imaginaire dêel moeje apart uptelln/oftrekken
+(a+bi)+(c+di)= (a+c) + (b+d)i.
+Vôorbild: 5 - 3i + 2 + 9i = 7 + 6i
+
+* Vermenigvuldign: toepassn van [[distributiviteit]], lik by de reële getalln en i² vervangn deur -1
+(a+bi).(c+di) = ac + bci + adi + bdi² = ac - bd + (ad + bc)i
+Vôorbild: (5 - 3i).(2 + 9i) = 10 - 6i + 45i - 27i² = 37 + 39i
+
+* Dêeln: 
+
+Iervôren èje 't begrip "toegevoegd complex getal" nôdig.
