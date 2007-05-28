@@ -180,6 +180,15 @@ Je zied’ier da ‘t ginne achter de komma uutgelei kan wordn op de maniere van
 :107,578125 è gelyk an 1101011 + 0,100101 in 't binair
 :107,578125 è gelyk an 1101011,100101 in 't binair
 
+Omgekêerd: vo 'n binair getal achter de komma omme te zetten noa decimoal:</br> 
+Bevôorbild: 0,100101 ( er in 6 siffers achter de komma)</br>
+Doe da a zoa: 0,100101 * 1000000 = 100101, da ê dus 37 ( 1000000 ê te moakn met de 6 siffers)</br>
+Natuurlijk ê da nu 64 (1000000 binair) keir te groat.</br>
+Doe nu 37/64 = 0,578125 en da klopt.
+Zoa simpel ê da.</br>
+Zoa zied je dat olle omzettingn van binair achter de komma naar decimoal eindign ip 5.</br>
+Zoa zied je dat kleinste getal ter weireld 0,0...........1 (binair)moar kan zin, dus 0,0...........5 decimoal.
+
 == Andere stelsels ==
 Een stelsel is olsan gemakt volgens et antal symbooln da j'è vôor de cyfers.</br>
 Zô è j'in tiendêlig ôok moar de tien cyfers 0 1 2 3 4 5 6 7 8 9.</br>
