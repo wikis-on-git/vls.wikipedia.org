@@ -74,8 +74,16 @@ Vôorbilden:
 3 + 4i:  
 :<math>\,r =\sqrt{3^2+4^2}=5</math>
 :<math>\,\theta = \arctan\left(\frac{4}{3}\right)=0,927</math>
-'t Getal 3 + 4i ligt in 't êeste kwadrant, den oek 0,827 ôok, dus da klopt.
+'t Getal 3 + 4i ligt in 't êeste kwadrant, den oek 0,927 ôok, dus da klopt.
 :Dus 3+4i = 5(cos 0,927 + i sin 0,927)
+
+-3 - 4i:
+:<math>\,r =\sqrt{3^2+4^2}=5</math>
+:<math>\,\theta = \arctan\left(\frac{-4}{-3}\right)=0,927</math>
+'t Getal -3 - 4i ligt in 't derde kwadrant, den oek 0,927 in 't êeste, dus da klopt nie. We moetn dus <math>\\pi</math> bietelln! 
+:Dus 3+4i = 5(cos 4,069 + i sin4,069)
+
+
 
 
 
