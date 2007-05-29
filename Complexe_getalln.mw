@@ -16,10 +16,12 @@ Me complexe getalln in de vorm a + bi kujje geweune reeknen, me de ofsproake da 
 
 * Uptellen en oftrekken: 't reële dêel en 't imaginaire dêel moeje apart uptelln/oftrekken
 (a+bi)+(c+di)= (a+c) + (b+d)i.
+
 Vôorbild: 5 - 3i + 2 + 9i = 7 + 6i
 
 * Vermenigvuldign: toepassn van [[distributiviteit]], lik by de reële getalln en i² vervangn deur -1
 (a+bi).(c+di) = ac + bci + adi + bdi² = ac - bd + (ad + bc)i
+
 Vôorbild: (5 - 3i).(2 + 9i) = 10 - 6i + 45i - 27i² = 37 + 39i
 
 * Dêeln: 
@@ -31,6 +33,8 @@ Notoatie: <math>\overline{a + bi} = a - bi</math>
 Vo twêe complexe getalln te dêeln, moeje teller en noemer vermenigvuldign met 't toegevoegd complex getal van de noemer.
 
 <math>\frac{a + bi}{c + di} = \frac{a + bi}{c + di}\ \frac{\overline{c + di}}{\overline{c + di}} = \frac{a + bi}{c + di}\ \frac{c - di}{c - di} = \frac{ac + bd + (bc - ad)i}{c^2 + d^2}</math>
+
+Vôorbild: <math>\frac{5 - 3i}{2 + 9i} = \frac{5 - 3i}{2 + 9i}\ \frac{\overline{2 + 9i}}{\overline{2 + 9i}} = \frac{5 - 3i}{2 + 9i}\ \frac{2 - 9i}{2 - 9i} = \frac{-17 + 39i}{85}</math>
 
 == Goniometrische vorm van 'n complex getal ==
 
