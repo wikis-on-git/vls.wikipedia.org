@@ -30,7 +30,39 @@ Notoatie: <math>\overline{a + bi} = a - bi</math>
 
 Vo twêe complexe getalln te dêeln, moeje teller en noemer vermenigvuldign met 't toegevoegd complex getal van de noemer.
 
+<math>\frac{a + bi}{c + di} = \frac{a + bi}{c + di}\ \frac{\overline{c + di}}{\overline{c + di}} = \frac{a + bi}{c + di}\ \frac{c - di}{c - di} = \frac{ac + bd + (bc - ad)i}{c^2 + d^2}</math>
 
+== Goniometrische vorm van 'n complex getal ==
+
+Lik of daj 'n reëel getal kunt vôrenstelln up 'n rechte, kun je 'n complex getal vôrenstelln in 'n vlak. 't Reëel dêel van 't complex getal stoat up de x-asse, 't imaginair dêel up de y-asse.
+Den ofstand van de ôorsproeng van 't assenstelsel toet an 't punt wordt de 'modulus' genoemd en wordt 'r' genoteerd. 
+Den oek tussen de positieve kant van de x-asse en 't bêen dat de ôorsproeng met 't punt verbindt, es 't 'argument' en es genoteerd met de Griekse letter θ (teta).
+
+:<math>\, a + bi = r(\cos(\theta) + i \sin(\theta))</math>,
+
+of lik of daj up de têekninge kunt zien
+
+:<math>\,a = r \cos(\theta)</math>
+:<math>\,b = r \sin(\theta)</math>
+Met die formules vind je de geweune notoatie van 't complex getal uut de goniometrische vorm. 
+
+Vo omgekêerd de goniometrische vorm te vienden uut de geweune vorm:
+
+:<math>\,r =\sqrt{a^2+b^2}</math>
+:<math>\,\theta = \arctan\left(\frac{b}{a}\right)</math>
+
+'t Angt of van d'uutkomste vo <math>\theta</math> of daj die nie moet anpassen an 't [[kwadrant]] woarin dat 't getal ligt. 
+Vo zjuuste te zyn: 
+
+:<math>\theta = 
+\begin{cases}
+\arctan(\frac{b}{a}) & \mbox{als } a > 0\\
+\arctan(\frac{b}{a}) + \pi & \mbox{als } a < 0 \mbox{ en } b \ge 0\\
+\arctan(\frac{b}{a}) - \pi & \mbox{als } a < 0 \mbox{ en } b < 0\\
++\frac{\pi}{2} & \mbox{als } a = 0 \mbox{ en } b > 0\\
+-\frac{\pi}{2} & \mbox{als } a = 0 \mbox{ en } b < 0\\
+\mathrm{niet gedefinieerd} & \mbox{als } a = 0 \mbox{ en } y = 0.
+\end{cases}</math>
 
 
 [[Category:Getal]]
