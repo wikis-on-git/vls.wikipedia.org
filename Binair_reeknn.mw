@@ -181,7 +181,7 @@ Je zied’ier da ‘t ginne achter de komma uutgelei kan wordn op de maniere van
 :107,578125 è gelyk an 1101011,100101 in 't binair
 
 Omgekêerd: vo 'n binair getal achter de komma omme te zetten noa decimoal:</br> 
-Bevôorbild: 0,100101 ( er in 6 siffers achter de komma)</br>
+Bevôorbild: 0,100101 ( er zyn 6 siffers achter de komma)</br>
 Doe da a zoa: 0,100101 * 1000000 = 100101, da ê dus 37 ( 1000000 ê te moakn met de 6 siffers)</br>
 Natuurlijk ê da nu 64 (1000000 binair) keir te groat.</br>
 Doe nu 37/64 = 0,578125 en da klopt.
