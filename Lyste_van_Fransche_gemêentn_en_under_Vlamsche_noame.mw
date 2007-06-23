@@ -103,6 +103,8 @@ Zie ook [[Patrôon:GemêentnDKK]].
 |-
 | [[Eecke]] || DKK || [[Eke]] || [[Eke]] || [[Eke]] || [[Eke]] ||
 |-
+| [[Erkelsbrugge]] || DKK || [[Erkelsbrugge]] || [[Erkelsbrugge]] ||  ||  ||
+|-
 | [[Eringhem]] || DKK || [[Eringem]] || [[Eringem]] || [[Eringem]] || [[Eringem]] ||
 |-
 | [[Erquinghem-Lys]] || RYS || [[Erkegem an de Leie]] || [[Erkegem a.d. Leie]] ||  ||  ||
@@ -114,8 +116,6 @@ Zie ook [[Patrôon:GemêentnDKK]].
 | [[Estaires]] || DKK || [[Stegers]] || [[Stegers]] || [[Stegers]] || [[Stegers]] ||
 |-
 | [[Flêtre]] || DKK || [[Vletern (Vrankryk)|Vletern]] || [[Vleteren]] || [[Vleteren]] || [[Vleteren]] ||
-|-
-| [[Forêt de Nieppe]] || || [[Niepebus]] ||  || [[Niepebos]] || [[Niepebos]] ||
 |-
 | [[Fort-Mardyck]] || DKK || [[Fort-Mardyk]] ||  || [[Fort-Mardijk]] || [[Fort-Mardijk]] ||
 |-
@@ -129,13 +129,13 @@ Zie ook [[Patrôon:GemêentnDKK]].
 |-
 | [[Grand-Fort-Philippe]] || DKK || [[Groot-Filipsfort]] || [[Groot Filipsfort]] || [[Groot-Fort-Filips]] ||  ||
 |-
-| [[Grand-Millebrugghe]] || || [[Groot-Millebrugge]] || [[Groot Millebrugge]] || [[Groot-Millebrugge]] ||  ||
+| [[Grand-Millebrugghe]] || DKK || [[Groot-Millebrugge]] || [[Groot Millebrugge]] || [[Groot-Millebrugge]] ||  ||
 |-
 | [[Gravelines]] || DKK || [[Grevelingn]] || [[Grevelingen]] || [[Grevelingen]] || [[Grevelingen]] ||
 |-
-| [[Haeghe-Meulen]] || || [[Oagemeuln]] || [[Haage-Meulen]] || [[Hagemolen]] ||  ||
+| [[Haeghe-Meulen]] || DKK || [[Oagemeuln]] || [[Haage-Meulen]] || [[Hagemolen]] ||  ||
 |-
-| [[Haezepoel]] || || [[Oazepoele]] || [[Hazepoel]] ||  ||  ||
+| [[Haezepoël]] || DKK || [[Oazepoele]] || [[Hazepoel]] ||  ||  ||
 |-
 | [[Halluin]] || RYS || [[Oalewyne]] || [[Halewijn]] || [[Halewijn]] || [[Halewijn]] || [[Wervik]]: Oalewinne
 |-
@@ -159,43 +159,13 @@ Zie ook [[Patrôon:GemêentnDKK]].
 |-
 | [[Killem]] || DKK || [[Killem]] || [[Killem]] ||  ||  ||
 |-
-| [[Killem-Lynde]] || || [[Killem-Linde]] || [[Killem-Linde]] || [[Killem-Linde]] ||  ||
-|-
-| [[Kruysweg]] || || [[Kruusweg]] || [[Kruisweg]] ||  ||  ||
-|-
-| [[L’Erkelsbrugge]] || || [[Erkelsbrugge]] || [[Erkelsbrugge]] ||  ||  ||
-|-
-| [[L’Hossenaere]] || || [[Ossenoare]] || [[Hossenaare]] ||  ||  ||
-|-
-| [[La Brouckstraete]] || || [[Broekstroate]] || [[Broekstraat]] ||  ||  ||
-|-
 | [[La Gorgue]] || DKK || [[De Gorge]] || [[De Gorge]] || [[De Gorge]] ||  ||
 |-
-| [[La Kruystraete]] || || [[Kruusstroate]] || [[Kruisstraat]] ||  ||  ||
-|-
-| [[La Motte-au-Bois]] || || [[De Walle]] || [[De Walle]] || [[De Walle]] || [[De Walle]] ||
-|-
-| [[Le Cygne]] || || [[De Zwoane]] || [[De Swaan]] ||  ||  ||
+| [[La Kruystraete]] || DKK || [[Kruusstroate]] || [[Kruisstraat]] ||  ||  ||
 |-
 | [[Le Doulieu]] || DKK || [[Zoetestede]] || [[Zoeterstee]] || [[Zoeterstee]] || [[Zoeterstee]] || [[Cyriel Moeyaert|Moeyaert]]: Zoetestede
 |-
-| [[Le Galghouck]] || || [[Galgoek]] || [[Galghoek]] ||  ||  ||
-|-
-| [[Le Guindal]] || || [[?]] || [[Guindaal]] ||  ||  ||
-|-
-| [[Le Kieken-Put]] || || [[Kiekenput]] || [[Kiekenput]] ||  ||  ||
-|-
-| [[Le Legerweld]] || || [[Tlegerveld]] || ||  ||  || [[Jean-Louis Marteel|Marteel]]: Fr.-Vl. = Tlegerveld
-|-
-| [[Le Menegat]] || || [[Menegat]] || [[Menegat]] ||  ||  ||
-|-
-| [[Le Meulhouck]] || || [[Meulhoek]] || [[Meulhoek]] || [[De Meulhoek]] ||  ||
-|-
-| [[Le Nieppe]] || || [[De Niepe]] || [[De Niepe]] || [[De Niepe]] || [[De Niepe]] ||
-|-
-| [[Le Quesnoy]] || || [[Kiezenet]] || [[Kiezenet]] ||  ||  || [[Philippe Despriet|Despriet]]: Kiezenet
-|-
-| [[Le Thieushoek]] || || [[?]] || [[Thuishoek]] ||  ||  ||
+| [[Tlegerveld]] || DKK || [[Tlegerveld]] || ||  ||  || [[Jean-Louis Marteel|Marteel]]: Fr.-Vl. = Tlegerveld
 |-
 | [[Lederzeele]] || DKK || [[Lederzele]] || [[Lederzele]] || [[Lederzele]] || [[Lederzele]] ||
 |-
@@ -207,8 +177,6 @@ Zie ook [[Patrôon:GemêentnDKK]].
 |-
 | [[Les Moëres]] || DKK || [[De Moeren (Vrankryk)|De Moeren]] || [[De Moeren]] || [[De Moeren]] || [[De Moeren]] || [[Cyriel Moeyaert|Moeyaert]]: Moerekerke
 |-
-| [[Lestrem]] || || [[Lestrem]] || [[Lestrem]] ||  ||  ||
-|-
 | [[Lille]] || RYS || [[Rysel]] || [[Rijsel]] || [[Rijsel]] ||  ||
 |-
 | [[Linselles]] || RYS || [[Linzele]] || [[Linzele]] || [[Linsele]] ||  ||
@@ -217,15 +185,13 @@ Zie ook [[Patrôon:GemêentnDKK]].
 |-
 | [[Loon-Plage]] || DKK || [[Loon]] || [[Loon]] || [[Loon]] ||  ||
 |-
-| [[Lynck]] || || [[Lynk]] || [[Lijnk]] || [[Link]] ||  ||
-|-
 | [[Lynde]] || DKK || [[Linde]] || [[Linde]] || [[Linde]] || [[Linde]] ||
 |-
-| [[Malo-les-Bains]] || || [[Malo]] || [[Malo]] || [[Malo]] ||  ||
+| [[Malo-les-Bains]] || DKK || [[Malo]] || [[Malo]] || [[Malo]] ||  ||
 |-
-| [[Mardyck]] || || [[Mardyk]] || [[Mardijk]] || [[Mardijk]] || [[Mardijk]] ||
+| [[Mardyck]] || DKK || [[Mardyk]] || [[Mardijk]] || [[Mardijk]] || [[Mardijk]] ||
 |-
-| [[Maubeuge]] || || [[Mabuse]] || ||  ||  || [[Philippe Despriet|Despriet]]: Mabuse
+| [[Maubeuge]] || AV || [[Mabuse]] || ||  ||  || [[Philippe Despriet|Despriet]]: Mabuse
 |-
 | [[Merckeghem]] || DKK || [[Merkegem]] || [[Merckegem]] || [[Merkegem]] || [[Merkegem]] ||
 |-
@@ -251,29 +217,21 @@ Zie ook [[Patrôon:GemêentnDKK]].
 |-
 | [[Oudezeele]] || DKK || [[Oudezele]] || [[Oudezele]] || [[Oudezele]] || [[Oudezele]] ||
 |-
-| [[Outtersteene]] || || [[Outerstene]] || [[Oudersteene]] || [[Outerstene]] ||  ||
+| [[Outtersteene]] || DKK || [[Outerstene]] || [[Oudersteene]] || [[Outerstene]] ||  ||
 |-
 | [[Oxelaëre]] || DKK || [[Okseloare]] || [[Okselare]] || [[Okselare]] || [[Okselare]] ||
 |-
-| [[Petite-Synthe]] || || [[Kleen-Sintn]] || [[Klein Sinten]] || [[Klein-Sinten]] || [[Klein-Sinten]] ||
+| [[Petite-Synthe]] || DKK || [[Kleen-Sintn]] || [[Klein-Sinten]] || [[Klein-Sinten]] || [[Klein-Sinten]] ||
 |-
-| [[Petit-Millebrugghe]] || || [[Kleen-Millebrugge]] ||  ||  ||  ||
+| [[Petit-Fort-Philippe]] || DKK ||  [[Kleen-Filipsfort]] || [[Klein Filipsfort]] || [[Klein-Fort-Filips]] ||  ||
 |-
-| [[Petit-Fort-Philippe]] || ||  || [[Klein Filipsfort]] || [[Klein-Fort-Filips]] ||  ||
-|-
-| [[Pitgam]] || DKK || || ||  ||  ||
-|-
-| [[Pont-de-Spyker]] || || [[Spykerbrugge]] || [[Spijkerbrugge]] ||  ||  ||
+| [[Pitgam]] || DKK || [[Pitgam]] || ||  ||  ||
 |-
 | [[Pradelles]] || DKK || [[Pradeels]] || [[Pradeels]] || [[Pradeels]] || [[Pradeels]] ||
 |-
 | [[Quaëdypre]] || DKK || [[Kwoadyper]] || [[Kwaadleper]] || [[Kwaadieper]] || [[Kwaadieper]] ||
 |-
-| [[Quathove]] || || [[Kwoadove]] || [[Kwaadhove]] ||  ||  ||
-|-
 | [[Quesnoy-sur-Deûle]] || RYS || [[Kiezenet]] || [[Kiezenet]] ||  ||  ||
-|-
-| [[Rattekot]] || || [[Rattekot]] || [[Rattekot]] ||  ||  ||
 |-
 | [[Renescure]] || DKK || [[Ruuscheure]] || [[Ruisscheure]] || [[Ruisscheure]] || [[Ruisscheure]] || [[Cyriel Moeyaert|Moeyaert]]: Ruischeure
 |-
@@ -284,7 +242,7 @@ Zie ook [[Patrôon:GemêentnDKK]].
 |-
 | [[Roubaix]] || RYS || [[Roboais, Robeke]] ||  || [[Robaais of Robeke]] ||  || Niemand in de Westhoek zegt ''Robeke'', maar wel gewoon "Roebei"
 |-
-| [[Rosendaël]] || || [[Rozendoale]] || [[Rozendaal]] || [[Rozendaal]] || [[Rozendaal]] || [[Jean-Louis Marteel|Marteel]]: Fr.-Vl. = Roozenda(e)le
+| [[Rosendaël]] || DKK || [[Rozendoale]] || [[Rozendaal]] || [[Rozendaal]] || [[Rozendaal]] || [[Jean-Louis Marteel|Marteel]]: Fr.-Vl. = Roozenda(e)le
 |-
 | [[Rubrouck]] || DKK || [[Rubroek]] || [[Rubroek]] || [[Rubroek]] || [[Rubroek]] ||
 |-
@@ -302,17 +260,15 @@ Zie ook [[Patrôon:GemêentnDKK]].
 |-
 | [[Saint-Sylvestre-Cappel]] || DKK || [[Sint-Silvesterkapelle]] ||  || [[Sint-Silvesterkappel]] || [[Sint-Silvesterkappel]] ||
 |-
-| [[Schoubrouck]] || || [[Schouwbroek]] || [[Schouwbroek]] || [[Schouwbroek]] || [[Schouwbroek]] ||
+| [[Schoubrouck]] || DKK || [[Schouwbroek]] || [[Schouwbroek]] || [[Schouwbroek]] || [[Schouwbroek]] ||
 |-
-| [[Sec-Bois]] || || [[Droogbus]] || [[Droogbos]] || [[Drooghout]] ||  ||
+| [[Sec-Bois]] || DKK || [[Droogbus]] || [[Droogbos]] || [[Drooghout]] ||  ||
 |-
 | [[Seclin]] || RYS || [[Sikelin]] || || || || [[Philippe Despriet|Despriet]]: Sikelin
 |-
 | [[Sercus]] || DKK || [[Zerkel]] || [[Zerkel]] || [[Zerkel]] || [[Zerkel]] ||
 |-
 | [[Socx]] || DKK || [[Soks]] || [[Soks]] || [[Soks]] || [[Soks]] ||
-|-
-| [[Spreuwkoot]] || || [[Spreeuwkoot]] || [[Spreuwkoot]] ||  ||  ||
 |-
 | [[Spycker]] || DKK || [[Spyker]] || [[Spijker]] || [[Spijker]] || [[Spijker]] ||
 |-
@@ -321,8 +277,6 @@ Zie ook [[Patrôon:GemêentnDKK]].
 | [[Steenbecque]] || DKK || [[Steenbeke]] || [[Steenbeke]] || [[Steenbeke]] || [[Steenbeke]] ||
 |-
 | [[Steene]] || DKK || [[Stene]] || [[Stene]] || [[Stene]] || [[Stene]] ||
-|-
-| [[Steentje]] || || [[Steentje]] || [[Steentje]] ||  ||  ||
 |-
 | [[Steenvoorde]] || DKK || [[Steenvoorde]] || [[Steenvoorde]] ||  ||  || [[Jean-Louis Marteel|Marteel]]: Fr.-Vl. = Steenvoorde
 |-
@@ -340,9 +294,7 @@ Zie ook [[Patrôon:GemêentnDKK]].
 |-
 | [[Uxem]] || DKK || [[Uksem]] || [[Uksem]] || [[Uksem]] ||  ||
 |-
-| [[Valenciennes]]  || || [[Valencyn]] || [[Valencijn]] || [[Valensijn]] ||  || [[Philippe Despriet|Despriet]]: Valencijn
-|-
-| [[Vancauwenberghe]] || || [[Vancauwnberge]] || [[Vancauwenberge]] ||  ||  ||
+| [[Valenciennes]]  || VAL || [[Valencyn]] || [[Valencijn]] || [[Valensijn]] ||  || [[Philippe Despriet|Despriet]]: Valencijn
 |-
 | [[Verlinghem]] || RYS || [[Verlingem]] || [[Verlingem]] ||  ||  ||
 |-
@@ -354,13 +306,13 @@ Zie ook [[Patrôon:GemêentnDKK]].
 |-
 | [[Warhem]] || DKK || [[Warrem]] || [[Warrem]] || [[Warrem]] || [[Warrem]] ||
 |-
-| [[Warneton-Bas]] || || [[Neerwoastn-Zuud]] ||  || [[Neerwaasten]] ||  || [[Cyriel Moeyaert|Moeyaert]]: Zuid-Neerwaasten
+| [[Warneton-Bas]] || RYS || [[Neerwoastn-Zuud]] ||  || [[Neerwaasten]] ||  || [[Cyriel Moeyaert|Moeyaert]]: Zuid-Neerwaasten
 |-
 | [[Warneton-Sud]] || RYS || [[Woastn-Zuud]] ||  || [[Waasten]] ||  || [[Cyriel Moeyaert|Moeyaert]]: Zuid-Waasten
 |-
 | [[Watten]] || DKK || [[Woatn]] || [[Waten]] || [[Waten]] || [[Waten]] ||
 |-
-| [[Wattendam]] || || [[Woatndam]] || [[Watendam]] ||  ||  ||
+| [[Wattendam]] || DKK || [[Woatndam]] || [[Watendam]] ||  ||  ||
 |-
 | [[Wemaers-Cappel]] || DKK || [[Wemoarskapelle]] || [[Wemaarskappel]] || [[Wemaarskappel]] || [[Wemaarskappel]] ||
 |-
