@@ -1,0 +1,125 @@
+{{Infobox Belgische deelgemeente|
+|kaart1=[[Image:EggewaartskapelleLocation.svg|300px]]
+|naam= Eggewoartskapelle
+|provincie=WVLA
+|gemeente=[[Veurne]]
+|latitudeGraden=51
+|latitudeMinuten=03
+|latitudeSeconden=00
+|longitudeGraden=2
+|longitudeMinuten=43
+|longitudeSeconden=19
+|opp=4,90
+|inw=181
+|datum=03/05/2007
+|dichtheid=37
+|postcode=8630
+|}}
+'''Eggewoartskapelle''' (officieel: ''Eggewaartskapelle'') is ee [[De Polders|polderdorpsje]] in de [[België|Belgische]] provinsje [[West-Vloandern]]. 't Is sichtent [[1971]] e [[deelgemeente]] va [[Veurne]]. 't Et e ippervlak van etwuk meer dan 490 [[hectare|ha]] en e bitje minder dan 200 iweuners.
+[[Image:Eggewaartskapelle - Village 1.jpg|thumb|left|Dorspcentrum van Eggewoartskapelle]]
+<br clear="left"/>
+
+==Attracsjes==
+* De [[kerke]] en [[parochje]] zie genoemd noa [[Sint-Jan Oenthoofdienge]]. De [[neogotisch]]e kerke is gebowd in 1873-1874.
+* 't Kerkhof ligt roend de kerke. An' achterkant van de kerke stoan der grafsteenn van vuuf Britse vliegeniers die sneuvelde beist de [[Twidde Wereldoorlog]].
+
+[[Image:Eggewaartskapelle - Sint-Jan-Onthoofdingkerk 2.jpg|thumb|left|Sint-Jan Oenthoofdiengkerke]]
+[[Image:Eggewaartskapelle - British graves 1.jpg|thumb|left|Britse oorlogsgroavn]]
+
+<br clear="all"/>
+==Demografische oentwikkelienge==
+<timeline>
+Colors=
+  id:a value:gray(0.9)
+  id:b value:gray(0.7)
+  id:c value:rgb(1,1,1)
+  id:d value:rgb(0.6,0.7,0.8)
+
+ImageSize  = width:700 height:373
+PlotArea   = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:600
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:b increment:75 start:0
+ScaleMinor = gridcolor:a increment:15 start:0
+BackgroundColors = canvas:c
+
+BarData=
+  
+  bar:1806 text:1806
+  bar:1816 text:1816
+  bar:1830 text:1830
+  bar:1846 text:1846
+  bar:1856 text:1856
+  bar:1866 text:1866
+  bar:1876 text:1876
+  bar:1880 text:1880
+  bar:1890 text:1890
+  bar:1900 text:1900
+  bar:1910 text:1910
+  bar:1920 text:1920
+  bar:1930 text:1930
+  bar:1947 text:1947
+  bar:1961 text:1961
+  bar:1970 text:1970
+  bar:1981 text:1981
+  bar:1991 text:1991
+  bar:1999 text:1999
+  bar:2007 text:2007
+
+PlotData=
+  color:d width:20 align:left
+
+  bar:1806 from:0 till: 341
+  bar:1816 from:0 till: 445
+  bar:1830 from:0 till: 463
+  bar:1846 from:0 till: 460
+  bar:1856 from:0 till: 433
+  bar:1866 from:0 till: 453
+  bar:1876 from:0 till: 515
+  bar:1880 from:0 till: 539
+  bar:1890 from:0 till: 488
+  bar:1900 from:0 till: 429
+  bar:1910 from:0 till: 426
+  bar:1920 from:0 till: 437
+  bar:1930 from:0 till: 377
+  bar:1947 from:0 till: 378
+  bar:1961 from:0 till: 291
+  bar:1970 from:0 till: 249
+  bar:1981 from:0 till: 199
+  bar:1991 from:0 till: 201
+  bar:1999 from:0 till: 156
+  bar:2007 from:0 till: 181
+
+PlotData=
+
+  bar:1806 at: 341 fontsize:s text: 341 shift:(-10,5)
+  bar:1816 at: 445 fontsize:S text: 445 shift:(-10,5)
+  bar:1830 at: 463 fontsize:S text: 463 shift:(-10,5)
+  bar:1846 at: 460 fontsize:S text: 460 shift:(-10,5)
+  bar:1856 at: 433 fontsize:S text: 433 shift:(-10,5)
+  bar:1866 at: 453 fontsize:S text: 453 shift:(-10,5)
+  bar:1876 at: 515 fontsize:S text: 515 shift:(-10,5)
+  bar:1880 at: 539 fontsize:S text: 539 shift:(-10,5)
+  bar:1890 at: 488 fontsize:S text: 488 shift:(-10,5)
+  bar:1900 at: 429 fontsize:S text: 429 shift:(-10,5)
+  bar:1910 at: 426 fontsize:S text: 426 shift:(-10,5)
+  bar:1920 at: 437 fontsize:S text: 437 shift:(-10,5)
+  bar:1930 at: 377 fontsize:S text: 377 shift:(-10,5)
+  bar:1947 at: 378 fontsize:S text: 378 shift:(-10,5)
+  bar:1961 at: 291 fontsize:S text: 291 shift:(-10,5)
+  bar:1970 at: 249 fontsize:S text: 249 shift:(-10,5)
+  bar:1981 at: 199 fontsize:S text: 199 shift:(-10,5)
+  bar:1991 at: 201 fontsize:S text: 201 shift:(-10,5)
+  bar:1999 at: 156 fontsize:S text: 156 shift:(-10,5)
+  bar:2007 at: 181 fontsize:S text: 181 shift:(-10,5)
+</timeline>
+<br clear="left">
+<small>Bronnen: NIS, www.westhoek.be en Stad Veurne. Opm:1806 t/m 1991=volkstelliengn; 1999=iweunerantal  den 1sten januari; 2007=iweunerantal den 3den meie</small>
+{{commonscat|Eggewaartskapelle}}
+
+{{coördinaten|51_2_58_N_2_43_19_E_type:city_zoom:15_region:BE|51° 3' NB, 2° 43' OL}}
+[[categorie:Plekke in West-Vloandern]]
+[[categorie:Veurne]]
+[[nl:Eggewaartskapelle]]
