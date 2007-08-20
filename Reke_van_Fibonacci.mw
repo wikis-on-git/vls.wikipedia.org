@@ -2,7 +2,8 @@ De '''Reke van Fibonacci''' is e begrip uut de [[wiskunde]]. 't Goat ovre e spec
 
 == De Fibonacci-reke ==
 De Fibonacci-reke is oneindig. 't Begunt me [[0 (getal)|nul]] en [[1 (getal)|êen]]. Je krygt de reke deur ossan de somme te moak'n van de latste twêe getalln:
- 0 + 1 = 2
+ 0 + 1 = 1
+ 1 + 1 = 2
  1 + 2 = 3
  2 + 3 = 5
  3 + 5 = 8
