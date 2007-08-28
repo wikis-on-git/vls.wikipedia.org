@@ -1,0 +1,21 @@
+''''n Quaternioon''' is 'n uutbreidinge van de [[complexe getalln]]. In de plekke van 2 dimensies zyn d'er 4. D' [[algebra]] van quaternioonn is gemakt deur [[William Rowan Hamilton]].
+
+'n Quaternion q schryv' je 
+:<math>q=a+b\cdot i+c\cdot j+d\cdot k</math> woaby da a,b,c,d [[reële getalln]] zyn.
+In vergelykinge met de complexe getalln zyn d'er dus 2 bykommende êenheden: j en k.
+
+Reeknregels:
+
+:<math>i^2 = j^2 = k^2 = i\cdot j\cdot k = -1</math>
+
+Doaruut volgt da:
+
+:<math>i\cdot j = -j\cdot i = k</math>
+:<math>j\cdot k = -k\cdot j = i</math>
+:<math>k\cdot i = -i\cdot k = j</math>
+
+De vermenigvuldiginge van quaternioonn is dus nie [commutatief]].
+
+Quaternioonn zyn de latste joaren mêer en mêer gebruukt. Ze kommn an bod by rotoasjes in vier dimensjes mo de bekendste toepassinge zit in de relatieve posiesjebepoalinge in driedimensjenêle computerprogramma's en in de ruumtevaart.
+
+[[Categorie:Wiskunde]]
