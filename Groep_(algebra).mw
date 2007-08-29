@@ -1,7 +1,7 @@
 '''Ne groep''' is in wiskunde 'n [[verzoamelienge]] met doaby 'n bewerkinge die an 'n antal eigenschappn vuldoet. 
 De theorie van de groepn is ontwikkeld deur [[Evariste Galois]].
 
-'''Definisje'''
+==Definitie==
 
 Ne groep <math>(G, *)</math> is 'n nie-lege verzoamelinge G me 'n bewerkinge <math> * : 
 G \times G \rightarrow G</math> me de volgende eigenschappn:
@@ -15,15 +15,51 @@ Ne groep moe nie nôodzakelijk [[commutatief]] zyn:
 * ''[[Commutativiteit]]'': <math>\forall a,b \in G: a*b = b*a</math>
 Ne groep die wel commutatief is, noemn we ne ''commutatieve '' of ''abelse groep'' (noa [[Niels Abel]]).
 
-
-'''Eigenschappn'''
+==Eigenschappn==
 
 * 't Neutroal element is ênig.
 * 't Invers element is ênig.
 
-'''Vôorbilden'''
-
+==Vôorbilden==
 De [[gehêle getalln]] met de optellinge, is ne ''commutatieve groep'':('''<math>\mathbb{Z}</math>''', +).
 * De [[reële getalln]] (zonder nul) met de vermenigvuldiginge is ne ''commutatieve groep'':('''<math>\mathbb{R}</math>'''\{0}, ·).
 
 [[Categorie:Wiskunde]]
+
+[[af:Groep (wiskunde)]]
+[[ar:زمرة (رياضيات)]]
+[[bg:Група (алгебра)]]
+[[ca:Grup (matemàtiques)]]
+[[cs:Grupa]]
+[[cy:Grŵp (mathemateg)]]
+[[da:Gruppe (matematik)]]
+[[el:Ομάδα]]
+[[en:Group (mathematics)]]
+[[eo:Grupo (algebro)]]
+[[es:Grupo (matemática)]]
+[[et:Rühm (matemaatika)]]
+[[fa:گروه (ریاضی)]]
+[[fi:Ryhmä (algebra)]]
+[[fr:Groupe (mathématiques)]]
+[[he:חבורה (מבנה אלגברי)]]
+[[hr:Grupa (matematika)]]
+[[hu:Csoport]]
+[[id:Grup (matematika)]]
+[[it:Gruppo (matematica)]]
+[[ja:群 (数学)]]
+[[ko:군 (수학)]]
+[[lt:Grupė (algebra)]]
+[[no:Gruppe (matematikk)]]
+[[nov:Grupe]]
+[[pl:Grupa (matematyka)]]
+[[pt:Grupo (matemática)]]
+[[ro:Grup (matematică)]]
+[[ru:Группа (математика)]]
+[[sk:Grupa (matematika)]]
+[[sl:Grupa (matematika)]]
+[[sr:Група (математика)]]
+[[sv:Grupp (matematik)]]
+[[th:กรุป (คณิตศาสตร์)]]
+[[uk:Група (математика)]]
+[[zh:群]]
+[[zh-classical:群 (代數)]]
