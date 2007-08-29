@@ -1,3 +1,29 @@
-'''ne groep''' is in wiskunde 'n [[verzoamelinge]] met doaby 'n bewerkinge die an 'n antal eigenschappn vuldoet. 
+'''Ne groep''' is in wiskunde 'n [[verzoamelinge]] met doaby 'n bewerkinge die an 'n antal eigenschappn vuldoet. 
+De theorie van de groepn is ontwikkeld deur [[Evariste Galois]].
 
-(de reste volgt ...)
+'''Definisje'''
+
+Ne groep <math>(G, *)</math> is 'n nie-lege verzoamelinge G me 'n bewerkinge <math> * : 
+G \times G \rightarrow G</math> me de volgende eigenschappn:
+
+* ''Inwendig en overol gedefinieerd'': <math>\forall a, b \in G: a*b \in G </math>
+* ''[[Associativiteit]]'': <math>\forall a, b, c \in G: (a*b)*c = a*(b*c) = a*b*c </math>. 
+* ''[[Neutroal element]]'' (of ''êenheidselement''): <math>\exists e: \forall a \in G: e*a = a = a*e </math>
+* ''[[Invers element]]'' (of ''symmetrisch element''): <math>\forall a \in G : \exists a^{-1} \in G: a*a^{-1} = e = a^{-1}*a</math>.
+
+Ne groep moe nie nôodzakelijk [[commutatief]] zyn:
+* ''[[Commutativiteit]]'': <math>\forall a,b \in G: a*b = b*a</math>
+Ne groep die wel commutatief is, noemn we ne ''commutatieve '' of ''abelse groep'' (noa [Niels Abel]]).
+
+
+'''Eigenschappn'''
+
+* 't Neutroal element is ênig.
+* 't Invers element is ênig.
+
+'''Vôorbilden'''
+
+De [[gehêle getalln]] met de optellinge, is ne ''commutatieve groep'':('''<math>\mathbb{Z}</math>''', +).
+* De [[reële getalln]] (zonder nul) met de vermenigvuldiginge is ne ''commutatieve groep'':('''<math>\mathbb{R}</math>'''\{0}, ·).
+
+[Categorie:Wiskunde]
