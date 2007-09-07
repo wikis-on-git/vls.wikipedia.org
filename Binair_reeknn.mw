@@ -1,7 +1,7 @@
 '''Binair reeknn''' is e maniere va reeknn woaby da idder getal is vôorngesteld deur e reke van de cyfers 1 en 0.
 
 == 't Verschil mè geweune reeknn ==
-Telln tôt tiene lyk da w'ollemoale geleird èn in de lagere schole, is eignlik telln up oez vingers (twei kêer vuve). Da è de boasis van oes tiendêlig stelsel, eignlik 't stelsel woarin datter een nul en d'andere neegn cyfers zyn.
+Telln tôt tiene lik da w'ollemoale geleird èn in de lagere schole, is eignlik telln up oez vingers (twei kêer vuve). Da è de boasis van oes tiendêlig stelsel, eignlik 't stelsel woarin datter een nul en d'andere neegn cyfers zyn.
 
 D'er bestoat vôor oeze latste vingr pertank gin symbool. We moetn content zyn mè 1 en 0 om 't getal 10 te vormn.
 
@@ -96,48 +96,48 @@ Ai j’ da maal 4 doe gift dat 21.
 
 Nu dêeln 10101 deur 100.
 
-:100 binair è gelyk an 4 tiendêlig
+:100 binair è gelik an 4 tiendêlig
 
 Da gift 101,01.
 
-:dus 5,25 è gelyk an 101,01
+:dus 5,25 è gelik an 101,01
 
 Ai je nu
 
     101,01
  +  101,01
  ---------
-   1010,10     en da è gelyk an 10,5 (tiendeilig)
+   1010,10     en da è gelik an 10,5 (tiendeilig)
 
 Ai je nu
 
    1010,10
  + 1010,10
  ---------
-  10101,00     en da è gelyk an 21 (tiendeilig)
+  10101,00     en da è gelik an 21 (tiendeilig)
 
 == Zoa zie j’ da olles achter de komma ezoa kan uutgelei wordn ==
 Den elft:
-:è gelyk an 0,1
+:è gelik an 0,1
 
 E kartje è den elft van den elft (of dêeln deur tiene)
-:è gelyk an 0,01
+:è gelik an 0,01
 
 't Achtste è den elft van e kartje (of dêeln deur tiene)
-:è gelyk an 0,001
+:è gelik an 0,001
 
 Doe moar zô vôort.
 
-A j’die drie uptelt dan è j’ 0,111 en in ’t diendêlig è da natuurlik 0,5 + 0,25 + 0,125 en da è gelyk an 0,875.
+A j’die drie uptelt dan è j’ 0,111 en in ’t diendêlig è da natuurlik 0,5 + 0,25 + 0,125 en da è gelik an 0,875.
 
-A j’ nu 0,111 moal 10 doe è j’ 1,11 en da gelyk an 1,75 in tiendêlig. Inderdoad 0,875 moal 2 è 1,75.
+A j’ nu 0,111 moal 10 doe è j’ 1,11 en da gelik an 1,75 in tiendêlig. Inderdoad 0,875 moal 2 è 1,75.
 
 == Etwadde oftrekkn ==
 
   101,11  da zoe 5,75 vuve komma vuventseventig zyn in tiendêlig
  -  1,01  da zoe 1,25 êen komma vuventwintig zyn in tiendêlig
  -------
-  100,10  en da è gelyk an 4,5 (tiendêlig)
+  100,10  en da è gelik an 4,5 (tiendêlig)
 
 == Ommezettn van de tiendêlige getalln noa binair en omgekêerd ==
 Oe zet je byvôorbeeld 107 omme na binair?
@@ -177,8 +177,8 @@ Bevôorbild: 10110101
 
 Je zied’ier da ‘t ginne achter de komma uutgelei kan wordn op de maniere van de machtn van 0,5 of 2 tôt de negatieve machtn.
 
-:107,578125 è gelyk an 1101011 + 0,100101 in 't binair
-:107,578125 è gelyk an 1101011,100101 in 't binair
+:107,578125 è gelik an 1101011 + 0,100101 in 't binair
+:107,578125 è gelik an 1101011,100101 in 't binair
 
 Omgekêerd: vo 'n binair getal achter de komma omme te zetten noa decimoal:</br> 
 Bevôorbild: 0,100101 ( er zyn 6 siffers achter de komma)</br>
@@ -210,7 +210,7 @@ De binaire mannekes zulln dan ôver ons stelsel spreek'n van 't 1010-dêlige ste
 
 De mannekes mè 't an elk and '''acht''' vingers. Zoa telln ze zunder:
 :0 = nietn (1 2 3 4 5 6 7 8) (9 A B C D E F 10) (11 12 13 14 15 16 17 18) (19 1A 1B 1C 1D 1E 1F 20) (21 22 23 24 25 26 27 28) (29 2A 2B 2C 2D 2E 2E 30)
-Iedr groepke è êen and d'rby. Da è 't '''hexadecimoal''' of '''zestiendêlig''' stelsel. Ze gebruuk'n da vele in d'[[informatica]], surtout by de [[programmoasje]] in [[assembler]] of [[machinecode]] lyk alternatief vo zuvere binaire code want da zoe elegansn onleesbaar zyn.
+Iedr groepke è êen and d'rby. Da è 't '''hexadecimoal''' of '''zestiendêlig''' stelsel. Ze gebruuk'n da vele in d'[[informatica]], surtout by de [[programmoasje]] in [[assembler]] of [[machinecode]] lik alternatief vo zuvere binaire code want da zoe elegansn onleesbaar zyn.
 
 
 Ier zie j'oe da je 255 schrift in tiendêlige, in 't octoale, in 't binair en in 't hexadecimoale:
