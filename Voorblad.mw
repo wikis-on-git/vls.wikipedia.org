@@ -45,6 +45,15 @@ Ier begunt de kolonne lienks
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff" 
 
 <!---------------------------------
+Artikel van de moand
+----------------------------------->
+! style="background-color: #F0F3CD; border: 1px solid #DDDDA4; text-align: left; padding-left: 7px"  | <center> '''Artikel van de moand''' </center>
+|-
+| {{bofartikel}} <br clear="all" />
+<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''bewerkn''</span>
+|-
+
+<!---------------------------------
 Nieuws
 ----------------------------------->
 ! style="background-color: #DCF4CC; border: 1px solid #9EE072; text-align: left; padding-left: 7px"  | <center> '''Nieuws''' </center>
@@ -69,15 +78,6 @@ En andje toesteek'n
 |-
 | {{Belangryke uproepn}} <br clear="all" />
 <span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''[[Patrôon:Belangryke uproepn|bewerkn]]''</span>
-|-
-
-<!---------------------------------
-Artikel van de moand
------------------------------------>
-! style="background-color: #F0F3CD; border: 1px solid #DDDDA4; text-align: left; padding-left: 7px"  | <center> '''Artikel van de moand''' </center>
-|-
-| {{bofartikel}} <br clear="all" />
-<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em"> ''bewerkn''</span>
 |-
 
 |}
