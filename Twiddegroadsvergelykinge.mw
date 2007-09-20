@@ -1,0 +1,19 @@
+'n '''twiddegroadsvergelykinge''' of '''kwadroatische vergelykinge''' is 'n [[vergelykinge (wiskunde)|vergelykinge]] van de vorme
+
+:<math>\,ax^2 + bx + c = 0</math>,
+
+waarin da a, b en c ([[reële getalln|reële]] of [[complexe getalln|complexe]]) constanten zyn, met <math>a \not = 0</math>. 
+
+
+==Algemêne uplossingsmethode== 
+Het getal D = b²- 4ac noemn we den [[discriminant]] van de vergelykinge. 
+
+D'er zyn drie gevalln:
+
+*''D'' > 0,  toen zyn d'er twêe verschillende reële uplossingn ''x''<sub>1</sub> en ''x''<sub>2</sub>.
+*''D'' = 0,  toen zyn d'er twêe gelykige reële uplossingn ''x''<sub>1</sub> = ''x''<sub>2</sub>.
+*''D'' < 0,  toen zyn d'er gen reële uplossingn (wel complexe uplossingn).
+
+D' uplossingn worden bepoald me de formulen:
+
+:<math>x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}</math>.
