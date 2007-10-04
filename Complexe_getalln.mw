@@ -9,7 +9,7 @@ Een complex getal es gedefinieerd als a + bi, woaby dat a, b reële getalln zyn.
 't Getal a noemn we 't reële dêel, 't getal b 't imaginair dêel van 't complex getal.
 Oe a = 0 toen èje 'n zuver imaginair getal, oe b = 0 toen èje 'n reëel getal. Dus <math>\mathbb{R}</math> es 'n dêelverzoamelinge van <math>\mathbb{C}</math> 
 
-Upmerkinge: in de electronica gebruken ze 'j' in de plekke van 'i' omdat er anders verwarringe zou kunn zyn met de I van strôomsterkte.
+Upmerkinge: in de elektronica gebruken ze 'j' in de plekke van 'i' omdat er anders verwarringe zou kunn zyn met de I van strôomsterkte.
 
 == Reeknen met complexe getalln ==
 Me complexe getalln in de vorm a + bi kujje geweune reeknen, me de ofsproake da je overol i² vervangt deur -1.
