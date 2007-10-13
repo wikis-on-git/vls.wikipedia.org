@@ -34,6 +34,45 @@ De secundaire en tertiaire structuurn kunn soms vantzelfst tot stand komn, ander
 (volgt nog)
 
 ==Classificoatie==
-(volgt nog)
+Eiwitn kunn structureel of functioneel geclassificeerd wordn. By deze latstn wordn vooral de [[enzymn]] gedocumenteerd, omda proteïnn die gin enzymn zyn praktisch allêne mo e structurele functie en (uutzonderiengn omvatn o.a. [[prion]]s, et soorte eiwit da ook BSE en Creutzfeldt-Jakob verôorzakt).
 
+Qua structurele indelieng bestoan der vele databankn, die al dan nie manueel of automatisch up-to-date gehoudn wordn. De 3 grotste zyn SCOP (Structural Classification Of Proteins), CATH (Class, Architecture, Topology en Homologous superfamily) en FSSP (Families of Structurally Similar Proteins).
+
+===SCOP===
+SCOP gebruukt 4 niveaus van hiërarchische classificoatie: klasse, vouw, superfamilie en familie. De klasse sloat ip de algemêne structuur van et eiwit, de vouw sloat ip gelykoardige platsieng van secundaire structuurn (dus gelykoardige tertiare structuurn), superfamilie eit betrekkieng ip functionele en structurele homologie zoender uutgesprookn sequentie-overêenkomst en familie sloat ip et niveau van sequentiehomologie.
+
+De klassn onderscheidn deur SCOP zyn:
+
+# Compleet α-helicale eiwitn
+# Compleet β-sheet eiwitn
+# α/β domeinn die bestoan uut "beta-alpha-beta" dêeln or structurele motievn die mêestol parallelle &beta;-sheets vormn
+# α+β domeinn bestoande uut onafankelikke &alpha;-helices en veelol antiparallelle &beta;-sheets 
+# Multi-domein eiwitn 
+# [[celmembraan|Membraan]]- en celippervlakte eiwitn en peptiden (die ni meedoen int [[immuunsysteim]])
+# "Klêene" eiwitn
+# [[Coiled-coil]] eiwitn
+# Lage-resolutie eiwitstructuurn
+# Peptiden en fragmentn
+# Artificiële eiwitn mei een onnatuurlikke sequentie
+
+===CATH===
+CATH definieert 4 klasn:
+* Grotendêels α-helices
+* Grotendêels β-sheets
+* α-helices en β-sheets
+* Winnig secundaire structuurn
+
+===FSSP===
+FSSP goat uut van 330 verschillige doch representatieve eiwitkeetns<ref>http://srs.ebi.ac.uk/srsbin/cgi-bin/wgetz?-page+LibInfo+-lib+FSSP</ref>. Al de significant gelykige eiwitn (t.e.m. 70% sequentiehomologie) wordn opgenomn per eiwitkeetn. Eiwitn me mêer of 70% homologie en mêestol gin grote structurele verschiln en zyn dus gin klasse apart. De database is beschikboar ip [http://srs.ebi.ac.uk/srsbin/cgi-bin/wgetz?-page+LibInfo+-lib+FSSP].
+
+===Functionele indelieng van enzymn<ref>http://www.expasy.ch/enzyme/enzyme-byclass.html</ref>===
+#Oxidoreductasen
+#Transferasen
+#Hydrolasen
+#Lyasen
+#Isomerasen
+#Ligasen
+
+==Referenties==
+<references />
 [[Categorie:Biologie]]
