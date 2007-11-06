@@ -415,7 +415,7 @@ Afsproakn vo de SV categoriebenoamiengn:
 
 |}
 
-====Klasse: [[Kobbn]]====
+====Klasse: [[Kobbeachtigen]]====
 
 {| {{prettytable}}
 <!-- ============================================================================================ -->
@@ -427,8 +427,21 @@ Afsproakn vo de SV categoriebenoamiengn:
 |-
 
 <!-- ---------------- KLASSE ------------------------------- -->
-| || || colspan = "8" | [[Kobbn]] ([[Arachnida]]) 
+| || || colspan = "8" | [[Kobbeachtigen]] ([[Arachnida]]) 
 | [[:Categorie:Kobbeachtige|Kobbeachtige]] 
+|-
+
+<!-- ------------------------------- ORDE ----------------------------------- -->
+| || || || || colspan = "6" | [[Kobbn]] ([[Araneae]]) 
+| [[:Categorie:Kobbe|Kobbe]]
+|-
+
+<!-- ------------------------------------------------ FAMILIE + GESLACHT + SORTE ---------- -->
+| || || || || || ||
+| 
+| 
+| [[Uuskobbe]]
+| 
 |-
 
 <!-- ------------------------------- ORDE ----------------------------------- -->
