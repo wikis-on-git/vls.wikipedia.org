@@ -1,0 +1,123 @@
+{{Infobox Belgische deelgemeente|
+|kaart1=[[Ofbeeldienge:BooitshoekeLocation.svg|300px]]
+|naam= Bôoitsouke
+|provincie=WVLA
+|gemeente=[[Veurne]]
+|latitudeGraden=51
+|latitudeMinuten=05
+|latitudeSeconden=16
+|longitudeGraden=02
+|longitudeMinuten=44
+|longitudeSeconden=38
+|opp=3,35
+|inw=94
+|datum=10/10/2007
+|dichtheid=29
+|postcode=8630
+|}}
+'''Bôoitsouke''' is e klêne polderparochie en sedert 1971 e dêelgemêente va [[Veurne]]. 't Weunn in 't hêle nog gin [[100 (getal)|ounderd]] menschn.
+
+==Geschiedenisse==
+Bôoitsouke is in 1190 e [[parochie (kerke)|parochie]] ekomn, doavôorn viel et oender [[Wulpn]]. ''Boidenkinshoucke'' is en oude schryfwyze. 
+
+==Beziensweirdigeedn==
+[[Image:Booitshoeke - Sint-Audomaruskerk 1.jpg|thumb|left|Sint-Audomaruskerke]]
+*Sint-Audomaruskerke: loat-gotische zoalkerke. Sedert 1971 is 't e beschermd monument. 
+<br clear="all"/>
+
+==Demogroafische ountwikkelienge==
+<timeline>
+Colors=
+  id:a value:gray(0.9)
+  id:b value:gray(0.7)
+  id:c value:rgb(1,1,1)
+  id:d value:rgb(0.6,0.7,0.8)
+
+ImageSize  = width:700 height:373
+PlotArea   = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:200
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:b increment:25 start:0
+ScaleMinor = gridcolor:a increment:5 start:0
+BackgroundColors = canvas:c
+
+BarData=
+  
+  bar:1806 text:1806
+  bar:1816 text:1816
+  bar:1830 text:1830
+  bar:1846 text:1846
+  bar:1856 text:1856
+  bar:1866 text:1866
+  bar:1876 text:1876
+  bar:1880 text:1880
+  bar:1890 text:1890
+  bar:1900 text:1900
+  bar:1910 text:1910
+  bar:1920 text:1920
+  bar:1930 text:1930
+  bar:1947 text:1947
+  bar:1961 text:1961
+  bar:1970 text:1970
+  bar:1981 text:1981
+  bar:1991 text:1991
+  bar:1999 text:1999
+  bar:2007 text:2007
+
+PlotData=
+  color:d width:20 align:left
+
+  bar:1806 from:0 till: 132
+  bar:1816 from:0 till: 129
+  bar:1830 from:0 till: 119
+  bar:1846 from:0 till: 142
+  bar:1856 from:0 till: 132
+  bar:1866 from:0 till: 162
+  bar:1876 from:0 till: 172
+  bar:1880 from:0 till: 178
+  bar:1890 from:0 till: 164
+  bar:1900 from:0 till: 155
+  bar:1910 from:0 till: 170
+  bar:1920 from:0 till: 165
+  bar:1930 from:0 till: 178
+  bar:1947 from:0 till: 171
+  bar:1961 from:0 till: 150
+  bar:1970 from:0 till: 101
+  bar:1981 from:0 till: 100
+  bar:1991 from:0 till: 100
+  bar:1999 from:0 till: 81
+  bar:2007 from:0 till: 96
+
+PlotData=
+
+  bar:1806 at: 132 fontsize:s text: 132 shift:(-10,5)
+  bar:1816 at: 129 fontsize:S text: 129 shift:(-10,5)
+  bar:1830 at: 119 fontsize:S text: 119 shift:(-10,5)
+  bar:1846 at: 142 fontsize:S text: 142 shift:(-10,5)
+  bar:1856 at: 132 fontsize:S text: 132 shift:(-10,5)
+  bar:1866 at: 162 fontsize:S text: 162 shift:(-10,5)
+  bar:1876 at: 172 fontsize:S text: 172 shift:(-10,5)
+  bar:1880 at: 178 fontsize:S text: 178 shift:(-10,5)
+  bar:1890 at: 164 fontsize:S text: 164 shift:(-10,5)
+  bar:1900 at: 155 fontsize:S text: 155 shift:(-10,5)
+  bar:1910 at: 170 fontsize:S text: 170 shift:(-10,5)
+  bar:1920 at: 165 fontsize:S text: 165 shift:(-10,5)
+  bar:1930 at: 178 fontsize:S text: 178 shift:(-10,5)
+  bar:1947 at: 171 fontsize:S text: 171 shift:(-10,5)
+  bar:1961 at: 150 fontsize:S text: 150 shift:(-10,5)
+  bar:1970 at: 101 fontsize:S text: 101 shift:(-10,5)
+  bar:1981 at: 100 fontsize:S text: 100 shift:(-10,5)
+  bar:1991 at: 100 fontsize:S text: 100 shift:(-10,5)
+  bar:1999 at: 81 fontsize:S text: 81 shift:(-10,5)
+  bar:2007 at: 94 fontsize:S text: 94 shift:(-10,5)
+</timeline>
+<br clear="left">
+<small>Bronn: NIS, www.westhoek.be en Stad Veurne. Opm:1806 t/m 1991=vookstelliengn; 1999=iweunersaantal up 1 januoari; 2007=iweunersaantal up 10 oktober</small>
+
+{{commonscat|Booitshoeke}}
+{{Veurne}}
+{{coördinaten|51_5_10_N_2_44_35_E_type:city_zoom:14_region:BE|51° 5' NB, 2° 45' OL}}
+[[categorie:Veurne]]
+[[categorie:Plekke in West-Vloandern]]
