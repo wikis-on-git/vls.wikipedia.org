@@ -1,0 +1,50 @@
+'n '''Vergelykinge''' in de [[wiskunde]] is 'n gelykeid woarin da twêe uutdrukkingn, met êen of mêer ounbekenden, met mekoar vergeleekn zyn.
+
+Mêestol worden d'ounbekenden geschreevn met letters van 't ende van 't alfabet (x, y, z). Vo de [[constante|constanten]] in 'n vergelykinge, zyn da letters uut 't begun van 't alfabet (a, b, c). Die constanten krygn ôok de noame ''coëfficiënt''.
+
+'n ''Uplossinge'' van de vergelykinge is 'n getal daj moet invulln up de platse van d'oenbekende vo 'n gelykeid te bekommn.
+
+==Sôorten vergelykingn==
+
+* [[Veeltermvergelykinge|''Veeltermvergelykingn'']]: vergelykingn daj kunt erleiden noar 'n vergelykinge met in 't lienkerlid 'n [[veelterm]] en in 't rechterlid 0.
+:De coëfficiëntn kunn [[reële getalln|reële]] of [[complexe getalln]] zyn.
+
+:Veeltermvergelykingn zyn verder ounder te verdêeln noa de groad van de veelterm, dad is den ôogst vôorkommenden exponent van d'ounbekende:
+
+:Vôorbildn:
+
+:ax+b=0: [[êestegroadsvergelykinge]]
+:ax²+bx+c=0: [[twiddegroadsvergelykinge]]
+
+:D'ôofdstellinge van d'algebra (ôok de stellinge van [[d'Alembert]] genoemd), zegt dat 'n complexe veeltermvergelykinge met groad n oltied n [[nulpunt|nulpuntn]] èt.
+:By reële vergelykingn zyn d'er dus ''ôogstens'' n nulpuntn.
+
+* [[Goniometrische vergelykinge|''Goniometrische vergelykingn'']]: vergelykingn woa dat d'ounbekende 't argument is van 'n [[goniometrisch getal]].
+
+:Vôorbild:
+
+:sin2x + cos3x = 1
+
+* [[Rationoale vergelykinge|''Rationoale vergelykingn'']]: vergelykingn woa da d'ounbekende in de noemer van 'n breuke stoat.
+
+:Vôorbild:
+
+:<math>\frac{5x +2}{3x - 4}= 1</math>
+
+* [[Irrationoale vergelykinge|''Irrationoale vergelykingn'']]: vergelykingn woa da d'ounbekende ounder 'n worteltêekn stoat.
+
+:Vôorbild:
+
+:<math>\sqrt{x-4} = x - 1</math>
+
+* [[Exponentiële vergelykinge|''Exponentiële vergelykingn'']]: vergelykingn woa da d'ounbekende in den exponent stoat.
+
+:Vôorbild:
+
+: <math>2^x = 32 </math>
+
+* [[Logaritmische vergelykinge|''Logaritmische vergelykingn'']]: vergelykingn woa da d'ounbekend 't argument is van 'n [[logaritme]].
+
+:Vôorbild:
+
+:<math>{}^{5}\!\log \left (3x+1 \right)=2 </math>
