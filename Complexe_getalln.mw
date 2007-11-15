@@ -1,6 +1,6 @@
 De verzoamelinge van de '''complexe getalln''' es 'n uutbreidinge van de [[Reële getalln| reële getalln]]. De notoatie es <math>\mathbb{C}</math>.
 
-In de reële getalln bestoat er gêne vierkantwortel van 'n negatief getal. Moa in de zestienste êeuwe voenden [[Tartaglia]] en [[del Ferro]] stilletjesan 'n olgemêne uplossinge vo derdegroadsvergelykingn. En in under formule kosten d'er vierkantswortels van negatieve getalln vôren kommn. Up da moment zyn ze begunn spreekn van "imaginaire" getalln, da woaren dus vierkantswortels van negatieve getalln. Van toen of noemden ze de "geweune" getalln reële getalln.
+In de reële getalln bestoat er gêne vierkantwortel van 'n negatief getal. Moa in de zestienste êeuwe vounden [[Tartaglia]] en [[del Ferro]] stilletjesan 'n olgemêne uplossinge vo derdegroadsvergelykingn. En in under formule kosten d'er vierkantswortels van negatieve getalln vôren kommn. Up da moment zyn ze begunn spreekn van "imaginaire" getalln, da woaren dus vierkantswortels van negatieve getalln. Van toen of noemden ze de "geweune" getalln reële getalln.
 
 == Definitie ==
 De imaginaire êenheid es genoteerd als ''i'' en dat es êen van d'uplossingen van de vergelykingen x² = -1.
@@ -39,8 +39,8 @@ Vôorbild: <math>\frac{5 - 3i}{2 + 9i} = \frac{5 - 3i}{2 + 9i}\ \frac{\overline{
 == Goniometrische vorm van 'n complex getal ==
 
 Lik of daj 'n reëel getal kunt vôrenstelln up 'n rechte, kun je 'n complex getal vôrenstelln in 'n vlak. 't Reëel dêel van 't complex getal stoat up de x-asse, 't imaginair dêel up de y-asse.
-Den ofstand van de ôorsproeng van 't assenstelsel toet an 't punt wordt de 'modulus' genoemd en wordt 'r' genoteerd. 
-Den oek tussen de positieve kant van de x-asse en 't bêen dat de ôorsproeng met 't punt verbindt, es 't 'argument' en es genoteerd met de Griekse letter θ (teta).
+Den ofstand van de ôorsproung van 't assenstelsel toet an 't punt wordt de 'modulus' genoemd en wordt 'r' genoteerd. 
+Den oek tussen de positieve kant van de x-asse en 't bêen dat de ôorsproung met 't punt verbindt, es 't 'argument' en es genoteerd met de Griekse letter θ (teta).
 't Argument stoat in [[radialen]] en nie in zestigdêlige groaden.
 [[Ofbeeldienge:complexgetalgoniometrisch.jpg|thumb|right|Goniometrische vorm van 'n complex getal]]
 :<math>\, a + bi = r(\cos(\theta) + i \sin(\theta))</math>,
