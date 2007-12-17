@@ -1,8 +1,8 @@
-''''n Quaternioon''' is 'n uutbreidinge van de [[complexe getalln]]. In de plekke van 2 dimensies zyn d'er 4. D' [[algebra]] van quaternioonn is gemakt deur [[William Rowan Hamilton]].
+''''n Quaternioon''' is 'n uutbreidinge van de [[complexe getalln]]. In de plekke van 2 dimensjes zyn d'er 4. D' [[algebra]] van quaternioonn is gemakt deur [[William Rowan Hamilton]].
 
 'n Quaternion q schryv' je 
 :<math>q=a+b\cdot i+c\cdot j+d\cdot k</math> woaby da a,b,c,d [[reële getalln]] zyn.
-In vergelykinge met de complexe getalln zyn d'er dus 2 bykommende êenheden: j en k.
+In vergelykinge met de complexe getalln zyn d'er dus 2 bykommende êenheedn: j en k.
 
 Reeknregels:
 
@@ -14,8 +14,8 @@ Doaruut volgt da:
 :<math>j\cdot k = -k\cdot j = i</math>
 :<math>k\cdot i = -i\cdot k = j</math>
 
-De vermenigvuldiginge van quaternioonn is dus nie [commutatief]].
+De vermenigvuldiginge van quaternioonn is dus nie [[commutatief]].
 
-Quaternioonn zyn de latste joaren mêer en mêer gebruukt. Ze kommn an bod by rotoasjes in vier dimensjes mo de bekendste toepassinge zit in de relatieve posiesjebepoalinge in driedimensjenêle computerprogramma's en in de ruumtevaart.
+Quaternioonn zyn de latste joarn mêer en mêer gebruukt. Ze kommn an bod by rotoasjes in vier dimensjes mo de bekendste toepassinge zit in de relatieve posiesjebepoalinge in driedimensjenêle computerprogramma's en in de ruumtevaart.
 
 [[Categorie:Getal]]
