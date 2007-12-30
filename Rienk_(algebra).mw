@@ -1,0 +1,21 @@
+'''Ne rienk''' is in wiskunde 'n [[verzoamelienge]] met doaby 2 bewerkingn die an 'n antal eigenschappn vuldoen. 
+De theorie van de rienk is ountwikkeld deur [[Emmy Noether]], de belangrikste vrouwelikke wiskundige uut de geschiedenisse.
+
+==Definitie==
+
+Ne rienk <math>(R,+,*)</math> is 'n nie-lege verzoamelinge R me 2 bewerkingn ("uptellinge" en "vermenigvuldiginge") <math> + : R \times R \rightarrow R</math> en <math> * :R \times R \rightarrow R</math> me de volgende eigenschappn:
+
+* ''Inwendig en overol gedefinieerd'': <math>\forall a, b \in R: a+b \in R en a*b \in R </math>
+* ''[[Associativiteit]]'': <math>\forall a, b, c \in R: (a+b)+c = a+(b+c) = a+b+c</math> en <math> (a*b)*c = a*(b*c) = a*b*c </math>. 
+* ''[[Neutroal element]]'' (of ''êenheidselement'') vo d'uptellinge: <math>\exists 0: \forall a \in R: a+0 = a = O+a </math>
+* ''[[Invers element]]'' (of ''symmetrisch element'') vo d'uptellinge: <math>\forall a \in R : \exists -a \in R: a + (-a) = 0 = -a + a</math>.
+* ''[[Distributiviteit]]'' van de vermenigvuldiginge t.o.v. d'uptellinge: <math>\forall a, b, c \in R: (a+b)*c = a*c + b*c</math> en <math> a*(b+c) = a*b + a*c </math>
+
+==Eigenschappn==
+
+* 't Neutroal element is ênig.
+* 't Invers element is ênig.
+
+==Vôorbilden==
+
+* de [[gehêel getal|gehêle getalln]], de [[reële getalln]] met d'uptellinge en vermenigvuldiginge: '''<math>\mathbb{Z}</math>''', +, .; '''<math>\mathbb{R}</math>''',+, ·
