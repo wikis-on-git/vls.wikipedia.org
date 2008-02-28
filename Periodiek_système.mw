@@ -68,7 +68,8 @@ Et '''periodiek système van d'elementn''' is e geordende rangschikkienge van al
 |
 |
 |
-|style="text-align:right;border-width:2px;border-style:solid;border-color:#888888;" width=80 height=80 rowspan=2 colspan=2 | <div style="float:left"><sup>[[Atoomnummer]]</sup></div> '''[[Element]]'''<br /><div style="text-align:center;font-size:xx-small">''[[Relatieve atoommassa|Relatieve<br/>atoommassa]]''</div>
+|
+|
 |
 |
 |
@@ -85,6 +86,8 @@ Et '''periodiek système van d'elementn''' is e geordende rangschikkienge van al
 | 2
 |style="text-align:right;border-width:2px;border-style:solid;border-color:#888888;background-color:#FF9933" width=40 height=40 | <div style="float:left"><sup>3</sup></div> '''[[Lithium|Li]]''' <br /><div style="text-align:center;font-size:xx-small">''6,9412''</div>
 |style="text-align:right;border-width:2px;border-style:solid;border-color:#888888;background-color:#FF6666" width=40 height=40 | <div style="float:left"><sup>4</sup></div> '''[[Beryllium|Be]]''' <br /><div style="text-align:center;font-size:xx-small">''9,0122''</div>
+|
+|
 |
 |
 |
@@ -245,6 +248,10 @@ Et '''periodiek système van d'elementn''' is e geordende rangschikkienge van al
 *Et oud Europees système komt overêen met et oud systeem van [[IUPAC]].
 
 ===Legende===
+{|
+|+ '''Lay-out'''
+|style="text-align:right;border-width:2px;border-style:solid;border-color:#888888;" width=80 height=80 rowspan=2 colspan=2 | <div style="float:left"><sup>[[Atoomnummer]]</sup></div> '''[[Element]]'''<br /><div style="text-align:center;font-size:xx-small">''[[Relatieve atoommassa|Relatieve<br/>atoommassa]]''</div>
+|}
 
 {|
 |+ '''[[Rêeksen vant periodiek système]]'''
