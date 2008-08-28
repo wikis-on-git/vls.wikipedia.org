@@ -1,13 +1,11 @@
-En '''IP-adres''' of Internet Protocol (IP) Adres es nen nummero da deur nen ordinateur gebruukt om nen anderen ordinateur ip'n Internet Protocolair netwerk t'erkenn.
-
+En '''IP-adres''' of Internet Protocol (IP) Adres es nen nummero deur nen ordinateur gebruukt vo nen anderen ordinateur ip 'n Internet Protocolair netwerk t'erkenn.
 
 == IPv4 ==
+In weezn zyn da lange binaire nummers. Ollêne vo ze leesboarder te moakn verdêeln me ze in vier groepkes van acht bits. Oa je die vier groepkes ton appart ommerekent noar ons decimoal stelsel kryg je vier gehêle getalln van oogstens 255.
 
-In weezn zyn da lange binaire nummers. Oalêene om ze leesboarder te moakn verdêeln me ze in vier groepkes van acht bits. Oa je die vier groepkes tonn appart ommerekend noar ons decimoal stelsel krig je vier gehêele getalln van oogstens 255.
+Et grôte binaire getal wierd verdêeld in twêe stikkn. E "Netwerk" dêel en e "Gastêere" dêel. Den ordinateur gebruukt iervoorn e subnetmasker. Dat es e binair getal woavan de effectieve posities binn da getal die deur den ordinateur moetn wordn gebruukt om et netwerk te kenn wierdn angeduud me "1" en oal de reste die toen stoat vôor de nummero van den ordinateur binn da netwerk me "0". G'et drie sôortn subnetmaskers: Klasse A, B en C. Klasse A is 8 bits (et êeste octet), Klasse B is 16 bits (de êeste twêe octettn) en Klasse C es 24 bits (de êeste drie octettn).
 
-Et grôote binaire getal wierd verdêeld in twêe stikkn. E "Netwerk" dêel en e "Gastêere" dêel. Den ordinateur gebruukt iervoorn e subnetmasker. Dat es e binair getal woavan de effectieve posities binn da getal die deur den ordinateur moetn wordn gebruukt om et netwerk te kenn wierdn angeduud me "1" en oal de reste die toen stoat vôor de nummero van den ordinateur binn da netwerk me "0". G'ed drie sôortn subnetmaskers: Klasse A, B en C. Klasse A is 8 bits (et êeste octet), Klasse B is 16 bits (de êeste twêe octettn) en Klasse C es 24 bits (de êeste drie octettn).
-
-Vb. De mêeste routers zyn geconfigureerd om et netwerk 192.168.0.0/16 te gebruukn woavan de router zelve tonn 192.168.0.1 es. Da wilt zeggn dat da netwerk wierd bepoald deur e subnetmasker van 16 bits:
+Vb. De mêeste routers zyn geconfigureerd om et netwerk 192.168.0.0/16 te gebruukn woavan de router zelve ton 192.168.0.1 es. Da wilt zeggn dat da netwerk wierd bepoald deur e subnetmasker van 16 bits:
 
 {|{{prettytable}}
 |-
@@ -19,6 +17,8 @@ Vb. De mêeste routers zyn geconfigureerd om et netwerk 192.168.0.0/16 te gebruu
 |}
 
 Da makt dus da onzn ordinateur (in da geval de router) nummer 1 es van et klasse B-netwerk 192.168
+
+[[Categorie:Internet]]
 
 [[af:IP-adres]]
 [[als:IP-Adresse]]
