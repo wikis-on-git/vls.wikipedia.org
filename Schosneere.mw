@@ -1,16 +1,18 @@
-{{Taxobox_begin | color = lightgreen | name = Schosneeren}}
-{{Taxobox_image | image = [[Ofbeeldienge:Schwarzwurzeln.jpg|270px|Schosneere]]| caption = }}
-{{Taxobox_begin_placement | color = lightgreen }}
-{{Taxobox_regnum_entry | taxon = [[Plantn|Plantae]] (Plantn)}}
-{{Taxobox_divisio_entry | taxon = [[Bedektzaodihen|Magnoliophyta]] (Bedektzoadigen)}}
-{{Taxobox_classis_entry | taxon = [[Twizaodlobbihen|Magnoliopsida]] (Twizoadlobbigen)}}
-{{Taxobox_ordo_entry | taxon = [[Asterales]]}}
-{{Taxobox_familia_entry | taxon = [[Asteraceae]] (Composietnfamielje)}}
-{{Taxobox_genus_entry | taxon = ''[[Scorzonera]]'' }}
-{{Taxobox_end_placement}}
-{{Taxobox_section_binomial_simple | color = lightgreen| binomial_name = Scorzonera hispanica}}
-{{Taxobox_image | image = [[Ofbeeldienge:Schorseneer plant Scorzonera hispanica.jpg|270px|Schorsneere]]| caption = }}
-{{Taxobox_end}}
+{{Taxobox|type= plant
+| naam= Sesnêle
+| afbeelding= Schwarzwurzeln.jpg
+| afbeeldingtekst= Sesnêeln ip e tallôre
+| rijk= [[Plantae]] (Plantn)
+| stam= [[Magnoliophyta]] (Bedektzoadigen)
+| klasse= [[Magnoliopsida]] (Twizoadlobbigen)
+| orde= [[Asterales]]
+| familie= [[Asteraceae]] (Asterachtigen)
+| geslacht= ''[[Scorzonera]]''
+| taxon= [[Sôorte]]
+| w-naam= ''Scorzonera hispanica''
+| auteur= [[Carolus Linnaeus|L.]]
+| datum= 1753 
+}}
 E '''schossenele''' of e '''sesnêle''' is e [[groensel]] da in den êesten elft van 'n vôrige eeuw redelik algemêen wos. De bynoame is winterasperge of armeluzeasperge. 
 
 't Trekt ip een [[asperge]] moa der zit e zwarte schelle round. Die pele makt da j' der zwart' and'n van krygt. 't Is vele werk voe da der of te doen. 
@@ -50,6 +52,7 @@ Schossenelen word'n ip zandground ter plekke gezoaid tussn olf april en begun me
 
 Schossenelen zyn dus êen van de zeldzoame groensels da je deur de winter kud eetn.
 [[Categorie:groensel]]
+[[Categorie:Asterachtige]]
 
 [[cs:Hadí mord španělský]]
 [[de:Garten-Schwarzwurzel]]
