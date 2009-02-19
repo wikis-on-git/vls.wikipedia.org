@@ -1,0 +1,224 @@
+D''''evoluusje van den miens''' es e weetnschappelikke theorie da beweirt da de [[miens]]chn lik dan ze der nu uutzien e [[soorte (biologie)|soorte]] es da g'evolueerd es uut andere soortn. [[Biologische antropologie]] es de noame van 'n weetnschap da d'evoluusje en 't gedrag van de miens lik e biologisch organisme bestudeert.
+
+Volgens die theorie zyn sommigste oapachtigen 5 miljoen joar geleen up hunder beenn begunn te loopn en zyn ze begunn mèi hunder handn te gebruukn vo diengn vaste te pakkn. Verschillige groepn hèin up verschillige plekkn geleefd en begostn up 'n deur der anders uut te ziene. Zo woarn d'r twee of drie groepn van oapn die up hunder beenn liepn, en een van die groepn wos de voorloper van de moderne mienschn. Dedie begostn simpel aloam te moakn.
+
+De weetnschappelikke (Latynsche) noame vo "miens" es ''Homo''. Den modernen miens noemt ''Homo sapiens''. ''Sapiens'' es Latyn vo "slim, 'n dien da etwuk wit". ''Homo sapiens'' wilt dus zeggn "slimmn miens".
+
+Volgens d'evoluusjetheorie es den miens g'evolueerd uut andere soortn. Den weetnschap da 't ountstoan van den miens bestudeert, noemt [[paleoantropologie]]. Paleoantropoloogn probeern uut te leggn hoe dan de mienschn hunder ountwikkeld hèin deur fossieln en andere rèistn uut et verleen t'ounderzoekn. Dienen weetnschap es ountstoan in 't begun van de 19ste eeuwe mèi d'ountdekkienge van den [[Neanderthaler]]. 
+
+==Mienschn trekkn up grote oapn==
+Teegn 1859 han sommigste deure da mienschn up bepoalde vlakkn styf goed trokkn up sommigste grote oapesoortn. 't Idee da olle soortn 't resultoat woarn van biologische evoluusje es d'r moa gekommn oe [[Charles Darwin]] in 1859 zynen boek ''On the Origin of Species'' geschreevn hèit. In 1863 schreef Darwin ''The Descent of Man, and Selection in Relation to Sex''. In dienen boek legde Darwin uut da de mienschn volgens hem g'evolueerd woarn deur 't proces van [[nateurlikke selectie]]. [[Carolus Linnaeus]] (18e eeuwe) en zyn upvolgers han ol deure da mienschn nauwe verwant woarn an grote oapn, en nog 't meest van ol weg han van [[chimpansee]]s. Chimpansees leevn in [[Afrika]], ounderzoekers giengn d'r doarom van uut da de mienschn en de grote oapn ne zelstn voorouder han die in Afrika zou geleefd hèin. Nu anveirdn olle weetnschappers nie ollene dan me wynder trekkn up grote oapn, moar ook da me wynder grote oapn zyn.
+
+==Voorouders van mienschn en grote oapn==
+{| border=0 cellspacing=2 cellpadding=0 width=800 style="font-size:smaller; clear:both;"
+|+ style="font-size:larger;"| '''[[Hominini|Hominini]] soortn verdeeld over 'n tyd'''
+<span style="float:right;"><small class="editlink noprint plainlinksneverexpand">[{{fullurl:Human evolution/Species chart|action=edit}} edit]</small></span>
+|-
+|
+<timeline>
+ImageSize  = width:700 height:400
+PlotArea   = left:20 right:70 bottom:20 top:0
+AlignBars = justify
+
+Colors =
+  id:period1  value:rgb(1,1,0.7) # light yellow
+  id:period2  value:rgb(0.7,0.7,1) # light blue
+  id:period3  value:rgb(0.7,1,0.7) # light green
+  id:events  value:rgb(1,0.3,1) # light purple
+  id:Miocene  value:rgb(1,0.8706,0) # 255/222/0
+  id:Pliocene  value:rgb(0.9961,0.9216,0.6745) # 254/235/172
+  id:Pleistocene  value:rgb(1,0.9216,0.3843) # 255/235/98
+  id:Holocene  value:rgb(1,1,0.7020) # 255/255/179
+
+Period      = from:0 till:7000000
+TimeAxis    = orientation:horizontal
+ScaleMajor  = unit:year increment:1000000 start:0
+ScaleMinor  = unit:year increment:250000 start:0
+
+BarData =
+  bar:Timelines
+  bar:buffer
+  bar:Events
+  bar:bar0
+  bar:bar1
+  bar:bar2
+  bar:bar3
+  bar:bar4
+  bar:bar5
+  bar:bar6
+  bar:bar7
+  bar:bar8
+  bar:bar9
+  bar:bar10
+  bar:bar11
+  bar:bar12
+  bar:bar13
+  bar:bar14
+  bar:bar15
+  bar:bar16
+  bar:bar17
+  bar:bar18
+  bar:bar19
+  bar:bar20
+  bar:bar21
+  bar:bar22
+  bar:bar23
+  bar:bar24
+  bar:bar25
+  bar:bar26
+  bar:bar27
+  bar:bar28
+  bar:bar29
+  bar:bar30
+  bar:bar31
+  bar:bar32
+  bar:bar33
+
+PlotData=
+  width:25  mark:(line,red)  textcolor:black
+
+  bar:Timelines  align:right  shift:(-75,0)
+
+  bar:Timelines  align:center  shift:none
+  from:5332000  till:end  color:Miocene  text:[[Mioceen]]
+  from:1806000  till:5332000  color:Pliocene  text:[[Plioceen]]
+  from:11500  till:1806000  color:Pleistocene  text:[[Pleistoceen]]
+#  from:0  till:11500  color:Holocene  align:left  text:[[Holoceen]]
+
+  bar:Events  color:events  align:right  shift:(-5,-10)
+    at:6000000  text:"Schiddienge tusschn mienschn en chimpansees, ca. 6 Ma"
+
+  width:7  mark:none  color:events  align:right  shift:(-5,-4)
+
+  bar:bar2
+    from:6000000  till:7000000
+    at:6000000  text:[[Sahelanthropus tchadensis]]
+  bar:bar4
+    from:5800000  till:6100000
+    at:5800000  text:Oudste beenn gevoundn in Kenya, ca. 6 Ma
+    at:6100000  align:left  shift:(5,-4)  text:[[Orrorin tugenensis]]
+
+  align:left  shift:(5,-4)
+
+  bar:bar9
+    from:5200000  till:5800000
+    at:5800000  text:Ar. kadabba
+  bar:bar11
+    from:4200000  till:5400000
+    at:5400000  text:Ar. ramidus
+
+  bar:bar13
+    from:3900000  till:4400000
+    at:4400000  text:[[Australopithecus anamensis|A. anamensis]]
+  bar:bar15
+    from:3000000  till:3900000
+    at:3900000  text:[[Australopithecus afarensis|A. afarensis]]
+  bar:bar17
+    from:3000000  till:3500000
+    at:3500000  text:[[Australopithecus bahrelghazali|A. bahrelghazali]]
+  bar:bar19
+    from:2400000  till:3300000
+    at:3300000  text:[[Australopithecus africanus|A. africanus]]
+  bar:bar21
+    from:2000000  till:3000000
+    at:3000000  text:[[Australopithecus garhi|A. garhi]]
+
+  bar:bar23
+    from:1440000  till:2500000
+    at:2500000  text:[[Homo habilis|H. habilis]]
+  bar:bar25
+    from:1800000  till:1800000
+    at:1800000  text:[[Homo georgicus|H. georgicus]]
+  bar:bar25
+    from:13000  till:94000
+    at:94000  text:[[Homo floresiensis|H. floresiensis]]
+  bar:bar27
+    from:300000  till:1800000
+    at:1800000  text:[[Homo erectus|H. erectus]]
+  bar:bar29
+    from:250000  till:600000
+    at:600000  text:[[Homo heidelbergensis|H. heidelbergensis]]
+  bar:bar31
+    from:29000  till:230000
+    at:230000  text:[[Homo neanderthalensis|H. neanderthalensis]]
+  bar:bar33
+    from:0  till:200000
+    at:200000  text:[[Homo sapiens|H. sapiens]]
+
+  bar:bar10
+    from:2500000  till:2700000
+    at:2700000  text:[[Paranthropus aethiopicus|P. aethiopicus]]
+  bar:bar8
+    from:1400000  till:2600000
+    at:2600000  text:[[Paranthropus boisei|P. boisei]]
+  bar:bar6
+    from:1200000  till:2000000
+    at:2000000  text:[[Paranthropus robustus|P. robustus]]
+
+  mark:none
+  bar:bar4  at:1200000  text:[[Paranthropus|Genus Paranthropus]]
+  bar:bar8  from:1165000  till:2735000  width:47  color:period1
+  bar:bar8  from:1235000  till:2665000  width:37  color:white
+
+  bar:bar7  at:4200000  text:[[Ardipithecus|Genus Ardipithecus]]
+  bar:bar10  from:4165000  till:5835000  width:31  color:Pleistocene
+  bar:bar10  from:4235000  till:5765000  width:21  color:white
+
+  bar:bar21  at:4435000  text:[[Australopithecus|Genus Australopithecus]]
+  bar:bar17  from:1965000  till:4435000  width:77  color:period2
+  bar:bar17  from:2035000  till:4365000  width:67  color:white
+
+  bar:bar33  at:2535000  text:[[Homo (genus)|Genus Homo]]
+  bar:bar28  from:0  till:2535000  width:93  color:period3
+  bar:bar28  from:50000  till:2465000  width:83  color:white
+
+TextData =
+  pos:(29,14)
+  text:"Years"
+
+</timeline>
+|}
+''Upm.: 1e +06 joarn = 1 miljoen joarn = 1 Ma. (Mega-annum)'' <noinclude>
+
+'t Es moar in 1924 da Raymond Dart vo 'n eestn kee nen voorloper van den modernen miens hèit gevoundn in Taung, in [[Zuud-Afrika]]. Je noemd'hem die soorte de ''[[Australopithecus africanus]]'', letterlik vertoald: zudelikkn Afrikoanschn oap. Die soorte had moar letter hèisens (410 cm³, ne modernen miens hèit er 1260 cm³) moa ze trokkn toch meer up d'hèisens van ne miens dan van chimpansees of gorilla's. En doaby, z'han moar klene hoektandn en je kost'hem an 't skelet ziene dan ze zynder up hunder beenn roundliepn. Ol die zoakns overtuugden Dart dat 'n hem nen mienschelikkn voorloper had gevoundn die en overgangssorte wos tusschn d'oapn en mienschn. 't Hèit 20 joar gedeurd vo da Dart au sérieux wos genoomn, achter dan der meer (deeln van) skelettn woarn gevoundn. 
+
+Australopithecus africanus leefde 2 à 3 miljoen joar geleen. In 1974 zyn der fossieln van oudere australopitheci gevoundn gewist die tout 3,8 miljoen joar oud zoudn zyn.
+
+D'r es nu nog osan veel discuusje of da de australopitheci wel of gin voorlopers woarn van den modernen miens. De letste joarn es der ne consensus gegruujd ounder weetnschappers die vindn da A. africanus primitieve trekkn hèit en doarom verounderstelln ze zynder da A. africanus à peu près 2,7 miljoen joar geleen es g'evolueerd in e meer moderne soorte, de ''[[Paranthropus]]''.
+
+Over de voddere evoluusje van Paranthropus es der gin eensgezindheid. Volgens sommigen es datte nen evolutionairn zytak die uutgestorvn es. Volgens andern es die soorte 2,5 miljoen joar geleen g'evolueerd in de vroegste Homo soortn lik ''Homo habilis'' of ''Homo ergaster''.
+
+Volgens resultoatn van et Chimpansee Genoom Project uut 2005 zou d'evoluusje van chimpansees en mienschn hem ruwweg 6 miljoen joar geleen geschid hèin vanuut nen gemeenschappelikken voorloper.
+
+=='t Geslacht Homo==
+[[Ofbeeldienge:Humanevolutionchart.jpg|400px|thumb|left|Evoluusje van de miens tout 2 miljoen joar geleen]]
+'t wos [[Carolus Linnaeus]] die de noame vo 't [[geslacht (biologie)|geslacht]] ''Homo'' hèit uutgevoundn. Vandoage bestoat er moar een soorte nie mee, de [[Homo sapiens]]. Er hèin nog andere soortn bestoan, moa die zyn uutgestorvn. Sommige van die soortn woarn verzekers voorouder van ''H. sapiens'', andere soortn woarn zytakkn die doodliepn. Der bestoat absoluut ginnen consensus over de evoluusje van uze soorte. Er es zels veel discuusje over wuk da j'ounder e soorte moe verstoan. Want veel fossieln zyn der nie, en ze trekkn dikkers goed up mekkoar moa zyn toch en bitje anders. 
+
+===Homo habilis===
+''[[Homo habilis]]'' wos verzekers d'eeste soorte Homo. Z'es zy g'evolueerd uut Australopithecus of Paranthropus, à peu près 2,5 miljoen joar geleen. Die mienschn han klindere kiezn en groddere hèisens dan d'oudere soortn.
+
+===Noa de Homo erectus===
+Van twee soortn die geleefd hèin 1,9 tout 1,7 miljoen joar geleen es 't nie dudelik wuk da hunder reloasje wos mèi d'andere Homo soortn.
+
+''[[Homo rudolfensis]]'' es gevoundn gewist in Kenia en es meugelikst e joungere H. habilis soorte.
+
+''[[Homo georgicus]]'' es moar in 1999 gevoundn gewist in [[Georgië]]. Meugeliks wos datte en tusschnsoorte tusschn H. habilis en H. erectus, of en oundersoorte van H. erectus.
+
+===Homo ergaster en Homo erectus===
+Vanof 1,8 miljoen joar geleen begostn bepoalde populoaties van Homo habilis groddere hèisens te krygn en begostn ze meer ountwikkelde steenn werktuugn te gebruukn. Die verschilln ollene zyn genoeg vo van en andere soorte te spreekn, de ''[[Homo erectus]]''. Meugeliks koste de Homo erectus ook ol vier moakn vo zyn eetn te kookn.
+
+Ounderzoekers discuteern over d'ofkomste van de ''[[Homo ergaster]]''. Ofwel wos 't en oundersoorte van Homo erectus ofwel en iddere soorte. Je leefde van 1,9 tout 1,4 miljoen joar geleen in Afrika. Zynen schedel wos dinner en grodder (700-850 cm³) dan die van H. erectus en je makte hem werktuugn die dudelik meer g'avanceerd woarn. 't Wos d'eeste hominide die dezelste ofmetiengn had lik den modernen miens (ca. 1m90) mèi langere beenn en korter oarms dan H. erectus.
+
+===Homo heidelbergensis en Homo neanderthalensis===
+D'eeste fossieln van ''[[Homo heidelbergensis]]'' woarn gevoundn in Duutsland in 1907, loater ook in andere Europeesche landn. 't Wos d'eeste soorte hominide die in Europa geleefd hèit, tusschn 600 000 en 400 000 joar geleen. Meugeliks gebruuktn ze zynder e primitieve toale vo te communiceern mèi mekkoar.
+
+H. heidelbergensis wos verzekers den voorloper van de neanderthoalers, ''[[Homo neanderthalensis]]'', en es dus uutgestorvn. Andere peinzn da 't 'n hem (ook) de voorouder wos van den modernen miens, Homo sapiens.
+
+Neanderthoalers leefden van 150 000 tout 30 000 joar geleen. Z'hèin dus e hele periode geleefd binst dat er ook moderne mienschn woarn. D'eeste fossieln woarn gevoundn in Belgie in 1829. Volgens recent DNA-ounderzoek zyn ze zynder en aparte soorte, en gin oundersoorte van H. sapiens (Homo sapiens neanderthalensis) lik of dan sommigste peinzn. Z'han evenveel hèisens lik moderne mienschn moa ze woarn klinder en veel kloeker gebouwd, mèi zwoar oarms en sterk handn.
+
+===Homo floresiensis===
+Kort geleen, in 2003, hèin ze e specioale soorte van Homo sapiens gevoundn die en eigen evoluusje gevolgd hèit. Die mienschn zyn uutgestorvn round 12000 joar geleen, ze woarn zynder moar ne mèiter groot en han moar 380 cm³ heisens (minder dan ne chimpansee). De noame ''[[Homo floresiensis]]'' es genoemd achter Flores, 't [[Indonesië|Indonesisch]] eiland woa dan ze de fossieln gevoundn hèin.
+
+===Homo sapiens===
+Tusschn 400 000 en 250 000 joar geleen gruujden d'hèisens en de technologische capaciteitn van de Homo erectus. Da zoud e bewys keunn zyn dat H. erectus es g'evolueerd in ''[[Homo sapiens]]''. D'r zyn ook bewyzn da H. erectus uut Afrika es gemigreerd, en da den achtergebleevn H. erectus in Afrika toun es ountwikkeld tout H. sapiens. E twidde migroatie, dizze kee van H. sapiens vanuut Afrika zoud de idder gemigreerde H. erectus toun overol vervangn hèin. Da ''[[Out of Africa model]]'', ook wel de ''ienkele oorsprounghypothese'' genoemd, bestoat nog nie lange. Den tegenhanger da tientalln joarn lank gevolgd hèit gewist, es 't ''multiregionoal model''. Volgens da model es den modernen miens oungeveer up 't zelste moment up verschillige plekkn ountstoan.
+[[Ofbeeldienge:Evoluusje van den miens.jpg|1200px|thumb|left|Evoluusje van de miens tout 2 miljoen joar geleen]]
